@@ -1,0 +1,8812 @@
+﻿/*============= MEDIA QUERY BEGIN ==============*/
+@media (max-width: 2200px) {
+    .side_nav {
+        width: 250px;
+    }
+    .machine_listing {
+        width: calc(100% - 550px);
+    }
+    .category_text {
+        padding-left: 275px;
+    }
+    .machine_list12 ul li {
+        width: calc(25% - 15px);
+    }
+    }
+    @media (max-width: 1920px) {
+    body, .header_machineD {
+        width: 100%;
+    }
+    }
+    @media(max-width:1860px) {
+    .viewed_list {
+        width: calc(20% - 10px);
+    }
+    .latestIndex_sec4:after {
+        width: 250px;
+    }    
+    }
+    @media(max-width:1760px) {
+    .side_nav {
+        width: 230px;
+    }
+    .machine_listing {
+        width: calc(100% - 510px);
+    }
+    .category_text {
+        padding-left: 255px;
+    }
+    .availFinance_box1 h4 {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .availFinance_box1 a {
+        gap: 10px;
+    }
+    .availFinance_box1 img {
+        width: 28px;
+    }
+    .availFinance_box1 {
+        padding: 8px;
+    }
+    }
+    @media(max-width:1680px) {
+    .newMachine-form {
+        right: 16.3%;
+    }
+    .home_container {
+        max-width: calc(100% - 40px);
+    }
+    .avail_financing {
+        padding: 15px;
+        height: 220px;
+    }
+    .avail_financing img {
+        width: 100px;
+    }
+    .grid_content1 {
+        width: 100%;
+    }
+    }
+    @media (max-width: 1600px) { 
+    .dotInner {
+        gap: 8px;
+    }   
+    .dotInner .dot {
+        width: calc(25% - 6px);
+    }
+    .itemYoutube iframe {
+        height: 500px;
+    }  
+    .productImageDetail img {
+        height: 450px;
+    }
+    .dotInner .dot img {
+        height: 50px;
+    }
+    .machine_list12 ul li {
+        width: calc(33.3% - 14px);
+    }
+    }
+    @media (max-width:1540px) {
+    /*======== NEW CSS start ==========*/
+    .news_listBox .maga_box h1 {
+        font-size: 30px;
+    }
+    .latestIndex_sec4:after {
+        width: 170px;
+    }
+    }
+    @media (max-width:1440px) {
+    .authentication_box {
+        padding-left: 10%;
+    }
+    .auth_Box input, .auth_Box select {
+        width: 100%;
+    }
+    .newMachine-form {
+        right: 10.4%;
+        width: 32%;
+    }
+    .light_text h1 {
+        height: 50vh;
+    }
+    .formLogo img {
+        width: 55px;
+        filter: grayscale(1);
+    }
+    .latestIndex_sec4:after {
+        width: 130px;
+    }
+    }
+    @media(max-width:1366px) {
+    body, .header_machineD {
+        width: 100%;
+    }
+    .about_sec1 {
+        height: 500px;
+    }
+    .advertise_banner, .newMachine_banner {
+        height: 500px;
+    }
+    .blog-mainheading h2 {
+        font-size: 27px;
+        line-height: 36px;
+    }
+    .new_section, .banner_content, .banner_img, #mainBanner_txt {
+        height: 450px;
+    }
+    .brand_popular li {
+        margin-right: 189px;
+    }
+    .wanted_mach .box {
+        width: 12%;
+    }
+    .search_droplist {
+        height: 240px;
+    }
+    .drop_content {
+        padding: 10px;
+    }
+    .menu_list-fill, .menu_list-border {
+        height: 38px;
+    }
+    .menu_text ul li {
+        margin-right: 10px;
+    }
+    .download_box {
+        width: 100%;
+        float: left;
+    }
+    .brand_popular li {
+        margin-right: 115px;
+    }
+    /*====== SIGNUP PAGE ====== */
+    .shadow_box {
+        width: 68%;
+    }
+    .auth_Box .heading {
+        font-size: 26px;
+        line-height: 37px;
+        margin-bottom: 20px;
+    }
+    .menu_list-fill, .menu_list-border {
+        height: 38px;
+    }
+    .menu_text ul li {
+        margin-right: 10px;
+    }
+    .download_box {
+        width: 100%;
+        float: left;
+    }
+    .newMachine-form {
+        right: 8.4%;
+        width: 41%;
+    }
+    .light_text h1 {
+        height: 50vh;
+    }
+    .MachineDtl_sec4 {
+        margin-bottom: 60px;
+    }
+    .login_formN h3 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .newDealer_sec {
+        padding: 50px 0;
+    }
+    .about_sec1 {
+        height: 500px;
+    }
+    .about_sec2, .about_sec11 {
+        padding: 50px 0;
+    }
+    .manufact_sec3, .manufact_sec5, .about_sec5, .about_sec10 {
+        padding: 50px 0;
+    }
+    .manufact_sec1 {
+        height: 600px;
+    }
+    .about_sec8 {
+        padding-top: 50px;
+    }
+    .about_sec9 {
+        padding: 50px 0;
+    }
+    .about_sec4 .manufact_cont {
+        width: 100%;
+    }
+    .newBrands_sec2, .newBrands_sec3 {
+        padding: 50px 0;
+    }
+    .banner_sec, .mission_sec, .values_section, .capablities_sec {
+        padding: 50px 0;
+    }
+    .newapps_sec1 {
+        padding: 50px 0;
+    }
+    .newapps_sec2, .newapps_sec3, .Queries_sec {
+        padding: 50px 0;
+    }
+    .banner_sec2 {
+        padding: 50px 0;
+        height: 550px;
+    }
+    .newsletter_sec2 {
+        padding: 50px 0;
+    }
+    .newmanufacture_sec {
+        padding: 50px 0;
+    }
+    .paymentCon_sec {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .paymentCon_sec h3 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .Usedmachinelisting_sec, .Usedmachinelisting_sec1, .relatedMac_sec {
+        padding: 50px 0;
+    }
+    .pricing_sec1 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pricing_sec2, .pricing_sec3 {
+        padding-top: 50px;
+    }
+    .sell_your_requirement_sec {
+        padding: 50px 0;
+    }
+    .sell_your_requirement_sec1 {
+        padding: 50px 0;
+    }
+    .listed_machine_sec {
+        padding: 50px 0;
+    }
+    .sellon_machinedalal {
+        padding: 50px 0;
+    }
+    section.sell_your_equipment_sec {
+        padding: 50px 0;
+    }
+    .post_your_requirement_banner {
+        padding: 50px 0;
+    }
+    .post_your_requirement_section2 {
+        padding: 50px 0;
+        background: #F5F5F5;
+    }
+    .post_your_requirement_section1 {
+        padding: 50px 0;
+    }
+    .faq_sec {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .faq_sec .top_head {
+        margin-bottom: 30px;
+    }
+    .blog_sec {
+        padding: 50px 0;
+    }
+    .single_blog_sec {
+        padding: 50px 0;
+    }
+    .single_blog_sec1 {
+        padding: 50px 0;
+    }
+    .single_blog_sec .recent_box {
+        padding-top: 50px;
+    }
+    .machine_finder_sec {
+        padding: 50px 0;
+    }
+    section.dealer_sec {
+        padding: 50px 0;
+    }
+    section.more_question {
+        padding: 50px 0;
+    }
+    section.grey_color {
+        padding: 50px 0;
+    }
+    .new_content_sec1, .new_sec2 {
+        padding: 50px 0;
+    }
+    section.equipment_sec1 {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    section.spare_parts {
+        padding: 50px 0;
+    }
+    section.sparePart_sec1 {
+        padding: 50px 0;
+    }
+    .new_sec22 {
+        background: #f7f7f7;
+        padding: 50px 0;
+    }
+    section.buyer_sec {
+        padding: 50px 0;
+    }
+    .heading_text h3, .buyers_content h3, .heading_text1 h3 {
+        font-size: 44px;
+        line-height: 54px;
+    }
+    .buyers_content h3 {
+        margin-bottom: 12px;
+    }
+    .new_sec22 .heading_text {
+        margin-bottom: 15px;
+    }
+    /* .imeage-sec1 {
+        height: 200px;
+    } */
+    .heading_text1 {
+        max-width: 875px;
+    }
+    .requirement_sec1 .imeage_sec_content>img {
+        height: 420px;
+    }
+    .laIndex_sec31 h3 {
+        font-size: 33px;
+        line-height: 50px;
+    }
+    .mission_sec11 {
+        padding: 50px;
+    }
+    .laIndex_sec31 h3 span {
+        font-size: 52px;
+    }
+    section.requirement_sec1 {
+        padding: 50px 0;
+    }
+    section.mission_sec {
+        padding: 50px 0;
+    }
+    .mission_sec1 {
+        padding: 50px 0;
+        height: 600px;
+    }
+    .mission1_content .form-sec p {
+        margin-top: 70px;
+    }
+    .latestIndex_sec3 {
+        padding: 50px 0;
+    }
+    .laIndex_sec31 {
+        padding: 50px 0;
+    }
+    .latestIndex_sec2:before, .latestIndex_sec2:after {
+        width: 250px;
+    }
+    .laIndex_sec32 img {
+        width: 350px;
+    }
+    .mission_sec12 {
+        height: unset;
+    }
+    .mission1_content h4 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .form-sec label {
+        font-size: 20px;
+        line-height: 28px;
+        margin-bottom: 12px;
+    }
+    .latesSold_sec {
+        padding-top: 60px;
+    }
+    .bannerInnerData h3 {
+        font-size: 42px;
+    }
+    .view_text .form-group {
+        right: 14px;
+    }
+    section.category_sec {
+        height: 450px;
+    }
+    .category_sec #mainBanner_txt1 {
+        height: 450px;
+    }
+    .view_text .form-group {
+        right: 14px;
+    }
+    .category_text {
+        max-width: 1170px;
+        margin: 0 auto;
+        padding: 0 20px;
+        margin-bottom: 20px;
+    }
+    .category_text .nav-tabs {
+        gap: 10px;
+    }
+    .padd_10 {
+        gap: 20px;
+    }
+    .machine_listing {
+        width: calc(100% - 500px);
+    }
+    .machine_list12 ul li {
+        width: calc(50% - 10px);
+    }
+    .dotVideo figure {
+        width: 90px;
+    }
+    .dotVideo figure img {
+        height: 55px;
+    }
+    .videoContent {
+        padding-left: 100px;
+    }
+    .itemYoutube iframe {
+        height: 400px;
+    }
+    .dotsMain h3 {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    .modelCustom .modal-dialog {
+        width: 95%;
+    }
+    .tabImageDetail {
+        height: 450px;
+    }
+    .videoContent h5 {
+        margin: 0 0 3px;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .videoContent p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .videoRightInner {
+        height: 360px;
+    }
+    .dotInner .dot img {
+        height: 50px;
+    }
+    .specialFeat_list {
+        margin-left: -12px;
+    }
+    }
+    @media only screen and (max-width: 1280px) {
+    .banner_sec {
+        height: 500px;
+    }
+    .image_content {
+        padding-left: 5%;
+    }
+    .image_content1 {
+        margin-top: 25px;
+    }
+    .road_map_image img {
+        width: 70%;
+    }
+    .Presentation_sec img {
+        width: 70%;
+        margin-top: 0;
+    }
+    .capablities_sec {
+        margin-top: 50px;
+    }
+    .pink_background {
+        padding: 35px 44px;
+        height: unset;
+    }
+    .capabilites_text h3 {
+        font-size: 53px;
+        line-height: 70px;
+    }
+    .main_content h5 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .mission_sec_content_img {
+        width: 280px;
+    }
+    .image_content img {
+        width: 100%;
+    }
+    .mission_sec_content_img img {
+        top: -182px;
+    }
+    .main_content h3, .Values_text h3, .Values_text1 h3, .Values_text h3 {
+        font-size: 53px;
+        line-height: 70px;
+        margin-bottom: 15px;
+    }
+    .banner_sec_content h3 {
+        font-size: 58px;
+        line-height: 66px;
+    }
+    .banner_sec_content h5 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .newapps_sec1 {
+        height: 550px;
+    }
+    .sitemap_sec7 {
+        margin-top: 40px;
+    }
+    .sitemap_sec6 {
+        padding-top: 45px;
+        padding-bottom: 50px;
+    }
+    .paymentCon_sec {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .paymentSec_1 {
+        margin-top: 40px;
+        padding-top: 40px;
+    }
+    .paymentSec_1 ul {
+        margin: 30px 0;
+    }
+    .Usedmachinelisting_sec {
+        height: 550px;
+    }
+    .sell_your_requirement_sec, .post_your_requirement_banner {
+        height: 550px;
+    }
+    .faq_sec {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .faq_sec .top_head {
+        margin-bottom: 20px;
+    }
+    .latestIndex_sec4:after {
+        display: none;
+    }
+    .latesSold_sec .laIndex_sec2 ul {
+        gap: 21px;
+    }
+    .latesSold_sec .laIndex_sec2 ul li {
+        width: calc(33.33% - 14px);
+    }
+    .modalTabs { 
+        padding: 0 10px; 
+    }
+    .modalTabs .tab-content {
+        margin: 10px 0 0;
+    }
+    .tabImageDetail {
+        height: 450px;
+    }
+    section.category_sec, .category_sec #mainBanner_txt1 {
+        height: 400px;
+    }
+    }
+    @media (max-width: 1199px) {
+    .new_section, .banner_content, .banner_img, #mainBanner_txt {
+        height: 400px;
+    }
+    .banner_img p {
+        margin-bottom: 20px;
+    }
+    .search_btn a {
+        margin-top: 12px;
+    }
+    .dealer_image {
+        padding-right: 0;
+    }
+    .newDealer_Sec2 .machineQuery_sec1 {
+        margin-bottom: 30px;
+    }
+    .Subscription_Box {
+        padding: 30px;
+    }
+    .newMachine_login {
+        padding: 40px;
+    }
+    .newEnquiry_Form .h2Enquery {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .banner_img h3 {
+        font-size: 32px;
+        line-height: 42.66px;
+    }
+    .search_machine {
+        margin-top: 25px;
+    }
+    .authentication_box {
+        padding-left: 3%;
+    }
+    .newsletter_content h1 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .banner_tableCell h1 {
+        font-size: 32px;
+        line-height: 42.66px;
+        margin-bottom: 15px;
+    }
+    .banner_image {
+        background-size: cover;
+        background-position: right;
+    }
+    .recent_box {
+        margin-bottom: 25px;
+    }
+    .machine_sell h1 {
+        font-size: 26px;
+        line-height: 34.66px;
+        margin-bottom: 15px;
+    }
+    .product_block li:first-child {
+        margin-top: 5px;
+    }
+    .year_list {
+        line-height: 19.33px;
+        margin-bottom: 0;
+    }
+    .modal_box {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .product_content img {
+        height: 140px;
+    }
+    .year {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .view_location {
+        font-size: 12px;
+        width: 125px;
+    }
+    .download_box, .download_box .banner-height {
+        height: 350px;
+    }
+    .product_block li {
+        margin-bottom: 0;
+    }
+    .brand_popular li {
+        margin-right: 72px;
+    }
+    .main_heading {
+        font-size: 26px;
+    }
+    .machine_right {
+        width: 35%;
+    }
+    .recommend_card img {
+        height: 130px;
+    }
+    .card_border .new_Card img {
+        height: 105px;
+    }
+    .card_border .recommend_content {
+        padding: 5px 10px;
+    }
+    .card_border .modal_boxRecommend {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .card_border .recommend_card p {
+        margin-top: 5px;
+        padding-top: 5px;
+    }
+    .card_border .recommend_card .sizeRed {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .product_list .card h3 {
+        margin-bottom: 0;
+    }
+    .recommend_content {
+        padding: 10px;
+    }
+    .viewed_list img {
+        height: 65px;
+    }
+    .small_heading {
+        font-size: 17px;
+    }
+    .android_icon, .ios_icon {
+        width: 70%;
+    }
+    .ios_icon {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .ios_icon img {
+        margin-right: 5px;
+    }
+    .line_machine {
+        left: 45%;
+    }
+    .red_line {
+        margin-top: -7px;
+    }
+    .modal_boxRecommend {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+    .recommend_card p {
+        padding-top: 5px;
+    }
+    .description_box {
+        width: 100%;
+        float: left;
+    }
+    .used_mach_text h3, .machine_sidebar {
+        margin-bottom: 0;
+    }
+    .sidebar-year_list, .machine_sidebar {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .used_mach_text {
+        padding: 5px 5px 5px 10px;
+    }
+    .used_machinery {
+        height: 63px;
+    }
+    #div_machines .card {
+        padding: 7px 10px;
+    }
+    /*======== NEW CSS start ==========*/
+    .news_listBox .maga_box h1 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    /*======== NEW CSS END ==========*/
+    .blog-detail.news_listBox .maga_box h1 {
+        font-size: 36px;
+        line-height: 47px;
+    }
+    .advertise_banner, .newMachine_banner {
+        height: 450px;
+    }
+    .advertise_Sec2 .page-heading h3, .newMac_name h3 {
+        font-size: 33px;
+        line-height: 43px;
+    }
+    .downloadKit_sec {
+        padding: 40px 20px;
+        padding-bottom: 60px;
+    }
+    .downloadKit_2 img {
+        width: 70px;
+    }
+    .MachineDtl_txt h3, .features_head h3, .machineQuery_sec1 h3 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .machineQuery_sec21 textarea, .macQuery_email {
+        width: 80%;
+    }
+    .MachineDtl_sec {
+        padding-top: 30px;
+        padding-bottom: 45px;
+        margin-bottom: 35px;
+    }
+    .newMach_features, .newMach_technical, .newMach_description {
+        padding-bottom: 35px;
+    }
+    .newMach_images {
+        padding-bottom: 40px;
+    }
+    .MachineDtl_sec5 {
+        padding-bottom: 50px;
+    }
+    .usedMac_sec {
+        margin-bottom: 50px;
+    }
+    #product-slider__main .slick-slide {
+        height: 400px;
+    }
+    .machineQuery_sec {
+        padding: 30px 40px;
+    }
+    .newMach_credit_sec {
+        padding-bottom: 40px;
+    }
+    .login_formN h3 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .latestForm_table {
+        width: 100%;
+        padding: 60px 40px;
+        padding-top: 110px;
+    }
+    .manufact_sec1 {
+        height: 500px;
+    }
+    .manufact_sec31 {
+        padding-right: 0;
+    }
+    .about_sec3 .manufact_sec32 h3, .about_sec4 h3, .about_sec5 h3, .about_sec612 h3, .about_sec71 h3, .about_sec81 h3, .about_sec91 h3, .about_sec101 h3, .about_sec111 h3 {
+        font-size: 50px;
+        line-height: 66px;
+    }
+    .about_sec71 {
+        width: 50%;
+        padding: 50px;
+    }
+    .about_sec4 .manufact_cont {
+        width: 100%;
+    }
+    .manufact_cont h3, .about_cont h3 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .about_cont p {
+        margin-bottom: 15px;
+    }
+    .block_txt2 {
+        display: inline;
+    }
+    .banner_sec_content h5, .main_content h5 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .mission_sec_content_img {
+        text-align: left;
+        width: 250px;
+        padding-left: 10%;
+    }
+    .main_content {
+        width: 55%;
+    }
+    .imeage_content_sec {
+        width: 45%;
+    }
+    .banner_sec {
+        height: 450px;
+    }
+    .mission_sec_content_img img {
+        top: -165px;
+    }
+    .imeage_content img {
+        width: 310px;
+    }
+    .image_content {
+        height: 340px;
+    }
+    .image_content img {
+        height: 100%;
+        object-fit: cover;
+    }
+    .background_box {
+        height: 5px;
+    }
+    .Values_text1 {
+        margin-bottom: 20px;
+    }
+    .road_map .Values_text {
+        margin-bottom: 0;
+    }
+    .newapps_sec1 {
+        height: 500px;
+    }
+    .newapps_sec2_content h4 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .AppFeacture_heading h3 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .banner_sec2 {
+        height: 500px;
+    }
+    .newsletter_sec_content h3 {
+        font-size: 53px;
+        line-height: 63px;
+    }
+    .newsletter_sec2_text ul li h3 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .sitemap_sec511 h3 {
+        font-size: 38px;
+        line-height: 50px;
+        margin-bottom: 15px;
+    }
+    .sitemap_sec71 h4 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .sitemap_sec6 {
+        padding-top: 40px;
+        padding-bottom: 45px;
+    }
+    .sitemap_sec512 {
+        text-align: right;
+    }
+    .sitemap_sec512 img {
+        width: 90%;
+    }
+    .sitemap_sec511 {
+        padding-right: 5%;
+    }
+    .paymentCon_sec h3 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .Usedmachinelisting_sec {
+        height: 450px;
+    }
+    .Usedmachinelisting_sec_content>h3 {
+        font-size: 53px;
+        line-height: 63px;
+    }
+    .add_videos h3 {
+        font-size: 33px;
+        line-height: 43px;
+    }
+    .banner-dropdown-content h3 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .relatedMac_sec11 h4 {
+        font-size: 33px;
+        line-height: 43px;
+    }
+    .pricing_sec11 h3 {
+        font-size: 38px;
+        line-height: 50px;
+    }
+    .pricing_sec11 {
+        padding: 30px 35px;
+    }
+    .pricing_sec221>div>p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .pricing_sec3 .pricing_sec221 {
+        padding-bottom: 45px;
+        margin-bottom: 35px;
+    }
+    .sell_your_requirement_sec, .post_your_requirement_banner {
+        height: 450px;
+    }
+    .sell_your_requirement_content h3 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .grid_content {
+        padding: 20px;
+    }
+    .sell_your_equipment_sec_content p {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .listed_machine_sec .carousel_content h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .plateftorm_content1 p {
+        margin-bottom: 0;
+    }
+    .plateftorm_content1 {
+        margin-top: 40px;
+    }
+    .plateftorm_content1 p {
+        font-size: 16px;
+    }
+    .post_your_requirement_banner_content h3 {
+        font-size: 62px;
+        line-height: 72px;
+    }
+    .post_requirement_content h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .post_your_requirement_section2_content h4 {
+        font-size: 31px;
+        line-height: 41px;
+    }
+    .load_more {
+        text-align: left !important;
+    }
+    .post_require {
+        gap: 30px;
+    }
+    .grid_content_sec {
+        padding: 20px;
+    }
+    .read_more {
+        padding-top: 20px;
+        margin-top: 20px;
+    }
+    .grid_content_sec ul {
+        padding-bottom: 0;
+    }
+    .grid_content_sec ul {
+        padding: 15px;
+        padding-bottom: 0;
+    }
+    .grid_section_section2 {
+        gap: 15px;
+    }
+    .blog_sec .blog_heading h3 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .inner_content h4 span {
+        right: inherit;
+    }
+    .dealer_content {
+        padding: 35px;
+    }
+    section.grey_color {
+        height: 450px;
+    }
+    .presen_content h3 {
+        font-size: 35px;
+        line-height: 46px;
+    }
+    .form h4 {
+        font-size: 38px;
+        line-height: 46px;
+    }
+    .bannerInner_content h3 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .newsec2_cont h3 {
+        font-size: 37px;
+        line-height: 47px;
+    }
+    .new_sec2 .grid_content {
+        padding: 25px;
+    }
+    .avail_financing1 {
+        padding-right: 35px;
+    }
+    .card_machine h3 {
+        display: flex;
+    }
+    .card_machine a img {
+        height: 190px;
+        object-position: top;
+        object-fit: contain;
+    }
+    .deletedMac_sec {
+        padding: 50px 0;
+    }
+    .spare_content h3 {
+        line-height: 70px;
+        font-size: 52px;
+    }
+    .sparePart_sec1_content h6 {
+        font-size: 19px;
+        line-height: 25px;
+    }
+    .sparePart_sec1_content h5 {
+        width: 200px;
+    }
+    .heading_text h3, .buyers_content h3, .heading_text1 h3 {
+        font-size: 42px;
+        line-height: 54px;
+    }
+    .buyers_content p {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    /*  .imeage-sec1 {
+        height: 205px;
+    } */
+    .imeage-sec .content {
+        padding: 15px;
+        width: 105px;
+    }
+    .imeage-sec .content p, .content1 p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .para_text p, .para-text1 p, .para-text1 h5, .mission_content p {
+        font-size: 19px;
+        line-height: 25px;
+    }
+    .mission_content h3 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .mission1_content h4 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+    .mission_sec11 {
+        padding: 50px;
+    }
+    .soldInner {
+        min-height: 365px;
+    }
+    .laIndex_sec11 p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .laIndex_sec12 a {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .form-sec label {
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 10px;
+    }
+    .laIndex_sec1 {
+        max-width: 775px;
+    }
+    .latestIndex_sec2:before, .latestIndex_sec2:after {
+        width: 220px;
+    }
+    .used_machine lord-icon {
+        width: 43px;
+        height: 43px;
+    }
+    .laIndex_sec31 h3 span {
+        font-size: 50px;
+    }
+    .laIndex_sec31 h3 {
+        font-size: 31px;
+        line-height: 45px;
+    }
+    .used_machine h4 {
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .used_machine {
+        padding: 15px;
+    }
+    .new_content_sec1 .d_flex {
+        gap: 20px;
+    }
+    .boxDescription_p {
+        padding: 30px;
+    }
+    .new_grid_content p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .new_grid_content img {
+        width: 52px;
+    }
+    .plus_icon span, .plus_icon2 span {
+        font-size: 12px;
+    }
+    .laIndex_sec31 {
+        width: 55%;
+    }
+    .laIndex_sec32 {
+        width: 45%;
+    }
+    .mission1_content .form-sec p {
+        margin-top: 50px;
+    }
+    .new_grid_content {
+        height: 150px;
+    }
+    /* .blogInner figure img {
+        height: 300px;
+    } */
+    .blogInner.blogInnerAll {
+        min-height: 510px;
+    }
+    .bannerInner {
+        padding: 80px 0;
+    }
+    .latesSold_sec {
+        padding-top: 50px;
+    }
+    .bannerInnerData h3 {
+        font-size: 40px;
+        line-height: 52px;
+    }
+    .dotInner .dot {
+        padding: 2px;
+    }
+    .bannerCont_txt h3 {
+        font-size: 58px;
+        line-height: 70px;
+    }
+    .apps_content h3 {
+        font-size: 57px;
+        line-height: 65px;
+    }
+    .blogMain {
+        padding: 50px 0 30px;
+    }
+    .blogAll {
+        padding: 50px 0 50px;
+    }
+    .newBrands_sec31 img {
+        height: 150px;
+    }
+    .machine_list12 .newBrands_sec32 {
+        height: calc(100% - 150px);
+    }
+    .itemYoutube iframe {
+        height: 450px;
+    }
+    .productImageDetail img {
+        height: 400px;
+    }
+    .tabImageDetail {
+        height: 450px;
+    }
+    .category_text {
+        max-width: 970px;
+    }
+    .machine_list12 ul {
+        gap: 25px 20px;
+    }
+    .machine_list12 ul li {
+        width: calc(50% - 10px);
+    }
+    .machine_slider {
+        gap: 15px;
+    }
+    .swiper_container .slider .outer_box {
+        width: 100px;
+        padding: 10px;
+    }
+    .machine_slider ul li a {
+        font-size: 13px;
+        line-height: 16px;
+        font-family: 'Montserrat-Regular';
+    }
+    .machine_slider h1, .machine_slider h2 {
+        font-size: 16px;
+        width: 150px;
+    }
+    .footer-play_store a {
+        padding: 10px 16px;
+    }
+    .newBrands_sec42 h3 {
+        font-size: 42px;
+        line-height: 36px;
+        /* padding-left: 72px; */
+    }
+    .newBrands_sec42 h3:before {
+        width: 58px;
+        height: 30px;
+        left: -72px;
+    }
+    }
+    @media (max-width: 1191px) {
+    .viewed_list {
+        width: calc(16% - 10px);
+    }
+    .common_box {
+        border-left: 0;
+        padding-left: 0;
+        border-top: 1px solid #ddd;
+        padding-top: 25px;
+    }
+    }
+    @media (max-width: 1024px) {
+    .magazine_sec {
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+    .features_sec2 {
+        padding-left: 8%;
+    }
+    .authentication_box {
+        padding-left: 7%;
+    }
+    .newsletter_content h1, .newsletter_content h3 {
+        padding: 0 10%;
+    }
+    .latestForm_table {
+        padding: 60px 20px;
+        padding-top: 110px;
+    }
+    .banner_sec_content h3 {
+        font-size: 56px;
+        line-height: 71px;
+    }
+    .mission_sec_content_img {
+        width: 240px;
+    }
+    .mission_sec_content_img img {
+        top: -165px;
+    }
+    .main_content h3, .main_content h3, .Values_text h3, .Values_text1 h3, .Values_text h3 {
+        font-size: 50px;
+        line-height: 66px;
+        margin-bottom: 15px;
+    }
+    .capabilites_text h3 {
+        font-size: 50px;
+        line-height: 66px;
+    }
+    .main_content {
+        width: 65%;
+    }
+    .imeage_content_sec {
+        width: 35%;
+    }
+    .deletedMac_sec {
+        padding: 40px 0;
+    }
+    .latestIndex_sec2:before, .latestIndex_sec2:after {
+        width: 150px;
+    }
+    .latestIndex_sec2 {
+        padding: 30px 0;
+    }
+    .used_machine {
+        height: 150px;
+    }
+    .heading_text h3, .buyers_content h3, .heading_text1 h3 {
+        font-size: 40px;
+        line-height: 52px;
+    }
+    .laIndex_sec31 h3 {
+        font-size: 29px;
+    }
+    .laIndex_sec31 h3 span {
+        font-size: 48px;
+    }
+    .mission_sec11 {
+        padding: 50px 30px;
+    }
+    .mission1_content h4 {
+        font-size: 24px;
+        line-height: 32px;
+        margin-bottom: 15px;
+    }
+    .laIndex_sec11 p b {
+        font-size: 16px;
+    }
+    /*======== CATEGORY FILTER CSS START =======*/
+    .machine_listing {
+        width: calc(100% - 250px);
+    }
+    .add_filter_btn {
+        display: block;
+        position: fixed;
+        z-index: 9;
+        right: 40px;
+        bottom: 40px;
+    }
+    .add_filter_btn a {
+        background: #000000;
+        color: #ffffff;
+        padding: 12px 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        border-radius: 3px;
+        box-shadow: 0 2px 5px rgb(0 0 0 / 53%);
+        font-family: 'Montserrat-Light';
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .add_filter_btn a span {
+        font-size: 19px;
+    }
+    .category_filter {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 9;
+        width: 100%;
+        align-items: stretch;
+        background: #ffffff;
+        max-height: 0;
+        overflow-y: auto;
+        padding: 0 30px;
+        box-shadow: 0 -8px 20px #0000001a;
+        transition: all .6s;
+    }
+    .category_filter.open {
+        max-height: calc(100% - 200px);
+        padding-bottom: 25px;
+    }
+    .left_sidebar .wrapper .panel-group {
+        margin: 0;
+    }
+    .left_sidebar .wrapper .panel-group:first-child {
+        position: sticky;
+        top: 0;
+        left: 30px;
+        right: 30px;
+        background: #ffffff;
+        z-index: 9;
+        /* height: 200px; */
+        border-bottom: 1px solid #dddddd;
+        padding-top: 25px;
+    }
+    .left_sidebar .wrapper .panel-group:first-child .panel {
+        box-shadow: none;
+    }
+    .left_sidebar .wrapper .panel-group:first-child h4 {
+        margin: 0;
+        font-size: 18px;
+    }
+    .equipment_sec1 .sidebar-heading h4 {
+        padding: 0;
+    }
+    .right-equipment .left_sidebar.sidebar-heading .filter_machines a::before {
+        display: none;
+    }
+    .filter_machines h4 a {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+    }
+    .close_btn {
+        display: block;
+        font-size: 25px;
+        color: #b7b7b7;
+    }
+    /*========= CATEGORY FILTER CSS END ========*/
+    }
+    @media (max-width: 991px) {
+    .container {
+        width: 98%;
+    }
+    .download_box, .download_box .banner-height {
+        height: 380px;
+        background-position: 40%;
+    }
+    .MachineDtl_sec2 .features_head {
+        margin-bottom: 30px;
+    }
+    .features_sec1 p {
+        margin-bottom: 30px;
+    }
+    .features_sec2 {
+        padding-left: 5%;
+    }
+    .p_contact_Text_1 {
+        padding: 0;
+    }
+    .issues_sec {
+        padding: 40px 0;
+    }
+    .modal_box {
+        width: 75%;
+    }
+    .subscribe_Box {
+        padding: 20px;
+    }
+    .previous_card .Pcard_name, .previous_card .Pcard_content {
+        padding: 10px;
+    }
+    .inner_privacyDiv .col-md-8, .inner_privacyDiv .col-md-4 {
+        padding: 0;
+    }
+    .Pcard_name h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .magazine_image {
+        height: 250px;
+    }
+    .Pcard_content .img_card {
+        height: 120px;
+    }
+    .issues_slider {
+        width: 96%;
+    }
+    .detail_bg .heading_box {
+        margin-bottom: 20px;
+    }
+    .card_machine a img {
+        height: 190px;
+    }
+    .issue_count {
+        padding: 3px 10px;
+    }
+    .about_Msec {
+        margin: 40px 0;
+    }
+    .about_heading h3 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .Logo_box p span {
+        font-size: 35px;
+    }
+    .Logo_box p {
+        padding: 35px 10px;
+        line-height: 28px;
+    }
+    .sidebarAdd .logo_download {
+        width: 32%;
+    }
+    .used_machinery {
+        height: 80px;
+    }
+    .wanted_mach .box {
+        width: 15%;
+    }
+    .line_machine {
+        left: 60%;
+    }
+    .side-bar-blog {
+        width: 100%;
+        float: left;
+    }
+    .loardmore_background_button {
+        width: 100%;
+        margin: 0 auto;
+        float: none;
+        display: table;
+    }
+    .headingone {
+        border: 0;
+    }
+    .machine_logo .logo_img img {
+        width: 80px;
+    }
+    .machine_logo h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .blog-detail.news_listBox .maga_box h1 {
+        font-size: 32px;
+        line-height: 44px;
+    }
+    .maga_box p.article_p {
+        height: auto;
+    }
+    .maga_box {
+        margin-bottom: 20px !important;
+        border-bottom: 1px solid #dddddd;
+        padding-bottom: 25px;
+    }
+    .news_listBox div:last-child div:last-child .maga_box {
+        margin-bottom: 0 !important;
+        border-bottom: 0;
+        padding-bottom: 0;
+    }
+    .authentication_box {
+        padding-left: 0;
+    }
+    .advertise_banner, .newMachine_banner {
+        height: 400px;
+    }
+    .paddingR_80 {
+        padding-right: 20px;
+    }
+    .downloadKit_sec {
+        padding: 40px 15px;
+        padding-bottom: 50px;
+    }
+    .downloadKit_sec h3 {
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 15px;
+    }
+    .downloadKit_sec a {
+        padding: 0 12px;
+    }
+    .MachineDtl_txt {
+        margin-top: 30px;
+        width: 100%;
+        display: inline-block;
+    }
+    .getIn_toch {
+        margin-top: 10px;
+    }
+    .features_head {
+        margin-bottom: 20px;
+    }
+    .features_sec ul li {
+        width: calc(33.33% - 20px);
+        margin: 40px 10px;
+        margin-top: 0;
+    }
+    .machineQuery_sec {
+        padding: 30px;
+    }
+    .machineQuery_sec21 textarea, .macQuery_email {
+        width: 85%;
+    }
+    .MachineDtl_sec {
+        padding-bottom: 40px;
+        margin-bottom: 25px;
+    }
+    .newMach_features, .newMach_technical, .newMach_description {
+        padding-bottom: 25px;
+    }
+    .newMach_images, .MachineDtl_sec5 {
+        padding-bottom: 35px;
+    }
+    .usedMac_sec {
+        margin-bottom: 35px;
+    }
+    #productGallery img {
+        height: 140px;
+    }
+    #productGallery {
+        padding: 30px 30px;
+    }
+    #product-slider__main .slick-slide {
+        height: 350px;
+    }
+    #product-slider__nav.object-fit--contain .slick-slide img {
+        height: 60px;
+    }
+    .newMach_cre2 .content {
+        padding: 30px;
+    }
+    .newMach_credit_sec {
+        padding-bottom: 35px;
+    }
+    .view_location {
+        width: 75px;
+    }
+    .banner_image {
+        background-position: 88% 100%;
+    }
+    .banner_tableCell {
+        padding-left: 0;
+        padding: 25px 30px;
+        height: unset;
+    }
+    .banner_tableCell h1, .banner_tableCell h2, .banner_tableCell h3 {
+        padding-right: 15%;
+    }
+    .machine_sell p {
+        padding: 0;
+    }
+    .footer-play_store a span {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .table_image img {
+        width: 90%;
+    }
+    .newDealer_sec>.container>.row {
+        flex-direction: column;
+    }
+    .dealer_image {
+        height: 400px;
+        margin-bottom: 30px;
+    }
+    .about_sec1 {
+        height: 400px;
+    }
+    .about_sec2, .about_sec11 {
+        padding: 40px 0;
+    }
+    .about_sec81 img {
+        margin-bottom: 10px;
+    }
+    .about_sec3 .manufact_sec32 h3, .about_sec4 h3, .about_sec5 h3, .about_sec612 h3, .about_sec71 h3, .about_sec81 h3, .about_sec91 h3, .about_sec101 h3, .about_sec111 h3 {
+        font-size: 36px;
+        line-height: 48px;
+        margin-bottom: 10px;
+    }
+    .manufact_sec32 {
+        padding-left: 0;
+    }
+    .manufact_sec3, .manufact_sec5, .about_sec5, .about_sec10 {
+        padding: 40px 0;
+    }
+    .about_sec71 p {
+        color: #ffffff !important;
+        width: 85%;
+    }
+    .about_sec8 {
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+    .about_sec71 {
+        padding: 35px;
+    }
+    .about_sec9 {
+        padding: 40px 0;
+    }
+    .about_sec52 {
+        padding: 25px;
+    }
+    .about_sec72 {
+        height: 540px;
+    }
+    .banner_sec {
+        padding: 40px 0;
+    }
+    .banner_sec_content h3 {
+        font-size: 54px;
+        line-height: 66px;
+    }
+    .banner_sec_content h5, .main_content h5 {
+        font-size: 23px;
+        line-height: 32px;
+    }
+    .background_box {
+        margin-bottom: 20px;
+    }
+    .imeage_content img {
+        width: 250px;
+    }
+    .mission_sec_content_img img {
+        top: -142px;
+    }
+    .mission_sec_content_img {
+        width: 210px;
+        padding-left: 0;
+    }
+    .banner_sec {
+        height: 400px;
+    }
+    .banner_sec_content {
+        width: 436px;
+    }
+    .pink_background {
+        padding: 20px 25px;
+    }
+    .main_content h3 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .main_content h3, .Values_text h3, .Values_text1 h3, .Values_text h3 {
+        font-size: 47px;
+        line-height: 57px;
+        margin-bottom: 15px;
+    }
+    .image_content {
+        width: 100%;
+        height: 330px;
+        text-align: right;
+        margin-top: 20px;
+    }
+    .Progress_section .main_content_text p {
+        margin-bottom: 0;
+    }
+    .image_content1 img {
+        width: 100%;
+    }
+    .Values_text1 {
+        margin-bottom: 25px;
+    }
+    .capabilites_text h3 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .capablities_sec {
+        margin-top: 30px;
+        padding: 30px;
+    }
+    .road_map {
+        margin-top: 40px;
+    }
+    .Progress_section {
+        padding: 20px;
+        margin-top: 40px;
+    }
+    .Values_text {
+        margin-bottom: 40px;
+    }
+    .mission_sec {
+        padding: 40px 0;
+    }
+    .values_section {
+        padding: 40px 0;
+    }
+    .imeage_content {
+        width: 100%;
+    }
+    .newapps_sec1 {
+        padding: 40px 0;
+    }
+    .newapps_sec2, .newapps_sec3, .Queries_sec {
+        padding: 40px 0;
+    }
+    .apps_content h3 {
+        font-size: 58px;
+        line-height: 68px;
+    }
+    .newapps_sec2_content h4 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .AppFeacture_heading h3 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .app_feacture_img img {
+        width: 100%;
+    }
+    .newapps_sec1 {
+        height: 450px;
+    }
+    .grid_section {
+        gap: 25px;
+    }
+    .banner_sec2 {
+        padding: 40px 0;
+        height: 450px;
+    }
+    .newsletter_sec_content h3 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .newsletter_sec_content p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .newsletter_sec2_text ul li h3 {
+        font-size: 35px;
+        line-height: 38px;
+    }
+    .newsletter_sec2 {
+        padding: 40px 0;
+    }
+    .sitemap_sec511 {
+        width: 58%;
+        padding-right: 0;
+    }
+    .sitemap_sec512 {
+        width: 42%;
+    }
+    .sitemap_sec511 h3 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .sitemap_sec6 {
+        padding-top: 35px;
+        padding-bottom: 40px;
+    }
+    .sitemap_sec71 h4 {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .sitemap_sec8 ul {
+        gap: 10px 20px;
+    }
+    .sitemap_sec8 ul li {
+        width: calc(25% - 15px);
+    }
+    .sitemap_sec7 {
+        margin-top: 30px;
+    }
+    .newmanufacture_sec {
+        padding: 40px 0;
+    }
+    .logo_content h4 {
+        font-size: 28px;
+        line-height: 38px;
+        font-family: 'SegoeUI-Bold';
+        color: #000;
+    }
+    .manufacture_sec2 .grid_section {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .manufacture_sec2 .tab-content {
+        padding: 40px 0;
+    }
+    .paymentCon_sec {
+        padding-top: 40px;
+    }
+    .paymentSec_1 {
+        margin-top: 30px;
+        padding-top: 30px;
+    }
+    .paymentSec_1 ul {
+        margin: 25px 0;
+    }
+    .paymentCon_sec h3 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .Usedmachinelisting_sec, .Usedmachinelisting_sec1, .relatedMac_sec {
+        padding: 40px 0;
+    }
+    .Usedmachinelisting_sec_content>h3 {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    .Usedmachinelisting_sec {
+        height: 400px;
+    }
+    .add_videos .content h3 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .Usedmachinelisting_sec1_content h3 {
+        font-size: 19px;
+        line-height: 25px;
+        margin-bottom: 0;
+    }
+    .Usedmachinelisting_sec1_content {
+        width: 100%;
+        padding: 15px;
+    }
+    .carousel_content h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .pricing_sec1 {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .pricing_sec11 h3 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .pricing_sec11 {
+        padding: 25px 30px;
+    }
+    .pricing_sec3 .pricing_sec221 {
+        padding-bottom: 40px;
+    }
+    .pricing_sec2, .pricing_sec3 {
+        padding-top: 40px;
+    }
+    .logo {
+        margin-left: 45px;
+    }
+    .sell_your_requirement_sec1 {
+        padding: 40px 0;
+    }
+    .listed_machine_sec {
+        padding: 40px 0;
+    }
+    .sellon_machinedalal {
+        padding: 40px 0;
+    }
+    .listed_machine_sec .listed_machine_content h3 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .carousel_content img {
+        right: 9px;
+        height: 50px;
+    }
+    .sellon_machinedalal .grid_sec {
+        grid-template-columns: 1fr 1fr;
+    }
+    .plateftorm_content h3 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .sell_heading h3 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .sell_your_requirement_content h3 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .post_your_requirement_banner {
+        padding: 40px 0;
+        height: 450px;
+    }
+    .post_your_requirement_banner_content h3 {
+        font-size: 58px;
+        line-height: 66px;
+    }
+    .post_your_requirement_banner_content p {
+        font-size: 18px;
+        line-height: 26px;
+        margin-bottom: 0;
+    }
+    .post_your_requirement_section1 {
+        padding: 40px 0;
+    }
+    .text-block2 h4 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .text-block1 h4 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .post_your_requirement_section2_content h4 {
+        font-size: 28px;
+        line-height: 36px;
+        margin-bottom: 50px;
+    }
+    .post_requirement_content h5 {
+        font-size: 16px;
+        line-height: 21px;
+        margin-bottom: 15px;
+    }
+    .post_your_requirement_section2 {
+        padding: 40px 0;
+    }
+    .post_require {
+        flex-direction: column;
+        gap: 30px;
+        padding: 0 20px;
+    }
+    .post_require1 {
+        width: 100%;
+    }
+    .post_require2 {
+        width: 100%;
+    }
+    .post_your_requirement_section2_content h4 span {
+        display: block;
+    }
+    .imeage_sec_content>img {
+        height: 400px;
+    }
+    .faq_sec {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .faq_sec .top_head {
+        margin-bottom: 10px;
+    }
+    .quesTab_box .panel-group .panel {
+        padding: 5px 0;
+    }
+    .quesTab_box .ques_tabs .panel-title>a {
+        margin-bottom: 6px;
+    }
+    .blog_sec {
+        padding: 40px 0;
+    }
+    .blog_sec .blog_heading h3 {
+        font-size: 33px;
+        line-height: 43px;
+    }
+    .blog_content {
+        padding: 20px;
+    }
+    .blog_content h4 {
+        font-size: 25px;
+        line-height: 31px;
+    }
+    .blog_img img {
+        height: 340px;
+    }
+    .single_blog_sec1 {
+        padding: 40px 0;
+    }
+    .single_blog_sec {
+        padding: 40px 0;
+    }
+    .single_blog_sec .recent_box {
+        padding-top: 40px;
+    }
+    .single_blog_sec1_content h4 {
+        font-size: 43px;
+        line-height: 53px;
+    }
+    .machine_finder_sec {
+        padding: 40px 0;
+        height: 350px;
+    }
+    .Usedmachinelisting_sec1_content .machine_img2 {
+        height: 250px;
+    }
+    .caraouselItems {
+        gap: 15px;
+    }
+    .caraouselItems1 img, .caraouselItems2 img {
+        height: 200px;
+    }
+    .relatedMac_sec11 h4 {
+        font-size: 31px;
+        line-height: 40px;
+        margin-bottom: 15px;
+    }
+    .carousel_content h4 {
+        margin-top: 12px;
+    }
+    .carousel_content h5 {
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 8px;
+    }
+    .caraouselItems1, .caraouselItems2 {
+        padding: 10px;
+    }
+    .relatedMac_sec11 {
+        width: calc(35% - 15px);
+        margin-right: 15px;
+        padding: 15px;
+    }
+    .button span {
+        margin-top: 12px;
+        padding: 10px;
+    }
+    .listing_button {
+        left: 30px;
+    }
+    section.dealer_sec {
+        padding: 40px 0;
+    }
+    .dealer_content h3 {
+        margin-top: 0;
+        font-size: 28px;
+        line-height: 36px;
+        font-family: 'SegoeUI-Bold';
+        color: #000;
+        margin-bottom: 15px;
+    }
+    .dealer_content {
+        width: 70%;
+    }
+    .presen_content h3 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    section.grey_color {
+        padding: 40px 0;
+        height: 400px;
+    }
+    .presen_content p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    section.more_question {
+        padding: 40px 0;
+    }
+    .form h4 {
+        font-size: 35px;
+        margin-top: 10px;
+        line-height: 43px;
+    }
+    .ques_img img {
+        margin-top: 0;
+    }
+    .new_content_sec1, .new_sec2 {
+        padding: 40px 0;
+    }
+    .bannerInner_content h3 {
+        font-size: 36px;
+        line-height: 45px;
+    }
+    .listed_machine_sec .machine_img_sec img {
+        height: 135px;
+    }
+    .list_itemCont {
+        padding: 7px 10px;
+    }
+    .newsec2_cont h3 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .new_sec2 .grid_sec {
+        margin-top: 15px;
+    }
+    .newsec2_cont {
+        margin-top: 0;
+    }
+    .new_sec2 .grid_sec {
+        max-width: 100%;
+    }
+    .listed_machine_sec .modal_box {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    .used_machine h4 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .used_machine {
+        padding: 15px;
+    }
+    .used_machine .used_mac img {
+        width: 70px;
+    }
+    .new_content_sec1 .d_flex {
+        gap: 15px;
+    }
+    .used_machine {
+        height: 150px;
+    }
+    .avail_financing .finan_content h3 {
+        font-size: 24px;
+        line-height: 29px;
+    }
+    .avail_financing2 .finan_content h3 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .avail_financing .finan_content h3 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    section.equipment_sec1 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .product_block_list {
+        padding-top: 4px;
+    }
+    .avail_financing1 .finan_content h3 {
+        margin-bottom: 10px;
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .avail_financing {
+        padding: 15px;
+    }
+    .avail_financing1 {
+        padding: 15px;
+        padding-right: 10px;
+    }
+    .avail_financing2 {
+        padding: 15px;
+    }
+    .used_machinery {
+        height: 65px;
+    }
+    .equipment_sec1 .card_machine .sizeRed {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .category_list li p, .brand_list li p, .sheet_list li p, .color_list li p {
+        padding: 3px 8px;
+    }
+    .card_machine a img {
+        height: 167px;
+        width: 100%;
+        object-fit: contain;
+        object-position: top;
+    }
+    .avail_financing2 img {
+        width: 130px;
+    }
+    .avail_financing1 img {
+        width: 100px;
+    }
+    .avail_financing {
+        height: 200px;
+    }
+    section.sparePart_sec1 {
+        padding: 40px 0;
+    }
+    section.spare_parts {
+        padding: 40px 0;
+    }
+    .spare_content h3 {
+        line-height: 64px;
+        font-size: 48px;
+    }
+    section.requirement_sec1 {
+        padding: 40px 0;
+    }
+    .new_content_sec1 {
+        padding: 40px 0;
+    }
+    section.buyer_sec {
+        padding: 40px 0;
+    }
+    .new_sec22 {
+        padding: 40px 0;
+    }
+    .grid_2, .new_grid {
+        gap: 15px;
+    }
+    .new_grid_content img {
+        margin-bottom: 15px;
+        width: 40px;
+    }
+    .new_grid_content {
+        padding: 12px;
+    }
+    .new_section, .banner_content, .banner_img, #mainBanner_txt {
+        height: 350px;
+    }
+    .heading_text h3, .buyers_content h3, .heading_text1 h3 {
+        font-size: 36px;
+        line-height: 45px;
+    }
+    .para_text p, .para-text1 p, .para-text1 h5, .mission_content p {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .new_grid_content .boxDescription_p p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .main_content1 {
+        gap: 20px;
+    }
+    .boxDescription_p h3 {
+        font-size: 22px;
+        line-height: 35px;
+        margin-bottom: 12px;
+    }
+    .boxDescription_p a {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .para-text1 h5 {
+        margin-bottom: 15px;
+        text-indent: 40px;
+    }
+    .mission_content {
+        padding: 25px;
+    }
+    .require_button {
+        margin-top: 20px;
+    }
+    .requirement_sec1 .para-text1 {
+        padding-right: 3%;
+    }
+    .requirement_sec1 .imeage_sec_content>img {
+        height: 370px;
+    }
+    .mission_content {
+        max-width: 590px;
+    }
+    section.mission_sec {
+        padding: 40px 0;
+    }
+    .mission_sec1 {
+        padding: 40px 0;
+    }
+    .mission_content h3 {
+        font-size: 26px;
+        line-height: 35px;
+        margin-bottom: 12px;
+    }
+    .manufacture_sec21 .tab-content {
+        padding: 40px 0;
+    }
+    .grid-section {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .brand_popular {
+        padding: 20px 0 0;
+    }
+    .popular_head .heading, .banner_tableCell h2.heading {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .soldInner {
+        min-height: 312px;
+    }
+    .recommend_card.new_Card {
+        width: calc(33.33% - 12px);
+    }
+    .viewed_list {
+        width: calc(25% - 10px);
+    }
+    .laIndex_sec11 p {
+        font-size: 15px;
+        line-height: 20px;
+        display: inline;
+    }
+    .laIndex_sec11 {
+        margin-bottom: 10px;
+    }
+    .latestIndex_sec3 {
+        padding: 40px 0;
+    }
+    .laIndex_sec2 ul {
+        margin-top: 25px;
+        gap: 15px;
+    }
+    .recommend_card .laIndex_sec5 p {
+        padding-top: 5px;
+        margin-top: 5px;
+    }
+    .laIndex_sec2 .soldOut_p {
+        padding: 8px 15px;
+    }
+    .laIndex_sec2 .soldOut_p p {
+        font-size: 14px;
+    }
+    .laIndex_sec31 {
+        padding: 40px 0;
+    }
+    .laIndex_sec31 h3 span {
+        font-size: 42px;
+    }
+    .laIndex_sec31 h3 {
+        font-size: 31px;
+        line-height: 41px;
+        margin-bottom: 20px;
+    }
+    .laIndex_sec21 {
+        margin-top: 25px;
+    }
+    .laIndex_sec21 p a {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .laIndex_sec21 p {
+        font-size: 20px;
+    }
+    .used_machine lord-icon {
+        width: 40px;
+        height: 40px;
+    }
+    .buyers_content p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .imeage-sec {
+        gap: 15px;
+    }
+    /* .imeage-sec1 {
+        height: 180px;
+    } */
+    .laIndex_sec31 {
+        width: 65%;
+    }
+    .laIndex_sec32 {
+        width: 35%;
+    }
+    .laIndex_sec32 img {
+        width: 90%;
+    }
+    .laIndex_sec311 a {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .transForm_icon {
+        font-size: 20px;
+    }
+    .laIndex_sec311 {
+        gap: 25px;
+    }
+    .laIndex_sec311 p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .mission_sec11 {
+        padding: 30px;
+    }
+    .mission1_content h4 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .mission1_content p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .form-sec label {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .latesSold_sec .laIndex_sec2 ul {
+        gap: 24px;
+    }
+    .latesSold_sec .laIndex_sec2 ul li {
+        width: calc(50% - 12px);
+    }
+    .bannerInnerData h3 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .latesSold_sec {
+        padding-top: 40px;
+    }
+    .xzoom-container>img {
+        height: auto;
+    }
+    .dotInner {
+        gap: 15px;
+    }
+    .dotInner .dot {
+        width: calc(15% - 12px);
+    }
+    #tabImageSlider {
+        margin: 0 0 15px;
+    }
+    .imageTabInner {
+        margin: 0 0 20px;
+    }
+    .imageTabInner .owl-theme .owl-dots .owl-dot span {
+        display: block;
+    }
+    .bannerCont_txt h3 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .require_button a {
+        padding: 10px 26px;
+    }
+    .continue_btn a {
+        padding: 10px 26px;
+    }
+    .about_btn a {
+        padding: 10px 26px;
+    }
+    .blogMain {
+        padding: 40px 0 30px;
+    }
+    .blogAll {
+        padding: 40px 0 40px;
+    }
+    .mb_10 {
+        margin-bottom: 15px;
+    }
+    .category_text .nav-tabs {
+        left: 0;
+        flex-wrap: wrap;
+    }
+    .seller_btn {
+        display: flex;
+        gap: 10px;
+    }
+    .xzoom-container>img {
+        height: auto;
+    } 
+    .productImageDetail img {
+        height: 300px;
+    } 
+    .dotInner {
+        gap: 15px;
+    }  
+    .dotInner .dot {
+        width: calc(15% - 12px);
+    }  
+    .itemYoutube iframe {
+        height: 420px;
+    }
+    .tabImageDetail {
+        height: 420px;
+    }
+    
+    #tabImageSlider {
+        margin: 0 0 15px;
+    }
+    .imageTabInner {
+        margin: 0 0 20px;
+    }
+    .imageTabInner .owl-theme .owl-dots .owl-dot span {
+        display: block;
+    }
+    .dotInner .dot img {
+        height: 60px;
+    }
+    .category_text {
+        padding: 0;
+    }
+    .swiper_container .slider .outer_box {
+        width: 120px;
+        height: 80px;
+        padding: 20px;
+    }
+    .machine_slider ul li:nth-child(5), .machine_slider ul li:nth-child(6), .machine_slider ul li:nth-child(7) {
+        display: none;
+    }
+    .downloadKit_sec a {
+        padding: 8px 16px;
+    }
+    .machine_dropdown .dropdown-content {
+        right: 0;
+    }
+    .newBrands_sec4 {
+        height: 300px;
+    }
+    .newBrands_sec42 h3 {
+        font-size: 40px;
+        line-height: 34px;
+        /* padding-left: 68px; */
+    }
+    .newBrands_sec42 h3:before {
+        top: 4px;
+        width: 54px;
+        height: 28px;
+        left: -68px;
+    }
+    .newsletter-sec1 {
+        padding: 20px 0;
+    }
+    .newsletter_sec2_text ul li {
+        padding: 0 10px;
+    }
+    .newsletter_sec2_text ul li h4 {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+    }
+    @media (max-width: 982px) {
+    .auth_Box .heading {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .view_location {
+        width: 80px;
+    }
+    .shadow_box {
+        width: 70%;
+    }
+    .bannerInner_content p, .banner_tableCell p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .search_machine input, .search_machine i {
+        height: 40px;
+    }
+    .logo_text {
+        line-height: 38px;
+    }
+    .menu_list-fill, .menu_list-border {
+        height: 38px;
+    }
+    .download_section .play_store {
+        width: 60%;
+    }
+    .newsletter_input input {
+        height: 40px;
+    }
+    .newsletter_input .subscribe-btn {
+        line-height: 38px;
+    }
+    .newsletter_content h1 {
+        font-size: 19px;
+        line-height: 25.33px;
+    }
+    .newsletter_input {
+        margin-top: 25px;
+    }
+    .product_content img {
+        height: 100px;
+    }
+    .product_content h3 {
+        font-size: 14px;
+        line-height: 18.66px;
+        margin-bottom: 2px;
+    }
+    .product_block li {
+        padding-top: 0;
+        margin-top: 5px;
+    }
+    .modal_box {
+        font-size: 14px;
+        line-height: 18.66px;
+    }
+    .year_list {
+        font-size: 13px;
+        line-height: 18.33px;
+    }
+    .color_box {
+        font-size: 12px;
+    }
+    .year, .view_location {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .machine_dalal_link i {
+        font-size: 18px;
+    }
+    .coming-soon {
+        bottom: 10%;
+    }
+    .bg_newsletter {
+        right: -20px;
+        bottom: -20px;
+    }
+    .download_box, .download_box .banner-height {
+        height: 350px;
+    }
+    .footer-box p, .footer_list {
+        font-size: 14px;
+        line-height: 18.66px;
+    }
+    .footer-bottom p {
+        font-size: 13px;
+    }
+    .footer-box .col-sm-3, .footer-box .col-sm-1 {
+        padding: 0;
+    }
+    .brand_popular {
+        padding: 10px 0 0;
+    }
+    .client_box {
+        padding: 40px 0;
+    }
+    .brand_popular li {
+        margin-right: 48px;
+    }
+    .brand_popular li img {
+        width: 100px;
+        height: 55px;
+    }
+    .sell_machineBlock {
+        padding: 40px 0;
+    }
+    .machine_sell h1 {
+        font-size: 24px;
+        line-height: 32px;
+        margin-bottom: 15px;
+    }
+    .common_box .new_account {
+        margin-bottom: 0;
+    }
+    .download_img h1 {
+        line-height: 19px;
+        font-size: 14px;
+    }
+    .android_icon, .ios_icon {
+        width: 100%;
+    }
+    .sidebarAdd .logo_download {
+        width: 18%;
+    }
+    .modal_box {
+        width: 70%;
+    }
+    .machine_sidebar {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        overflow: hidden;
+    }
+    .card_machine a img {
+        height: 170px;
+    }
+    .grey_line {
+        width: 35%;
+    }
+    .grey_line:after {
+        right: 28px;
+    }
+    .line_machine {
+        left: 62%;
+        width: 22%;
+    }
+    .wanted_mach .box {
+        height: 70px;
+    }
+    .machine_left h3 {
+        margin-bottom: 40px;
+        margin-top: 0px;
+    }
+    .sub_text-signup {
+        text-align: right;
+    }
+    .product_block_list {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .card_machine a img {
+        height: 190px;
+    }
+    .used_mach_text h3 {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .modal_boxRecommend {
+        font-size: 14px;
+        line-height: 18.66px;
+    }
+    .recommend_card .sizeRed {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .recommend_card p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .card_border .modal_boxRecommend {
+        font-size: 14px;
+        line-height: 18.66px;
+    }
+    .seller_btnBox .menu_list-fill {
+        padding: 10px;
+    }
+    .seller_btnBox {
+        padding: 20px 0px;
+    }
+    .enquiry_box h3 {
+        padding: 20px 0;
+    }
+    .red_line {
+        margin-top: -10px;
+        margin-bottom: 20px;
+    }
+    .used_mach_text h3, .machine_sidebar {
+        margin-bottom: 1px;
+    }
+    .used_mach_text h3 {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .right_sidebar h4 {
+        margin-bottom: 25px;
+    }
+    .used_machinery {
+        height: 61px;
+    }
+    .newMachine-form {
+        position: absolute;
+        top: 13%;
+        width: 46%;
+        right: 3.3%;
+        background: #ffffff;
+        padding: 31px 31px 15px;
+        box-shadow: 0 9px 20px rgba(0, 0, 0, 0.16862745098039217);
+    }
+    .light_text {
+        max-width: 375px;
+    }
+    .light_text h1 {
+        font-size: 72px;
+    }
+    .newsletter_content h1, .newsletter_content h2 {
+        padding: 0 30px;
+    }
+    /*======== NEW CSS start ==========*/
+    .magazine_sec {
+        padding-top: 30px;
+        padding-bottom: 0;
+    }
+    .maga_box p.article_p {
+        height: auto;
+    }
+    .advertisement_box {
+        height: 300px;
+    }
+    .advertisement_box img {
+        object-fit: contain;
+    }
+    /*======== NEW CSS END ==========*/
+    }
+    @media (max-width: 980px) {
+    .blog-mainheading h2 {
+        font-size: 27px;
+        line-height: 36px;
+    }
+    .sub-headingone h4 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .division-box {
+        width: 98%;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+    .bg-colour-box .spacing-box {
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 20px;
+    }
+    .category_text ul li a {
+        padding: 6px 15px;
+    }
+    .avail_financing, .availFinance_box1, .machine_list1 {
+        margin-bottom: 15px;
+    }
+    }
+    @media (max-width: 883px) {
+    .newsletter_content h1, .newsletter_content h3 {
+        padding: 0 5%;
+    }
+    .newsletter_input {
+        width: 70%;
+    }
+    .viewed_list {
+        width: calc(25% - 10px);
+    }
+    .latestIndex_sec2:before, .latestIndex_sec2:after {
+        display: none;
+    }
+    .boxDescription_p {
+        padding: 25px;
+    }
+    }
+    @media (max-width: 767px) {
+    .authentication_sc>.row {
+        flex-direction: column-reverse;
+        position: relative;
+    }
+    .login_image {
+        min-height: 350px;
+        height: 350px;
+    }
+    .table_image img {
+        width: 80%;
+    }
+    .login_formN, .authentication_sc .row .col-xs-12 {
+        position: unset;
+    }
+    .formLogo {
+        top: 3%;
+        left: 3.2%;
+        z-index: 9;
+    }
+    .latestForm_table {
+        padding: 40px 30px;
+        max-width: 520px;
+    }
+    .banner_tableCell h1, .banner_tableCell h2 {
+        color: #000000;
+    }
+    .availFinance_box {
+        margin-top: 20px;
+        margin-bottom: 0;
+        width: 100%;
+        display: inline-block;
+    }
+    .MachineDtl_sec4 {
+        margin-bottom: 40px;
+    }
+    .issues_sec {
+        padding: 30px 0;
+    }
+    .hiddencyOn {
+        display: block;
+    }
+    .paddingR_80 {
+        padding-right: 15px;
+    }
+    .newEnquiry_Form {
+        margin-top: 10px;
+    }
+    .advertise_banner, .newMachine_banner {
+        height: 350px;
+    }
+    .advertise_Sec2 {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .advertise_Sec2 .page-heading h3, .newMac_name h3 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 15px;
+    }
+    .availFinancing .modal-dialog, .shareMachine .modal-dialog {
+        margin: 20px auto;
+    }
+    .advertise_Sec2 h4 {
+        margin-top: 20px;
+        margin-bottom: 12px;
+    }
+    .advertise_Sec2 ul li:last-child {
+        margin-bottom: 0;
+    }
+    .advertise_Sec2 .PrivacyPolicy_Outer {
+        margin-bottom: 0;
+    }
+    .newsletter_content h1, .newsletter_content h3 {
+        padding: 0 20px;
+    }
+    .issue_detailBox .february_issue_bg {
+        margin-bottom: 30px;
+    }
+    .banner_tableCell h1, .banner_tableCell h2, .banner_tableCell h3, .heading, .banner_tableCell h3.heading, .heading, .machine_sell h1, .machine_sell h3 {
+        font-size: 28px;
+        line-height: 40px;
+        margin-bottom: 15px;
+    }
+    .news_listBox.blog-detail .blog-full h3 {
+        font-size: 20px;
+        line-height: 28px;
+        color: #000000;
+    }
+    .pricing_grid {
+        padding: 20px;
+    }
+    .timing_detail .date_col {
+        width: 80%;
+    }
+    .subscribe_Box {
+        padding: 40px;
+        margin-bottom: 0;
+    }
+    .pricing_heading h1 {
+        font-size: 24px;
+        line-height: 34px;
+        margin-bottom: 20px;
+    }
+    .magazine_image {
+        height: auto;
+    }
+    .pricing_head h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .pricing_head .head_left p {
+        font-size: 16px;
+    }
+    .etc_details ul li p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .pricing_head .head_left, .pricing_head .head_right {
+        width: auto;
+    }
+    .division-box {
+        margin-top: 0;
+    }
+    .popular-post-magicbox .post-spacingbox {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .heading-tag {
+        padding: 30px 20px;
+    }
+    .first-headingimg {
+        padding: 20px;
+    }
+    .blog-mainheading {
+        margin-top: 0;
+    }
+    .cal-date {
+        padding: 4px 12px;
+    }
+    .second-heading h5 {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .authentication_img {
+        display: block;
+        position: unset;
+        width: 100%;
+        float: left;
+        height: 350px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .authentication_mid {
+        height: auto;
+    }
+    .authentication_img img {
+        width: auto;
+        height: 100%;
+        text-align: center;
+    }
+    .auth_Box .heading {
+        font-size: 22px;
+        line-height: 29.33px;
+    }
+    .shadow_box {
+        width: 100%;
+        max-width: 100%;
+    }
+    .auth_Box {
+        padding: 30px 0;
+    }
+    .payments-outer .auth_Box {
+        padding: 40px 0 0;
+    }
+    .authentication_box {
+        padding: 0;
+    }
+    .authentication_content {
+        width: 100%;
+    }
+    .authentication_box [type="checkbox"]:not(:checked)+label, .authentication_box [type="checkbox"]:checked+label {
+        padding-left: 1.6em;
+    }
+    .Signup__div {
+        margin-top: 0;
+    }
+    .otp_text {
+        margin-top: 13px;
+    }
+    .signup--otp {
+        margin-top: 37px;
+    }
+    .authentication_content {
+        width: 80%;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+    .size_list {
+        display: none;
+    }
+    .card_machine .sizeRed {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    #ShowMoreDiv1 {
+        width: 100%;
+    }
+    .search-outer {
+        margin: 2px auto 25px;
+    }
+    #ShowMoreDiv2 {
+        display: none;
+    }
+    .hiddencyOff {
+        display: none;
+    }
+    .hiddencyOn {
+        display: block;
+        padding: 0 15px;
+        width: 100%;
+        float: left;
+    }
+    .orderChange_MDiv, .authentication_box {
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -moz-box-orient: vertical;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: start;
+        -moz-box-align: start;
+        -ms-flex-align: start;
+        -webkit-align-items: flex-start;
+        align-items: flex-start;
+    }
+    .order_firstDiv, .authentication_img {
+        -webkit-box-ordinal-group: 1;
+        -moz-box-ordinal-group: 1;
+        -ms-flex-order: 1;
+        -webkit-order: 1;
+        order: 1;
+    }
+    .order_secDiv, .authentication_content {
+        -webkit-box-ordinal-group: 2;
+        -moz-box-ordinal-group: 2;
+        -ms-flex-order: 2;
+        -webkit-order: 2;
+        order: 2;
+    }
+    #ShowDiv {
+        display: block;
+        text-decoration: none;
+        position: fixed;
+        z-index: 99;
+        top: 80px;
+        right: 10px;
+    }
+    #accordion4 {
+        margin-top: 0;
+    }
+    .filter_btn {
+        width: 100%;
+        display: inline-block;
+        clear: both;
+    }
+    .filter_btn .filter_icon {
+        background-color: #db271f;
+        padding: 10px;
+        border-radius: 2px;
+        color: #ffffff;
+        text-align: center;
+        cursor: pointer;
+        -webkit-box-pack: center;
+        justify-content: center;
+        outline: 0px;
+        box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
+        -moz-box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
+        -webkit-box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
+    }
+    .filter_btn .filter_icon i {
+        font-size: 20px;
+        font-weight: 500;
+        vertical-align: text-bottom;
+        color: #ffffff;
+    }
+    .advertisement_bg, .bg__transparent {
+        display: none;
+    }
+    .panel-default>.panel-heading {
+        color: #fff;
+        background-color: #f6f6f6;
+        box-shadow: 0 2px 2px rgba(0, 0, 0, 0.07);
+    }
+    .mobile-search-btn {
+        background-color: #e00a12;
+        border-radius: 4px;
+        color: #fff;
+        margin-bottom: 25px;
+        margin-left: 30px;
+        padding: 10px 20px;
+        text-transform: uppercase;
+        border: none;
+    }
+    .mobile-search {
+        background: transparent none repeat scroll 0 0;
+        border: 1px solid #fff;
+        color: #949494;
+        font-size: 14px;
+        margin-bottom: 20px;
+        margin-left: 30px;
+        padding: 10px;
+        width: 80%;
+    }
+    .row_padding {
+        padding: 0 15px;
+    }
+    .banner_tableCell h1, .banner_tableCell h2, .banner_tableCell h3 {
+        color: #000;
+    }
+    /*======== END BURGER MENU OF MACHINE DALAL ========*/
+    /*======== NEW CSS ==========*/
+    .magazine_header .bottom_header ul.bHeader_list {
+        display: inline;
+        line-height: 30px;
+    }
+    .blog-detail.news_listBox .maga_box h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .blog-detail.news_listBox .maga_box h6 {
+        text-transform: inherit;
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 5px;
+    }
+    .bottom_header {
+        padding: 5px 0;
+    }
+    .magazine_header .bottom_header ul.bHeader_list li {
+        padding: 0 30px;
+        display: inline-block;
+    }
+    header.magazine_header {
+        padding-bottom: 0;
+    }
+    .machine_logo .logo_img img {
+        width: 75px;
+    }
+    .machine_logo h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .magazine_sec {
+        padding-top: 20px;
+    }
+    .news_listBox {
+        margin-bottom: 20px;
+    }
+    .machine_magazine ul.Right_list li {
+        padding-left: 0;
+    }
+    /*======== NEW CSS END ==========*/
+    /*====== START INDEX PAGE ====== */
+    .advertisement_bg {
+        display: none;
+    }
+    header {
+        padding-bottom: 0px;
+    }
+    .header_machineD {
+        position: fixed;
+    }
+    .banner_img h3, .banner_tableCell h2, .heading, .banner_tableCell h2.heading, .machine_sell h2 {
+        font-size: 25px;
+        line-height: 33.33px;
+    }
+    .product_block {
+        margin-bottom: 30px;
+    }
+    .search_machine {
+        margin-top: 15px;
+    }
+    .product_list .product_content .size_list {
+        display: none;
+    }
+    .banner_tableCell p {
+        color: #000000;
+    }
+    .newsletter_content h1 {
+        font-size: 15px;
+        line-height: 20px;
+        font-family: 'Times New Roman';
+        padding: 0 5%;
+    }
+    .viewall_btn {
+        display: table;
+        margin-top: 0;
+    }
+    .space-box .viewall_btn a {
+        margin-top: 15px;
+        font-family: 'Montserrat-Light';
+    }
+    .space-box {
+        padding: 30px 0;
+    }
+    .newsletter_box {
+        padding: 20px 0;
+    }
+    .space-box .help_box p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .recent_box {
+        margin-bottom: 15px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 14px;
+    }
+    .color_box {
+        font-size: 11px;
+    }
+    .search_machine input, .newsletter_input input {
+        font-size: 14px;
+    }
+    .newsletter_content img {
+        width: 50px;
+        height: 37px;
+        margin-bottom: 15px;
+    }
+    .newsletter_input {
+        width: 80%;
+    }
+    .bg_newsletter {
+        right: -5px;
+        bottom: -5px;
+    }
+    .newsletter_input {
+        margin-top: 20px;
+        width: 93%;
+    }
+    .banner_image {
+        padding: 20px;
+    }
+    .machinmedalal_banner .banner_tableCell {
+        background-color: #ffffff;
+        box-shadow: 0 5px 24px rgb(24 24 24 / 65%);
+        padding: 20px;
+    }
+    .machinmedalal_banner h1 {
+        color: #000000;
+    }
+    .machinmedalal_banner p {
+        color: #000000;
+        padding: 0;
+    }
+    .black_text {
+        color: #db271f;
+    }
+    .machinmedalal_banner {
+        padding: 20px 0;
+    }
+    .right-btn1 {
+        display: none;
+    }
+    .right-btn2 {
+        display: block;
+    }
+    .right-btn {
+        float: left;
+        width: 60%;
+        margin-top: 30px;
+    }
+    .banner_tableCell p {
+        font-size: 15px;
+        line-height: 20px;
+        color: #000000;
+    }
+    .product_list {
+        display: block;
+    }
+    .brand_name {
+        left: 0;
+        top: 0;
+    }
+    .listed_machine_sec .manufact_sec31>#div_machines {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    #div_machines .product_content {
+        width: calc(50% - 10px);
+        margin: 0;
+    }
+    #div_machines .pro_con2 {
+        margin-right: 0;
+    }
+    #div_machines .pro_con3 {
+        margin-bottom: 0;
+    }
+    #div_machines .pro_con4 {
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+    .coming_soon_img {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .download_box, .download_box .banner-height {
+        padding: 0;
+        height: unset;
+    }
+    .download_box {
+        padding: 20px 0;
+    }
+    .download_box {
+        background-position: left;
+    }
+    .bannerInner_content p {
+        display: block;
+    }
+    .machine_dalal_banner .bannerInner_content p {
+        display: block;
+    }
+    .search_droplist .searc_dropHead {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .search_droplist .searc_type {
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .download_section .play_store {
+        width: 90%;
+    }
+    .space-box .padding_zer0 {
+        padding: 0;
+    }
+    .banner_tableCell .small-heading {
+        font-size: 15px;
+    }
+    .footer-box p {
+        margin-bottom: 15px;
+    }
+    .download_section .download_text {
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    .border_bottom_link {
+        border-bottom: 1px solid #383838;
+        padding-bottom: 25px;
+        margin-bottom: 10px;
+    }
+    .footer-bottom {
+        margin-top: 10px;
+        margin-left: 0;
+        margin-right: 0;
+        text-align: center;
+    }
+    .border_bottom_hide .footer_list {
+        border-bottom: 0;
+        padding-bottom: 0;
+    }
+    .footer_list {
+        border-bottom: 1px solid #383838;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .footer_right {
+        float: left;
+        width: 100%;
+    }
+    .footer-box .col-sm-3, .footer-box .col-sm-1 {
+        padding: 0 15px;
+    }
+    .footer-box {
+        padding: 20px 0;
+        padding-top: 30px;
+    }
+    .machine_sell h1 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .machine_sell p {
+        padding: 0;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .brand_popular {
+        display: inline-block;
+        text-align: center;
+    }
+    .brand_popular li {
+        margin: 4px 2px;
+        padding: 10px;
+        width: calc(33.33% - 8px);
+        box-shadow: 0 4px 10px rgb(0 0 0 / 9%);
+        background-color: #ffffff;
+        display: inline-block;
+    }
+    .client_box {
+        background-color: #ffff;
+    }
+    .brand_popular li img {
+        width: 95px;
+        height: 51px;
+    }
+    .client_box {
+        padding: 30px 0;
+    }
+    .sell_machineBlock {
+        padding: 30px 0;
+        border-top: none;
+    }
+    .search_btn {
+        width: 80%;
+    }
+    .viewed_box {
+        margin-top: 20px;
+    }
+    .sizeRed_history {
+        display: none;
+    }
+    .common_box {
+        border-left: 0;
+        padding-left: 0;
+        border-top: 1px solid #dddddd;
+        padding-top: 25px;
+    }
+    .search_machine {
+        z-index: 9;
+    }
+    .scroll {
+        z-index: 1;
+        left: 0;
+        width: 100%;
+    }
+    /*====== END INDEX PAGE ====== */
+    /*====== START MACHINE LIST PAGE ====== */
+    .sidebarAdd .logo_download {
+        width: 38px;
+    }
+    .sub_text-signup {
+        text-align: left;
+    }
+    .android_icon, .ios_icon {
+        width: 47%;
+        float: left;
+        margin-top: 0;
+        margin-left: 7px;
+    }
+    .download_box_new img {
+        width: 10%;
+        margin-right: 7px;
+    }
+    .download_box_new {
+        width: 99%;
+        margin: 0 auto;
+        margin-top: 10px;
+        margin-bottom: 25px;
+    }
+    .download_img {
+        z-index: 9;
+    }
+    .panel-group {
+        margin-top: 5px;
+    }
+    /*====== END MACHINE LIST PAGE ====== */
+    .machine_left {
+        width: 100%;
+    }
+    .machine_right {
+        width: 100%;
+        float: none;
+        padding-left: 0;
+    }
+    .wanted_text_left {
+        padding-left: 0px;
+    }
+    .line_machine {
+        left: 52%;
+        width: 25%;
+    }
+    .line_machine {
+        left: 55%;
+        width: 25%;
+    }
+    .wanted_mach .box {
+        height: 60px;
+    }
+    .machine_left h3 {
+        top: 15px;
+    }
+    .recommend_card.new_Card {
+        width: calc(33.33% - 10px);
+        margin-top: 0;
+    }
+    .recommend_card img {
+        height: 90px;
+    }
+    .recommend_content {
+        padding: 7px;
+    }
+    .card_border .recommend_content {
+        padding: 7px;
+    }
+    .heading_sidebar {
+        width: 100%;
+        margin-right: 0;
+    }
+    .sidebar-heading h4 {
+        height: auto;
+        width: 100%;
+    }
+    .grey_line {
+        width: 27%;
+        height: 1px;
+    }
+    .grey_line:after {
+        right: 0;
+        width: 45%;
+        height: 1px;
+    }
+    .wanted_mach .box {
+        width: 17%;
+    }
+    .machine_left p {
+        padding-right: 0;
+        margin-bottom: 0;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .machine_right img {
+        margin-top: 30px;
+    }
+    .card_border #div_randomUsedMachine {
+        margin-top: 40px;
+    }
+    .card_border .recommend_card .sizeRed {
+        display: none;
+    }
+    .card_border .new_Card img {
+        height: 80px;
+    }
+    .main_heading {
+        font-size: 21px;
+        line-height: 28px;
+        margin-bottom: 10px;
+    }
+    .modal_boxRecommend {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .card_border .modal_boxRecommend {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .recommend_card p {
+        font-size: 13px;
+        line-height: 16px;
+        margin-top: 0;
+        -webkit-line-clamp: 1;
+    }
+    .description_box {
+        padding: 0 0px;
+        margin-bottom: 20px;
+    }
+    .description_box p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .machine_tbody {
+        font-size: 13px;
+    }
+    .machine_left h5 {
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+    .card_border .space-box .container-fluid {
+        padding: 0;
+    }
+    .row_padding .space-box .container-fluid {
+        padding: 0;
+    }
+    .space-box #div_recommendedMachines {
+        margin-top: 0;
+        width: 100%;
+        float: left;
+    }
+    .description_box table {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    .description_box .table-desc .thead-light tr th {
+        font-size: 14px;
+        vertical-align: middle;
+    }
+    .black-line {
+        width: 12%;
+        float: left;
+    }
+    .line_machine:after {
+        top: 6px;
+    }
+    .recommend_card .sizeRed {
+        font-size: 11px;
+        line-height: 14px;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+        width: 100%;
+    }
+    .features_box {
+        padding: 0 0px;
+    }
+    .right_sidebar {
+        display: none;
+    }
+    .seller_btnBox .menu_list-fill {
+        padding: 10px 30px;
+    }
+    .enquiry_box {
+        margin-bottom: 0;
+    }
+    .card_machine a img {
+        height: 165px;
+    }
+    .red_line {
+        margin-bottom: 26px;
+    }
+    .order_secDiv .red_line {
+        margin-bottom: 0;
+    }
+    .single_heading {
+        font-size: 18px;
+        line-height: 35px;
+    }
+    .card .modal_box {
+        width: 71%;
+    }
+    .used_machinery {
+        height: 63px;
+    }
+    .product_block_list {
+        margin-top: 5px;
+        padding-top: 5px;
+    }
+    #div_machines .card_content {
+        padding: 10px;
+    }
+    .view_location {
+        width: calc(100% - 80px);
+    }
+    .machine-head {
+        height: 500px;
+        display: block;
+        width: 100%;
+        position: relative;
+        clear: both;
+        padding: 40px 0px;
+    }
+    .newMachine_content {
+        width: 100%;
+        float: none;
+        padding-bottom: 35px;
+    }
+    .newMachine-form {
+        position: relative;
+        top: 19%;
+        width: 100%;
+        right: 0;
+        padding: 31px 31px 15px;
+    }
+    .banner-new p {
+        float: none;
+    }
+    .light_text h1 {
+        height: 71vh;
+    }
+    .bottom_header ul.bHeader_list {
+        display: block;
+    }
+    .line_machine {
+        left: 300px;
+    }
+    .play_storeBox {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-left: -3px;
+    }
+    /*========== END SINGLE MACHINE PAGE ============ */
+    .bg-colour-box .san-section-bar {
+        padding: 0;
+    }
+    .text, .date {
+        font-size: 14px;
+    }
+    .head_left .active_btn {
+        margin-left: 10px;
+    }
+    .MachineDtl_txt h3, .features_head h3, .machineQuery_sec1 h3 {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    #product-slider {
+        padding-right: 0;
+    }
+    .innerBread_box {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    .leftLinks2 {
+        margin-left: 0;
+        margin-top: 15px;
+    }
+    .banner_tableCell h1, .banner_tableCell h2, .banner_tableCell h3 {
+        padding-right: 0;
+    }
+    .fast_text img {
+        width: 80px;
+        height: 22px;
+    }
+    .inneraddSection {
+        margin-bottom: 0;
+    }
+    .login_formN h3 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .newDealer_sec {
+        padding: 40px 0;
+    }
+    .Subscription_Box h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .about_cont p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .manufact_cont h3, .about_cont h3 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .about_sec61 {
+        flex-direction: column;
+    }
+    .about_sec81 img {
+        margin-bottom: 15px;
+    }
+    input::placeholder {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .about_sec21 img {
+        display: none;
+    }
+    .about_sec21 {
+        padding-right: 0;
+    }
+    .about_sec611 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .about_sec612 .app_icons {
+        margin-top: 20px;
+    }
+    .about_sec612 {
+        width: 100%;
+    }
+    .about_sec612 h3 span {
+        display: unset;
+    }
+    .about_sec6 {
+        padding-bottom: 30px;
+    }
+    .about_sec7 {
+        display: unset;
+        background-color: #212121;
+        width: 100%;
+    }
+    .about_sec71 {
+        width: 100%;
+        padding: 30px;
+        background: #000;
+    }
+    .about_sec711 {
+        width: 100%;
+    }
+    .manufact_cont h3 span, .about_sec612 h3 span, .about_sec71 span {
+        display: unset;
+    }
+    .about_sec72 {
+        width: 100%;
+        height: unset;
+    }
+    .about_sec71 p {
+        width: unset;
+    }
+    .about_sec3 .manufact_sec32 h3, .about_sec4 h3, .about_sec5 h3, .about_sec612 h3, .about_sec71 h3, .about_sec81 h3, .about_sec91 h3, .about_sec101 h3, .about_sec111 h3 {
+        font-size: 34px;
+        line-height: 46px;
+        margin-bottom: 10px;
+    }
+    .manufact_sec3 .row {
+        flex-direction: column;
+    }
+    .about_sec5 .row {
+        flex-direction: column;
+    }
+    .about_sec51 {
+        margin-bottom: 0;
+    }
+    .about_sec52 {
+        margin-bottom: 25px;
+        padding: 25px;
+    }
+    .manufact_sec32 {
+        padding-left: 0;
+    }
+    .manufact_sec31 {
+        padding-right: 0;
+        margin-bottom: 40px;
+    }
+    .about_sec52.Aborder_red {
+        margin-bottom: 0;
+    }
+    .road_map_image {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .banner_sec {
+        height: 380px;
+    }
+    .banner_sec_content h3 {
+        font-size: 35px;
+        line-height: 46px;
+    }
+    .banner_sec_content h5 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .block_txt {
+        display: block;
+    }
+    .banner_sec_content {
+        width: 100%;
+    }
+    .image_content {
+        padding-left: unset;
+    }
+    .Values_text {
+        margin-bottom: 20px;
+    }
+    .banner_sec_content h3 {
+        font-size: 52px;
+        line-height: 69px;
+    }
+    .imeage_content img {
+        width: 100%;
+    }
+    .block_txt2 {
+        display: block;
+    }
+    .main_content h3 {
+        font-size: 36px;
+        line-height: 46px;
+        margin-bottom: 10px;
+    }
+    .main_content {
+        width: 65%;
+    }
+    .imeage_content_sec {
+        width: 35%;
+    }
+    .Values_text h3 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .Values_text1 h3 {
+        font-size: 35px;
+        line-height: 46px;
+    }
+    .capabilites_text h3 {
+        font-size: 36px;
+        line-height: 46px;
+        width: 100%;
+    }
+    .pink_background {
+        width: 100%;
+        margin-top: 20px;
+        height: unset;
+    }
+    .image_content {
+        margin-bottom: 0;
+    }
+    .image_content img {
+        width: 100%;
+        object-fit: cover;
+        margin-top: 10px;
+    }
+    .image_content1 {
+        width: 100%;
+        text-align: left;
+        margin-top: 40px;
+    }
+    .image_content1 img {
+        width: 100%;
+    }
+    .road_map_image img {
+        width: 100%;
+    }
+    .Presentation_sec img {
+        width: 100%;
+    }
+    .capabilites_text {
+        flex-direction: column;
+    }
+    .background_box {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    } 
+    .Presentation_sec img {
+        margin-top: 0;
+    } 
+    .main_content h5 {
+        margin-bottom: 10px;
+    } 
+    .Progress_section .main_content_text p {
+        margin-bottom: 0;
+    } 
+    .imeage_content img {
+        width: 100%;
+        margin-top: 15px;
+    } 
+    .imeage_content {
+        width: 100%;
+    } 
+    .mission_sec_content_img img {
+        top: -126px;
+    } 
+    .mission_sec_content_img {
+        width: 180px;
+        text-align: unset;
+    } 
+    .apps_content h3 span {
+        display: block;
+    } 
+    .apps_content h3 {
+        font-size: 55px;
+        line-height: 65px;
+        margin-bottom: 15px;
+    } 
+    .apps_content {
+        width: 100%;
+    } 
+    .newapps_sec1 {
+        height: 400px;
+    } 
+    .newapps_sec2_content h4 {
+        font-size: 33px;
+        line-height: 43px;
+        margin-top: 15px;
+    } 
+    .AppFeacture_heading h3 {
+        font-size: 33px;
+        line-height: 43px;
+        margin-bottom: 15px;
+    } 
+    .AppFeacture_heading {
+        width: 100%;
+    } 
+    .grid_section {
+        gap: 20px;
+    } 
+    .newapps_sec2 .imeage_content img {
+        width: 220px;
+    }
+    .Queries_img_content {
+        margin-top: 0px;
+        text-align: center;
+    } 
+    .AppFeacture_heading {
+        margin-bottom: 25px;
+    } 
+    .app_feacture_img img {
+        width: 100%;
+        padding-top: 0;
+    } 
+    .newsletter_sec_content h3 {
+        font-size: 45px;
+        line-height: 55px;
+    } 
+    .newsletter_sec_content p {
+        font-size: 15px;
+        line-height: 21px;
+    } 
+    .newsletter_sec2_text ul li h3 {
+        font-size: 30px;
+        line-height: 32px;
+    }
+    .newsletter_sec_content p {
+        font-size: 14px;
+        line-height: 19px;
+    } 
+    .newsletter_sec_content h3 {
+        font-size: 40px;
+        line-height: 50px;
+    } 
+    .newsletter-sec1 {
+        padding: 15px 0;
+    }
+    .banner_sec2 {
+        height: 370px;
+    }
+    .newsletter_sec_content {
+        max-width: 100%;
+    } 
+    .manufacture_sec2 .grid_section {
+        grid-template-columns: 1fr 1fr;
+    } 
+    .paymentCon_sec {
+        padding-top: 30px;
+        padding-bottom: 40px;
+    } 
+    .paymentCon_sec h3 {
+        font-size: 32px;
+        line-height: 42px;
+    } 
+    .Usedmachinelisting_sec1_content {
+        width: 100%;
+    } 
+    .Usedmachinelisting_sec1_content img {
+        width: 100%;
+        height: 400px;
+        object-fit: cover;
+    } 
+    .Usedmachinelisting_sec_content>h3 {
+        font-size: 45px;
+        line-height: 55px;
+    } 
+    .relatedMac_sec2 {
+        width: 100%;
+    } 
+    .relatedMac_sec1 {
+        flex-direction: column;
+    }
+    .caraouselItems {
+        flex-direction: column;
+    } 
+    .relatedMac_sec11 {
+        width: 100%;
+        margin-bottom: 20px;
+    } 
+    .Usedmachinelisting_sec1_content {
+        padding: 15px;
+        margin-bottom: 20px;
+    } 
+    .add_videos h3 {
+        font-size: 28px;
+        line-height: 37px;
+    } 
+    .manufacture_sec2 a img {
+        width: 100%;
+        height: 230px;
+        object-fit: cover;
+    } 
+    .manufacture_sec_tab {
+        flex-wrap: wrap;
+    } 
+    .manufacture_sec2 .nav-tabs {
+        margin: 0 auto;
+        width: 90%;
+    }
+    .background_bg {
+        padding-top: 5px;
+        padding-bottom: 20px;
+    } 
+    .input_search {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+    } 
+    .input_search input {
+        padding: 10px 20px;
+        padding-left: 45px;
+        border: 1px solid #dddddd;
+        border-radius: 3px;
+    } 
+    .input_search i {
+        left: 12px;
+        top: 11px;
+    } 
+    .manufacture_sec2 ul li {
+        width: 25%;
+        text-align: center;
+    } 
+    .pricing_sec11 h3 {
+        font-size: 33px;
+        line-height: 43px;
+    } 
+    .pricing_sec21 h4 {
+        font-size: 28px;
+        line-height: 38px;
+    } 
+    .pricing_sec21 h4 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .pricing_sec221 ul {
+        margin-top: 30px;
+    } 
+    .pricing_img_content {
+        margin-top: 20px;
+    } 
+    .pricing_sec221>div>img {
+        width: 100%;
+        border: 1px solid #ddd;
+        padding: 10px;
+    } 
+    .pricing_sec3 .pricing_sec221 {
+        flex-direction: column;
+        align-items: flex-start;
+    } 
+    .pricing_sec22 {
+        flex-direction: column;
+    } 
+    .pricing_sec221 {
+        padding-bottom: 5%;
+        margin-bottom: 5%;
+        border-bottom: 1px dashed #db271f;
+        width: 100%;
+        border-right: 0;
+        padding-right: 0;
+        margin-right: 0;
+    } 
+    .pricing_sec21 {
+        margin-bottom: 25px;
+    } 
+    .pricing_sec3 {
+        padding-top: 0;
+    } 
+    .pricing_sec3 .pricing_sec221 {
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+    } 
+    .your_requirement1 {
+        text-align: end;
+        margin-bottom: 25px;
+    } 
+    .sell_your_requirement_sec, .post_your_requirement_banner {
+        height: 350px;
+    } 
+    .sell_your_requirement_content h3 {
+        font-size: 42px;
+        line-height: 50px;
+    } 
+    .listed_machine_sec .listed_machine_content h3 {
+        margin-left: 0;
+        margin-bottom: 25px;
+    } 
+    .plateftorm_content1 {
+        margin-top: 25px;
+    } 
+    .machine_img_content h4 {
+        font-size: 20px;
+        line-height: 28px;
+        font-family: 'SegoeUI-Bold';
+        margin-bottom: 10px;
+        color: #000;
+    } 
+    .post_your_requirement_banner {
+        height: 400px;
+    } 
+    .post_your_requirement_banner_content h3 {
+        font-size: 50px;
+        line-height: 58px;
+        margin-bottom: 20px;
+    } 
+    .post_requirement_content h3 {
+        font-size: 27px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    } 
+    .grid_section_section2 {
+        margin-top: 0;
+    } 
+    .post_requirement_content {
+        border-top: 0;
+    } 
+    .grid_section_section2 {
+        grid-template-columns: 1fr 1fr;
+    } 
+    .post_your_requirement_section2_content h4 {
+        margin-bottom: 30px;
+    } 
+    .imeage_sec_content {
+        padding-right: 0;
+    } 
+    .text-block1 {
+        right: 0;
+    } 
+    .imeage_sec_content>img {
+        height: 350px;
+    } 
+    .post_require {
+        gap: 20px;
+    } 
+    .post_requiremenyt .get_started {
+        margin-top: 0;
+    } 
+    .blog_list {
+        margin-top: 25px;
+    } 
+    .blog_img {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    } 
+    .blog_content {
+        padding: 15px;
+    } 
+    .blog_sec .blog_heading h3 {
+        font-size: 30px;
+        margin-bottom: 15px;
+        line-height: 40px;
+    } 
+    .blog_heading1 h3 {
+        margin-bottom: 25px;
+    } 
+    .inner_content {
+        padding: 15px;
+    } 
+    .listed_mac_content img {
+        width: 100%;
+        height: 320px;
+        object-fit: cover;
+    } 
+    .single_blog_content img {
+        height: 340px;
+    } 
+    .single_blog_content :last-child {
+        margin-bottom: 10px;
+    } 
+    .single_blog_head {
+        margin-bottom: 25px;
+    } 
+    .single_blog_list {
+        margin-top: 25px;
+    } 
+    .inner_content {
+        padding: 15px;
+    } 
+    .single_blog_head h3 {
+        font-size: 28px;
+        line-height: 37px;
+    } 
+    .single_blog_content {
+        margin-top: 20px;
+    } 
+    .listed_mac_content img {
+        height: 300px;
+        width: 100%;
+    } 
+    .listed_mac {
+        margin-top: 20px;
+    } 
+    .single_blog_sec1_content h4 {
+        font-size: 41px;
+        line-height: 51px;
+    } 
+    .login_form {
+        margin-top: 20px;
+    } 
+    .login_form {
+        width: 100%;
+    } 
+    .single-mchinne h3 {
+        text-align: left;
+    } 
+    .single-mchinne h3::after {
+        left: 0;
+    } 
+    .single_blog_head1 {
+        margin-top: 20px;
+    } 
+    .blog_content {
+        padding: 20px;
+    } 
+    .Usedmachinelisting_sec1_content img {
+        width: unset;
+        height: unset;
+    } 
+    .presen_content h3 {
+        font-size: 28px;
+        line-height: 36px;
+    } 
+    section.grey_color {
+        height: 350px;
+    } 
+    .form h4 {
+        font-size: 32px;
+        line-height: 40px;
+    } 
+    .ques_img img {
+        height: 330px;
+    } 
+    .margibBottom10 {
+        margin-bottom: 15px;
+    } 
+    .dealer_content {
+        width: 100%;
+    } 
+    .dealer_content p:last-child {
+        margin-bottom: 0;
+    } 
+    .dealer_content {
+        padding: 30px;
+    } 
+    .used_machine {
+        padding: 15px;
+    } 
+    .listed_machine_sec .slick-prev {
+        left: -11px;
+    } 
+    .listed_machine_sec .slick-next {
+        right: -15px;
+    } 
+    .new_sec2 .grid_sec {
+        gap: 15px;
+        max-width: 100%;
+    } 
+    .newsec2_cont h3 {
+        font-size: 30px;
+        line-height: 38px;
+    } 
+    .new_section, .banner_content, .banner_img, #mainBanner_txt {
+        height: unset;
+    } 
+    .indexSec_1 {
+        padding-top: 100px;
+        padding-bottom: 40px;
+        min-height: 320px;
+    } 
+    .used_machine h4 {
+        font-size: 18px;
+        line-height: 24px;
+    } 
+    .used_machine .used_mac img {
+        width: 70px;
+    } 
+    .your_requirement1 {
+        margin-bottom: 15px;
+    } 
+    .new_section .dropdown_menu .tab_list1 {
+        width: 100%;
+    } 
+    .bannerInner_content h3 {
+        font-size: 32px;
+        line-height: 40px;
+    } 
+    .new_content_sec1 .d_flex {
+        flex-wrap: wrap;
+        gap: 20px;
+    } 
+    .padding_3 {
+        width: calc(50% - 10px);
+    } 
+    .used_machine {
+        height: 170px;
+    } 
+    header {
+        float: unset;
+    } 
+    .brand_content {
+        margin-top: unset;
+    } 
+    section.right_equipment {
+        height: 250px;
+        float: left;
+    } 
+    .newmanufacture_sec {
+        height: 250px;
+    } 
+    .equip_bg {
+        background: unset;
+    } 
+    .card_machine h3 {
+        display: unset;
+    } 
+    .avail_financing2 {
+        margin-bottom: 15px;
+    } 
+    .pr-0 {
+        padding-right: 15px;
+    } 
+    .card_machine a img {
+        height: 167px;
+        width: 100%;
+        object-fit: contain;
+        object-position: center;
+    } 
+    .filter_nav {
+        position: fixed;
+        z-index: 99;
+        bottom: 0;
+        background: #ffffff;
+        /* overflow-y: auto; */
+        /* height: 70vh; */
+        padding-top: 15px;
+        padding: 15px;
+        right: 0;
+    } 
+    .recent_box li {
+        width: calc(50% - 7px);
+        margin-bottom: 0;
+    } 
+    .equipment_sec1 .sidebar-heading h4 {
+        padding: 0;
+    } 
+    .deletedMac_sec {
+        padding: 35px 0;
+    } 
+    .deletedMac_sec .machineQuery_sec {
+        padding: 30px;
+        padding-bottom: 35px;
+    } 
+    .deletedMac_sec .machineQuery_sec1 h3 {
+        margin-bottom: 10px;
+    } 
+    .deletedMac_sec .machineQuery_sec1 p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 12px;
+    } 
+    .deletedMac_sec img {
+        width: 80px;
+    } 
+    .sparePart_sec1_content h5 {
+        width: 100%;
+    } 
+    .innerText_content h3 {
+        font-size: 19px;
+        line-height: 25px;
+        margin-bottom: 8px;
+    } 
+    .sparePart_sec1 .contact_btn {
+        margin-top: 15px;
+    } 
+    section.spare_parts {
+        padding: 40px 0;
+    } 
+    .fast_join {
+        gap: 20px;
+    } 
+    .spare_part_sec1 {
+        width: 100%;
+    } 
+    .sparePart_sec1_content {
+        height: 300px;
+        overflow-y: auto;
+    } 
+    .sparePart_grid {
+        gap: 20px;
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    } 
+    .spare_part_sec2 {
+        width: 100%;
+        margin-top: 15px;
+    } 
+    .spare_search {
+        margin-bottom: 15px;
+    } 
+    .background-bg {
+        flex-direction: column;
+        padding: 20px;
+    } 
+    .spare_content h3 {
+        line-height: 52px;
+        font-size: 42px;
+    } 
+    .sparePart_grid:last-child {
+        border: none;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    } 
+    .heading_text h3, .buyers_content h3, .heading_text1 h3 {
+        font-size: 30px;
+        line-height: 40px;
+    } 
+    .para_text p, .para-text1 p, .para-text1 h5, .mission_content p, .buyers_content p {
+        font-size: 16px;
+        line-height: 20px;
+    } 
+    .buyers_content {
+        margin-bottom: 20px;
+    } 
+    .para_text p {
+        margin-bottom: 12px;
+    } 
+    .new_grid_content img {
+        width: 40px;
+    } 
+    .imeage-sec1 {
+        width: 100%;
+    } 
+    .buyers_content h3>span {
+        display: inline;
+    } 
+    .requirement_sec1 .imeage_sec_content>img {
+        height: 330px;
+    } 
+    .text-block1 h4 {
+        font-size: 22px;
+        line-height: 28px;
+    } 
+    .form-sec p {
+        margin-top: 40px;
+    } 
+    .mission_sec1 {
+        height: 400px;
+    } 
+    .mission1_content .form-sec p {
+        margin-top: 25px;
+    } 
+    .mission_section1 {
+        flex-direction: column;
+    } 
+    .mission1_content {
+        width: 100%;
+        max-width: 100%;
+    } 
+    .mission_sec12 {
+        width: 100%;
+        height: 300px;
+    } 
+    .mission_sec1 {
+        height: 350px;
+    } 
+    .mission_sec11 {
+        padding: 30px 15px;
+        width: 100%;
+    } 
+    .bannerInnerData h3 {
+        font-size: 36px;
+        line-height: 46px;
+    } 
+    .recommend_card.new_Card {
+        width: calc(50% - 12px);
+    } 
+    .viewed_list {
+        width: calc(33.33% - 10px);
+    } 
+    .smallText_img {
+        margin: 0 0 12px;
+        width: 100%;
+    } 
+    .paymentHelp {
+        float: left;
+        text-align: left;
+    } 
+    .paymentHelp>h5 {
+        margin: 0;
+        padding: 0;
+    } 
+    .latestIndex_sec2:after, .latestIndex_sec2:before {
+        display: none;
+    } 
+    .laIndex_sec1 {
+        max-width: 700px;
+    } 
+    .laIndex_sec11 p:last-child {
+        margin-bottom: 10px;
+    } 
+    .laIndex_sec21 {
+        margin-top: 20px;
+    } 
+    .laIndex_sec31 h3 {
+        font-size: 28px;
+        line-height: 40px;
+    } 
+    .laIndex_sec31 h3 span {
+        font-size: 40px;
+    } 
+    .laIndex_sec32 img {
+        width: 210px;
+    } 
+    .laIndex_sec21 p a {
+        font-size: 16px;
+        line-height: 21px;
+    } 
+    .laIndex_sec31 {
+        padding: 40px 0;
+        padding-right: 4%;
+        width: 70%;
+    } 
+    .laIndex_sec32 {
+        width: 30%;
+    } 
+    .boxDescription_p {
+        padding: 20px;
+    } 
+    .boxDescription_p a {
+        margin-top: 15px;
+    } 
+    .main_content1 {
+        flex-direction: column;
+    } 
+    .new_sec22 .para_text {
+        width: 100%;
+    } 
+    .new_grid {
+        width: 100%;
+    } 
+    .heading_text h3 span {
+        display: inline;
+    } 
+    .grid_2, .new_grid {
+        gap: 20px;
+    } 
+    .mdBox_ordermain {
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -moz-box-orient: vertical;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: start;
+        -moz-box-align: start;
+        -ms-flex-align: start;
+        -webkit-align-items: flex-start;
+        align-items: flex-start;
+    } 
+    .mdBox_order2 {
+        -webkit-box-ordinal-group: 2;
+        -moz-box-ordinal-group: 2;
+        -ms-flex-order: 2;
+        -webkit-order: 2;
+        order: 2;
+        width: 100%;
+    } 
+    .mdBox_order1 {
+        -webkit-box-ordinal-group: 1;
+        -moz-box-ordinal-group: 1;
+        -ms-flex-order: 1;
+        -webkit-order: 1;
+        order: 1;
+        width: 100%;
+    } 
+    /* .imeage-sec1 {
+        height: 200px;
+    } */
+    .used_machine lord-icon {
+        width: 50px;
+        height: 50px;
+    }
+    .requirement_sec1 .para-text1 {
+        padding-right: 0;
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .requirement_sec1 .imeage_sec_content {
+        width: 100%;
+    }
+    .laIndex_sec11 p b {
+        font-size: 15px;
+    }
+    .bannerBlog {
+        padding: 80px 0 80px;
+    }
+    .blogInner.blogInnerAll {
+        min-height: auto;
+    }
+    .blogMore {
+        margin: 20px 0 30px;
+    }
+    .soldInner {
+        min-height: 320px;
+    }
+    .latesSold_sec .laIndex_sec2 ul {
+        gap: 21px;
+        margin-bottom: 30px;
+    }
+    .latesSold_sec .laIndex_sec2 ul li {
+        width: calc(33.33% - 14px);
+    }
+    .bannerInner {
+        padding: 60px 0;
+    }
+    .bannerInnerData h3 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .category_sec .bannerInnerData h3 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .searchBanner_inner h3 {
+        font-size: 36px;
+        line-height: 44px;
+    }
+    .dotInner {
+        gap: 8px;
+    }
+    .dotInner .dot {
+        width: calc(16.7% - 8px);
+    }
+    .dotVideo figure {
+        padding: 3px;
+    }
+    .bannerCont_txt h3 {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 15px;
+    }
+    .apps_content h3 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+    .apps_content h3 {
+        font-size: 35px;
+        line-height: 46px;
+    }
+    .banner_sec_content h3 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+    .Values_text h3 {
+        font-size: 35px;
+        line-height: 46px;
+    }
+    .capabilites_text h3 {
+        font-size: 35px;
+        line-height: 46px;
+        width: 100%;
+    }
+    .banner_icon1>span {
+        font-size: 35px;
+    }
+    .banner_icon span {
+        font-size: 36px;
+    }
+    .new_section, .banner_content, .banner_img {
+        height: unset;
+    }
+    #mainBanner_txt {
+        height: unset;
+    }
+    .contact_box {
+        max-width: 100%;
+        margin-top: 10px;
+    }
+    .availFinance_box1 {
+        max-width: 100%;
+    }
+    .machine_list1 {
+        max-width: 100%;
+    }
+    section.category_sec, .category_sec #mainBanner_txt1 {
+        height: 350px;
+    }
+    .category_sec #mainBanner_txt1 {
+        padding-top: 40px;
+    }
+    .avail_financing {
+        padding: 20px;
+    }
+    .category_sec .bannerInnerData h1 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .swiper-navigation-button-next {
+        right: -15px;
+    }
+    .machine_slider .swiper-slide {
+        margin: 0px -10px;
+        margin-right: 25px;
+    }
+    .machine_slider .swiper-navigation-button-next {
+        top: 40px;
+    }
+    .machine_slider .swiper-container {
+        width: unset;
+    }
+    .padd_10 {
+        padding: unset;
+    }
+    #ShowMoreDiv2 {
+        display: none;
+    }
+    .machine_listing {
+        width: 100%;
+    }
+    .side_nav {
+        width: 100%;
+    }
+    .padd_10 {
+        flex-direction: column;
+    }
+    .bannerInnerData {
+        max-width: 550px;
+    }
+    .category_text ul h2 {
+        margin-left: -40px;
+    }
+    .seller_btn {
+        display: unset;
+        gap: unset;
+    }
+    .dotInner {
+        gap: 8px;
+    }
+    .dotInner .dot {
+        width: calc(16.7% - 8px);
+    }
+    .itemYoutube iframe {
+        height: 300px;
+    }
+    .tabImageDetail {
+        height: 300px;
+    }
+    .dotInner .dot img {
+        height: 70px;
+    }
+    .machine_list12 ul {
+        gap: 20px 18px;
+    }
+    .grid_content1 {
+        width: calc(50% - 7px);
+    }
+    .category_filter {
+        padding: 0 20px;
+    }
+    .left_sidebar .wrapper .panel-group:first-child {
+        left: 20px;
+        right: 20px;
+        padding-top: 20px;
+    }
+    .swiper_container .slider .outer_box {
+        padding: 10px;
+        width: 110px;
+        height: 80px;
+    }
+    .cookieAcceptBar {
+        bottom: 30px;
+    }
+    .machine_dropdown .dropdown-content {
+        width: 150px;
+        right: 0;
+        padding: 10px;
+    }
+    .machine_dropdown .dropdown-content a {
+        font-size: 13px;
+        line-height: 18px;
+        font-family: 'Montserrat-Regular';
+    }
+    .pagina_tion {
+        margin-top: 20px;
+    }
+    .box-first {
+        margin-bottom: 20px;
+    }
+    .border_bottom_link p:last-of-type {
+        margin-bottom: 20px;
+    }
+    .more_question select.form-control {
+        margin-bottom: 15px;
+    }
+    .inner_privacyDiv {
+        margin-top: 0;
+    }
+    .page-heading h2 {
+        margin-bottom: 15px;
+    }
+    .banner_sec_content h3 {
+        font-size: 35px;
+        line-height: 46px;
+    }
+    .mission_sec {
+        padding: 0px ;
+    }
+    .plateftorm_content1 {
+        margin-top: 15px;
+    }
+    .laIndex_sec2 ul {
+        margin-top: 35px;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+    .laIndex_sec2 ul li {
+        width: calc(50% - 10px);
+    }
+    .laIndex_sec2 .recommend_card img {
+        height: 130px;
+    }
+    .headingT h1 {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .categoryTop {
+        margin-bottom: 20px;
+    }
+    .requestForOffer {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .contactform .form-group select {
+        margin-bottom: 15px;
+    }
+    .newBrands_sec42 h3 {
+        font-size: 38px;
+        line-height: 32px;
+        margin-bottom: 25px;
+        /* padding-left: 64px; */
+    }
+    .newBrands_sec42 h3:before {
+        width: 50px;
+        height: 26px;
+        left: -64px;
+    }
+    .app_feacture_img img {
+        margin-bottom: 20px;
+    }
+    .AppFeacture_heading p {
+        margin-bottom: 15px;
+    }
+    .inner_content {
+        padding: 15px;
+    }
+    .sparePartsInner .form-group label {
+        margin-bottom: 7px;
+    }
+    .specialFeat_list {
+        margin-left: -15px;
+    }
+    }
+    @media (max-width: 700px) {
+    .machine_slider ul li a {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .machine_slider h1 , .machine_slider h2 {
+        font-size: 15px;
+        width: 140px;
+    }
+    .category_text h2 {
+        font-size: 15px;
+    }
+    .category_text .nav-tabs {
+        gap: 6px;
+    }
+    .machine_slider ul li:nth-child(4) {
+        display: none;
+    }
+    }
+    @media (max-width: 650px) {
+    .container {
+        width: 100%;
+    }
+    .machine_list12 ul {
+        gap: 20px;
+    }
+    .machine_list12 ul li {
+        width: 100%;
+    }
+    .category_text {
+        margin-bottom: 15px;
+    }
+    section.category_sec, .category_sec #mainBanner_txt1 {
+        height: 330px;
+    }
+    .categoryTop {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+    .headingT h1:before {
+        width: 70px;
+        height: 2px;
+        bottom: -5px;
+    }
+    }
+    @media (max-width: 580px) {
+    .features_sec {
+        flex-direction: column;
+    }
+    .box-first {
+        margin-bottom: 20px;
+    }
+    img.aboutTextImg {
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+    .features_sec1 {
+        width: 100%;
+    }
+    .features_sec2 {
+        padding: 0 10%;
+        width: 100%;
+        margin-top: 30px;
+    }
+    .row.previous_issues {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .enquiryUs {
+        margin-top: 0;
+    }
+    .newEnquiry_Form p {
+        margin-bottom: 20px;
+    }
+    .newEnquiry_Form {
+        padding: 20px;
+        padding-top: 25px;
+    }
+    .previous_issues .col-sm-4, .previous_issues .col-xs-4 {
+        padding: 0 5px;
+    }
+    .availFinancing .modal-dialog, .shareMachine .modal-dialog {
+        width: 94%;
+        margin: 3%;
+    }
+    .popular-post-magicbox {
+        padding-left: 0;
+    }
+    .issues_slider {
+        width: 100%;
+    }
+    .issues_slider .carousel-control.left {
+        left: -20px;
+        width: 4%;
+    }
+    .issues_slider .carousel-control.right {
+        right: -20px;
+        width: 4%;
+    }
+    .Pcard_name h3 {
+        font-size: 16px;
+        line-height: 20px;
+        font-family: 'SegoeUI-Bold';
+        width: 100%;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+    }
+    .about_heading h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .about_Msec {
+        margin: 30px 0;
+    }
+    .Logo_box p span {
+        font-size: 30px;
+    }
+    .heading_box h2 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .banner_img h3, .banner_img h1 {
+        line-height: 40px;
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .banner_tableCell h1, .banner_tableCell h2, .banner_tableCell h3, .heading, .banner_tableCell h2.heading {
+        font-size: 25px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+    .newsletter_content h1, .newsletter_content h2 {
+        padding: 0 15px;
+    }
+    .banner_tableCell h1, .banner_tableCell h2, .banner_tableCell h3, .heading, .banner_tableCell h3.heading, .heading, .banner_tableCell h3.heading, .machine_sell h1, .machine_sell h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .heading-dataone {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .marginT {
+        padding-bottom: 10px;
+    }
+    .blog-mainheading h2 {
+        font-size: 25px;
+        line-height: 36px;
+    }
+    .heading-box h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .first-headingimg {
+        padding: 12px;
+    }
+    .pricing_screen {
+        padding: 30px 0;
+    }
+    .pricing_head .head_left, .pricing_head .head_right {
+        width: 100%;
+        text-align: left;
+    }
+    .pricing_head .head_left p {
+        margin-bottom: 20px;
+    }
+    .pricing_grid .pricing_head {
+        padding-bottom: 30px;
+        border-bottom: 1px solid #dddddd;
+        margin-bottom: 20px;
+    }
+    .pricing_details .etc_details ul {
+        padding-top: 30px;
+    }
+    .blog-detail.news_listBox .maga_box h1 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .magazine_header .bottom_header ul.bHeader_list li {
+        padding: 0 20px;
+    }
+    .news_listBox .maga_box h1 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .maga_box {
+        margin-bottom: 15px !important;
+        padding-bottom: 20px;
+    }
+    .Pcard_content .img_card {
+        height: 70px;
+    }
+    .Pcard_content p {
+        -webkit-line-clamp: 2;
+        height: auto;
+    }
+    .subscribe_Box {
+        padding: 30px;
+    }
+    .authentication_content {
+        width: 90%;
+    }
+    .authentication_img {
+        height: 280px;
+    }
+    .features_sec ul li {
+        width: 100%;
+        margin: 20px 0;
+        margin-top: 0;
+        padding-top: 20px;
+    }
+    .features_sec ul li:nth-child(4), .features_sec ul li:nth-child(5) {
+        margin-bottom: 20px;
+    }
+    .features_sec ul li:last-child {
+        padding-bottom: 0;
+    }
+    .machineQuery_sec {
+        flex-direction: column;
+        padding-top: 40px;
+    }
+    .machineQuery_sec1 {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .machineQuery_sec2 {
+        width: 100%;
+    }
+    .machineQuery_sec21 textarea, .macQuery_email {
+        width: 100%;
+    }
+    .machineQuery_sec1 h3 img {
+        width: 110px;
+    }
+    #product-slider__main .slick-slide {
+        height: 300px;
+    }
+    #productGallery {
+        padding: 20px;
+    }
+    #productGallery img {
+        height: 200px;
+        width: calc(50% - 5px);
+    }
+    .newMach_credit {
+        flex-direction: column;
+        border: 1px solid #000000;
+    }
+    .newMach_cre1 {
+        width: 100%;
+    }
+    .newMach_cre2 {
+        width: 100%;
+    }
+    .newMach_cre2 .content {
+        padding: 30px;
+    }
+    .advertise_Sec2 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .latestForm_table {
+        padding: 30px 20px;
+    }
+    .newDealer_sec {
+        padding: 30px 0;
+    }
+    .newDealer_Sec2 .machineQuery_sec1 {
+        margin-bottom: 20px;
+    }
+    .dealer_image {
+        height: 300px;
+        margin-bottom: 25px;
+    }
+    .Subscription_Box {
+        padding: 20px;
+    }
+    /*======= MACHINE LIST ORDER CHANGE =======*/
+    .orderchangesbox {
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -moz-box-orient: vertical;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: start;
+        -moz-box-align: start;
+        -ms-flex-align: start;
+        -webkit-align-items: flex-start;
+        align-items: flex-start;
+    }
+    .machineList_order1 {
+        -webkit-box-ordinal-group: 1;
+        -moz-box-ordinal-group: 1;
+        -ms-flex-order: 1;
+        -webkit-order: 1;
+        order: 1;
+    }
+    .machineList_order2 {
+        -webkit-box-ordinal-group: 2;
+        -moz-box-ordinal-group: 2;
+        -ms-flex-order: 2;
+        -webkit-order: 2;
+        order: 2;
+    }
+    .machineList_order3 {
+        -webkit-box-ordinal-group: 3;
+        -moz-box-ordinal-group: 3;
+        -ms-flex-order: 3;
+        -webkit-order: 3;
+        order: 3;
+    }
+    /*======= MACHINE LIST ORDER CHANGE =======*/
+    .about_sec2, .about_sec11 {
+        padding: 30px 0;
+    }
+    .about_sec81 img {
+        width: 100%;
+    }
+    .about_sec5 {
+        padding: 30px 0;
+    }
+    .manufact_sec3 {
+        padding: 30px 0;
+    }
+    .about_sec1 {
+        height: 300px;
+    }
+    .manufact_sec31 .carousel-inner>.item>img {
+        height: 350px;
+    }
+    .about_sec3 .manufact_sec32 h3 {
+        font-size: 28px;
+        line-height: 37px;
+        margin-bottom: 10px;
+    }
+    .manufact_sec1 {
+        padding: 30px 0;
+    }
+    .about_sec4 h3 {
+        font-size: 28px;
+        line-height: 37px;
+        margin-bottom: 10px;
+    }
+    .about_sec4 .manufact_cont {
+        width: 100%;
+    }
+    .about_sec5 h3 {
+        font-size: 28px;
+        line-height: 37px;
+        margin-bottom: 0;
+    }
+    .about_sec71 {
+        padding: 30px 15px;
+    }
+    .about_sec72 {
+        height: 410px;
+    }
+    .about_sec3 .manufact_sec32 h3, .about_sec4 h3, .about_sec5 h3, .about_sec612 h3, .about_sec71 h3, .about_sec81 h3, .about_sec91 h3, .about_sec101 h3, .about_sec111 h3 {
+        font-size: 28px;
+        line-height: 37px;
+        margin-bottom: 10px;
+    }
+    .about_sec8 {
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+    .about_sec9 {
+        padding: 30px 0;
+    }
+    .about_sec10 {
+        padding: 30px 0;
+    }
+    .manufact_cont h3, .about_cont h3 {
+        font-size: 35px;
+        line-height: 45px;
+        margin-bottom: 10px;
+    }
+    .about_cont p {
+        margin-bottom: 10px;
+    }
+    .about_sec52 {
+        margin-bottom: 25px;
+        padding: 15px;
+    }
+    .manufact_sec1 {
+        height: 300px;
+    }
+    .about_sec611 img {
+        width: 400px;
+    }
+    .about_secXI {
+        flex-direction: column;
+    }
+    .about_sec1011 {
+        width: 100%;
+    }
+    .about_sec101 img {
+        margin: 0 auto;
+    }
+    .banner_sec {
+        height: 350px;
+    }
+    .banner_sec_content h5 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .mission_sec_content_img {
+        width: 110px;
+    }
+    .banner_sec_content {
+        width: 100%;
+    }
+    .mission_sec_content_img img {
+        top: -82px;
+    }
+    .main_content h3 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .main_content h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .Values_text h3 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .Values_text {
+        margin-bottom: 20px;
+    }
+    .Values_text1 h3 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .capabilites_text h3 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .banner_sec_content h3 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    .banner_sec1 {
+        flex-direction: column;
+    }
+    .image_content img {
+        height: 300px;
+    }
+    .block_txt {
+        display: inline;
+    }
+    .Progress_section {
+        padding: 15px;
+        margin-top: 0;
+    }
+    .image_content1 {
+        margin-top: 30px;
+    }
+    .road_map {
+        margin-top: 30px;
+    }
+    .capablities_sec {
+        margin-top: 20px;
+        padding: 20px;
+    }
+    .pink_background {
+        margin-top: 20px;
+    }
+    .Presentation_sec img {
+        margin-top: 10px;
+    }
+    .newBrands_sec42 {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .banner_sec {
+        padding: 30px 0;
+    }
+    .mission_sec {
+        padding: 30px 0;
+    }
+    .values_section {
+        padding: 30px 0;
+    }
+    .pink_background {
+        width: 100%;
+        padding: 26px 34px;
+        height: unset;
+    }
+    .image_content img {
+        margin-top: 0;
+    }
+    .block_txt2 {
+        display: inline;
+    }
+    .Progress_section .main_content_text p {
+        margin-bottom: 0;
+    }
+    .main_content {
+        width: 70%;
+    }
+    .imeage_content_sec {
+        width: 30%;
+    }
+    .imeage_content {
+        width: 100%;
+        text-align: center;
+    }
+    .banner_imeage {
+        width: 100%;
+    }
+    .imeage_content img {
+        width: 200px;
+    }
+    .main_content h3, .Values_text h3, .Values_text1 h3, .Values_text h3 {
+        font-size: 25px;
+        line-height: 33px;
+        margin-bottom: 0;
+    }
+    .image_content {
+        margin-bottom: 0;
+    }
+    .banner_sec_content h3 span {
+        display: inline;
+    }
+    .newapps_sec1, .newapps_sec2, .newapps_sec3, .Queries_sec {
+        padding: 30px 0;
+    }
+    .newapps_sec1, .newBrands_sec4 {
+        height: 250px;
+    }
+    .apps_content h3 {
+        font-size: 42px;
+        line-height: 52px;
+        margin-bottom: 15px;
+    }
+    .newNewsletter_btn {
+        margin-top: 22px;
+    }
+    .newNewsletter_btn input::placeholder, .newNewsletter_btn input {
+        color: #ffffff;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .grid_section {
+        grid-template-columns: 1fr;
+    }
+    .grid_section {
+        gap: 15px;
+    }
+    .newapps_sec2_content h4 {
+        font-size: 28px;
+        line-height: 38px;
+        margin-bottom: 15px;
+        margin-top: 15px;
+    }
+    .AppFeacture_heading h3 {
+        font-size: 28px;
+        line-height: 38px;
+        margin-bottom: 15px;
+    }
+    .grid_content h4 {
+        font-size: 18px;
+        line-height: 26px;
+        margin-bottom: 5px;
+    }
+    .newapps_sec2 .imeage_content img {
+        width: 250px;
+        margin-top: 0px;
+    }
+    .AppFeacture_heading {
+        margin-bottom: 10px;
+    }
+    .newBrands_sec42 p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .newapps_sec2 .imeage_content {
+        width: 100%;
+        border: 1px solid #ddd;
+        padding: 10px;
+    }
+    .Queries_img_content img {
+        width: 190px;
+    }
+    .newapps_sec2 .imeage_content img {
+        width: 151px;
+    }
+    .Queries_img_content {
+        margin-top: 0px;
+        text-align: center;
+        border: 1px solid #ddd;
+        padding: 10px;
+    }
+    .app_feacture_img {
+        width: 100%;
+        text-align: center;
+        border: 1px solid #ddd;
+        padding: 10px;
+    }
+    .app_feacture_img img {
+        width: 322px;
+        padding-top: 0;
+        text-align: center;
+    }
+    .banner_sec2 {
+        height: 300px;
+    }
+    .newsletter_sec2_text ul li h3 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+    .newsletter_sec_content h3 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .newsletter_sec2 {
+        padding: 30px 0;
+    }
+    .banner_sec {
+        padding: 30px 0;
+    }
+    .newsletter_button {
+        margin-top: 0;
+    }
+    .banner_filter {
+        margin-top: 0;
+    }
+    .newsletter_sec_text ul li p:last-child {
+        margin-bottom: 0;
+    }
+    .newsletter_sec_text ul li:last-child {
+        margin-bottom: 0;
+    }
+    .newsletter-sec1 {
+        padding: 10px 0;
+    }
+    .machineList_order1 {
+        display: none;
+    }
+    .machineList_order2 .red_line {
+        margin-bottom: 0;
+    }
+    .line_machine {
+        display: none;
+    }
+    .machineList_order3 {
+        display: none;
+    }
+    .wanted_mach .box {
+        background: #e7e7e7;
+    }
+    .search-outer {
+        margin: 2px auto 15px;
+    }
+    .wanted_mach .box {
+        height: 45px;
+        top: 38px;
+    }
+    .sitemap_sec5 {
+        padding: 30px 0;
+    }
+    .sitemap_sec51 {
+        flex-direction: column;
+    }
+    .sitemap_sec511 {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .sitemap_sec512 {
+        width: 100%;
+        text-align: center;
+    }
+    .sitemap_sec512 img {
+        width: 50%;
+    }
+    .sitemap_sec8 ul {
+        gap: 10px 21px;
+    }
+    .sitemap_sec8 ul li {
+        width: calc(33.33% - 14px);
+    }
+    .sitemap_sec7 {
+        margin-top: 20px;
+    }
+    .manufacture_sec2 .tab-content {
+        padding: 30px 0;
+    }
+    .newmanufacture_sec {
+        padding: 30px 0;
+    }
+    .manufacture_sec2 ul li {
+        width: 25%;
+        text-align: center;
+    }
+    .logo_content h4 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .manufacture_sec2 .grid_section {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    .manufacture_sec2 .nav-tabs>li>a {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .manufacture_sec2 .grid_content {
+        margin-top: 0;
+    }
+    .manufacture_sec2 .nav-tabs {
+        width: 100%;
+    }
+    .manufacture_sec2 .nav-tabs>li>a {
+        padding: 10px 20px;
+    }
+    .logo_content {
+        padding-left: 0;
+    }
+    .manufacture_sec_tab {
+        flex-wrap: wrap;
+    }
+    .input_search {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .paymentCon_sec h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .paymentSec_1 a span {
+        font-size: 20px;
+    }
+    .paymentCon_sec p {
+        font-size: 14px;
+    }
+    .Usedmachinelisting_sec {
+        height: unset;
+    }
+    .Usedmachinelisting_sec, .Usedmachinelisting_sec1, .relatedMac_sec {
+        padding: 30px 0;
+    }
+    .add_videos {
+        margin-top: 15px;
+    }
+    .Usedmachinelisting_sec_content>h3 {
+        font-size: 25px;
+        line-height: 31px;
+        margin-bottom: 10px;
+    }
+    .videos_content {
+        flex-direction: column;
+    }
+    .videos_content li a img {
+        width: 100%;
+    }
+    .add_videos h3 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .Usedmachinelisting_sec_content p {
+        font-size: 15px;
+        line-height: 21px;
+        margin-bottom: 15px;
+    }
+    .relatedMac_sec11 {
+        margin-right: 0px;
+        padding: 15px;
+    }
+    .add_videos h3 {
+        margin-bottom: 25px;
+    }
+    .Usedmachinelisting_sec1_content .get_started {
+        margin-top: 10px;
+    }
+    .load_more .get_started {
+        margin-top: 0;
+    }
+    .relatedMac_sec11 h4 {
+        font-size: 25px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+    .button span {
+        margin-top: 15px;
+    }
+    .listing_button {
+        left: 27px;
+    }
+    .Usedmachinelisting_sec1_content h3 {
+        font-size: 16px;
+        line-height: 21px;
+        margin-bottom: 0;
+        margin-top: 15px;
+    }
+    .pricing_sec1 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .pricing_sec11 h3 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .pricing_sec2 {
+        padding-top: 30px;
+    }
+    .pricing_sec221>div>p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .pricing_sec221>div h5 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .pricing_sec221 ul {
+        margin-top: 20px;
+    }
+    .pricing_sec221 ul li:last-child {
+        margin-bottom: 30px;
+    }
+    .pricing_sec21 h4 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .pricing_sec3 {
+        padding-top: 30px;
+    }
+    .pricing_sec11 {
+        padding: 20px;
+    }
+    .pricing_sec2 .pricing_sec221:last-child {
+        margin-bottom: 0;
+    }
+    .sell_your_requirement_sec, .post_your_requirement_banner {
+        padding: 30px 0;
+        height: 300px;
+    }
+    .sell_your_requirement_sec1, .listed_machine_sec, .sellon_machinedalal, section.sell_your_equipment_sec {
+        padding: 30px 0;
+    }
+    .sell_your_requirement_content h3 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .sell_your_requirement_content p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .plateftorm_content h3 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .plateftorm_content1 p {
+        font-size: 15px;
+    }
+    .listed_machine_content h3 {
+        margin-bottom: 20px;
+    }
+    .sell_heading h3 {
+        font-size: 23px;
+        line-height: 31px;
+        margin-bottom: 20px;
+    }
+    .sellon_machinedalal .grid_sec {
+        grid-template-columns: 1fr;
+    }
+    .sellon_machinedalal .grid_content {
+        padding: 15px;
+    }
+    .sell_your_equipment_sec_content p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .listed_machine_sec .listed_machine_content h3 {
+        font-size: 25px;
+        line-height: 31px;
+        margin-left: 0;
+    }
+    .machine_img_content h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .machine_img_content {
+        padding: 15px;
+    }
+    .plateftorm_content1 {
+        margin-top: 15px;
+    }
+    .sell_your_equipment_sec_content img {
+        width: 55px;
+    }
+    .post_your_requirement_banner {
+        padding: 30px 0;
+        height: 350px;
+    }
+    .post_your_requirement_banner_content h3 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    .post_your_requirement_section1 {
+        padding: 30px 0;
+    }
+    .post_requirement_content h3 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .post_requirement_content p {
+        margin-bottom: 20px;
+    }
+    .post_requirement_content h5 {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .post_your_requirement_section2_content h4 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .grid_section_section2 {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    .grid_content_sec {
+        padding: 15px;
+    }
+    .grid_content_sec ul {
+        padding: 10px;
+    }
+    .grid_content_sec h3 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .read_more {
+        padding-top: 20px;
+        margin-top: 20px;
+    }
+    .post_your_requirement_section2 {
+        padding: 30px 0;
+    }
+    .post_require {
+        gap: 25px;
+        padding: 0 15px;
+    }
+    .text-block2 h4 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .text-block1 h4 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .text-block2 {
+        left: -2px;
+    }
+    .post_your_requirement_banner_content p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .imeage_sec_content>img {
+        height: 300px;
+    }
+    .post_requiremenyt .get_started {
+        margin-top: 0;
+    }
+    .text-block1 {
+        bottom: -30px;
+        padding: 10px 20px;
+    }
+    .imeage_sec_content {
+        margin-bottom: 25px;
+    }
+    .text-block1 img, .text-block2 img {
+        width: 40px;
+    }
+    .text-block2 {
+        padding: 10px 20px;
+    }
+    .faq_sec h1 {
+        font-size: 26px;
+        line-height: 38px;
+        margin-bottom: 8px;
+    }
+    .quesTab_box .ques_tabs .panel-title>a span.star_icon {
+        margin-right: 8px;
+        font-size: 22px;
+    }
+    .quesTab_box .ques_tabs .panel-title>a {
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+    .quesTab_box .ques_tabs .panel-body {
+        padding: 10px 0;
+        padding-left: 35px;
+    }
+    .ques_tabs .panel-heading .panel-title a:before {
+        right: 0;
+    }
+    .blog_sec {
+        padding: 30px 0;
+    }
+    .blog_sec .blog_heading h3 {
+        font-size: 27px;
+        line-height: 34px;
+    }
+    .blog_content h4 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .blog_content p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .blog_img img {
+        height: 240px;
+    }
+    .listed_mac_content img {
+        height: 240px;
+    }
+    .listed_mac {
+        margin-top: 20px;
+    }
+    .blog_heading1 h3 {
+        margin-bottom: 15px;
+    }
+    .blog_list {
+        margin-top: 15px;
+    }
+    .single_blog_sec {
+        padding: 30px 0;
+    }
+    .single_blog_sec .recent_box {
+        padding-top: 30px;
+    }
+    .listed_mac_content img {
+        height: 220px;
+    }
+    .single_blog_content img {
+        height: 250px;
+    }
+    .single_blog_head h3 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .listed_mac h3 {
+        font-size: 25px;
+        line-height: 31px;
+    }
+    .single_blog_head1 h3 {
+        font-size: 25px;
+        line-height: 31px;
+    }
+    .single_blog_sec1 {
+        padding: 30px 0;
+    }
+    .login_form {
+        width: 100%;
+        padding: 15px;
+    }
+    .single_blog_sec1_content h4 {
+        font-size: 37px;
+        line-height: 47px;
+    }
+    .single_blog_sec1_content {
+        padding: 15px;
+        height: 170px;
+    }
+    .single_blog_head {
+        margin-bottom: 20px;
+    }
+    .single_blog_head {
+        padding: 15px;
+    }
+    .single_blog_list {
+        margin-top: 15px;
+    }
+    .listed_mac_content {
+        margin-top: 20px;
+    }
+    .listed_mac {
+        margin-top: 20px;
+    }
+    .single_blog_head1 {
+        margin-top: 15px;
+    }
+    .single-mchinne h3 {
+        font-size: 23px;
+        line-height: 29px;
+    }
+    .blog_content h4 {
+        font-size: 25px;
+        line-height: 31px;
+    }
+    .blog_content {
+        padding: 15px;
+    }
+    .blog_content p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .blog_img img {
+        height: 270px;
+    }
+    .machine_finder_sec {
+        padding: 30px 0;
+        height: 290px;
+    }
+    .bannerInnerData {
+        max-width: 500px;
+    }
+    .Usedmachinelisting_sec_content>h3 {
+        font-size: 30px;
+        line-height: 45px;
+        margin-bottom: 10px;
+    }
+    .Usedmachinelisting_sec1_content .machine_img2 {
+        height: 250px;
+    }
+    .carousel_content h4 {
+        font-size: 18px;
+        line-height: 24px;
+        margin-top: 0;
+    }
+    .carousel_content {
+        padding-top: 15px;
+    }
+    .bannerInner_content h3 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .new_content_sec1, .new_sec2 {
+        padding: 30px 0;
+    }
+    .used_machine h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .used_machine:nth-child(4) {
+        margin-bottom: 0;
+    }
+    .newsec2_cont h3 {
+        font-size: 25px;
+        line-height: 31px;
+        margin-bottom: 10px;
+    }
+    .newsec2_cont {
+        margin-top: 0;
+    }
+    .new_sec2 .grid_content {
+        padding: 15px;
+    }
+    .machine_img_sec h4 {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .list_itemCont h4 span {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .list_itemCont h4 span {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .list_item1 .machine_img_sec p {
+        font-size: 13px;
+        line-height: 18px;
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+    }
+    .list_itemCont h5 {
+        font-size: 14px;
+        line-height: 19px;
+        margin-bottom: 5px;
+    }
+    .list_itemCont h6 {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .used_machine h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    section.right_equipment {
+        height: 200px;
+        float: left;
+    }
+    .newmanufacture_sec {
+        height: 200px;
+    }
+    section.spare_parts {
+        padding: 30px 0;
+        height: 270px;
+    }
+    .background-bg {
+        padding: 15px;
+        flex-wrap: wrap;
+    }
+    section.sparePart_sec1 {
+        padding: 30px 0;
+    }
+    .spare_content h3 {
+        line-height: 46px;
+        font-size: 37px;
+        margin-bottom: 15px;
+    }
+    .sparePart_grid_content p {
+        font-size: 13px;
+        line-height: 17px;
+    }
+    .spare_content p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .imeage-content {
+        height: 160px;
+    }
+    .innerText_content h3 {
+        font-size: 17px;
+        line-height: 23px;
+    }
+    .innerText_content h4 {
+        font-size: 15px;
+        line-height: 19px;
+    }
+    .new_content_sec1 {
+        padding: 30px 0;
+    }
+    .new_sec22 {
+        padding: 30px 0;
+    }
+    section.buyer_sec {
+        padding: 30px 0;
+    }
+    section.requirement_sec1 {
+        padding: 30px 0;
+    }
+    .used_machine h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .used_machine {
+        height: 140px;
+    }
+    .main_content1 {
+        flex-direction: column;
+        gap: 15px;
+    }
+    .heading_text h3, .buyers_content h3, .heading_text1 h3 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .para_text p, .para-text1 p, .para-text1 h5, .mission_content p, .buyers_content p {
+        font-size: 15px;
+    }
+    .new_sec22 .para_text {
+        width: 100%;
+        margin-top: 0;
+    }
+    .new_grid {
+        width: 100%;
+    }
+    .para-text1 {
+        width: 100%;
+    }
+    .requirement_sec1 .imeage_sec_content {
+        margin-top: 0;
+        width: 100%;
+    }
+    .requirement_sec1 .imeage_sec_content>img {
+        height: 250px;
+    }
+    .requirement_sec1 .text-block1 {
+        left: -5px;
+    }
+    .para-text1 h5 {
+        margin-bottom: 15px;
+    }
+    .mission1_content h4 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .mission1_content p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .form-sec label {
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    .mission_content h3 {
+        font-size: 25px;
+        line-height: 31px;
+    }
+    section.mission_sec {
+        padding: 30px 0;
+    }
+    .client_box .brand_popular {
+        padding-top: 0;
+    }
+    .mission1_content p {
+        font-size: 14px;
+    }
+    .mission_sec1 {
+        padding: 30px 0;
+        height: 350px;
+    }
+    .mission1_content {
+        max-width: 100%;
+    }
+    /* .imeage-sec1 {
+        height: 200px;
+    } */
+    .mission_sec12 {
+        width: 100%;
+        height: 250px;
+    }
+    .mission_sec11 {
+        padding: 30px 15px;
+        width: 100%;
+    }
+    .buyers_content h3>span {
+        display: unset;
+    }
+    .manufacture_sec21 .tab-content {
+        padding: 30px 0;
+    }
+    .grid-section {
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+    .manufacture_sec21 .grid-content img {
+        width: 100%;
+        height: 210px;
+    }
+    .manufacture_sec21 .video img {
+        width: 40px;
+        height: 40px;
+    }
+    .manufacture_sec21 .nav-tabs {
+        width: 100%;
+    }
+    .latestIndex_sec3 {
+        padding: 30px 0;
+    }
+    .laIndex_sec32 img {
+        width: 46%;
+        position: unset;
+    }
+    .laIndex_sec1 {
+        max-width: 532px;
+    }
+    .used_machine lord-icon {
+        width: 38px;
+        height: 38px;
+    }
+    .laIndex_sec31 h3 span {
+        font-size: 30px;
+        display: inline;
+    }
+    .laIndex_sec31 h3 {
+        font-size: 25px;
+        line-height: 33px;
+        margin-bottom: 15px;
+    }
+    .laIndex_sec31 {
+        padding: 30px 0;
+        padding-right: 0;
+        width: 100%;
+    }
+    .laIndex_sec3 {
+        flex-direction: column;
+    }
+    .laIndex_sec32 {
+        width: 100%;
+        text-align: center;
+    }
+    .boxDescription_p {
+        padding: 15px;
+    }
+    .heading_text1 h3 {
+        margin-bottom: 0;
+    }
+    .heading_text1 {
+        margin-bottom: 15px;
+    }
+    .popular_head .heading, .banner_tableCell h2.heading {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .category_sec .bannerInnerData h3 {
+        font-size: 30px;
+        line-height: 40px;
+        margin: 0 0 15px;
+    }
+    .indexSec_1 {
+        padding-top: 75px;
+        padding-bottom: 30px;
+        min-height: 240px;
+    }
+    .latesSold_sec .laIndex_sec2 ul {
+        gap: 24px;
+    }
+    .latesSold_sec .laIndex_sec2 ul li {
+        width: calc(50% - 12px);
+    }
+    .latesSold_sec {
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+    .bannerInner {
+        padding: 50px 0;
+    }
+    .searchBanner_inner h3 {
+        font-size: 34px;
+        line-height: 42px;
+    }
+    .search_suggestions ul {
+        max-height: 100px;
+    }
+    .bannerCont_txt h3 {
+        font-size: 28px;
+        line-height: 36px;
+        margin-bottom: 10px;
+    }
+    .bannerCont_txt p {
+        line-height: 21px;
+        font-size: 16px;
+    }
+    .form h4 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .machine_slider .list-item {
+        width: 110px;
+    }
+    .machine_slider .swiper-container {
+        width: 446px;
+    }
+    .machine_slider .swiper-slide {
+        margin-right: 20px !important;
+    }
+    .pagination {
+        margin-bottom: 0;
+        margin-top: 20px;
+    }
+    .machine_list1:last-child {
+        margin-bottom: 0;
+    }
+    .contact_box {
+        margin-top: 0;
+    }
+    .itemYoutube iframe {
+        height: 230px;
+    }
+    .dotInner .dot img {
+        height: 50px;
+    }
+    .category_sec #mainBanner_txt1 {
+        padding-top: 50px;
+    }
+    .home_container {
+        max-width: calc(100% - 30px);
+    }
+    .swiper_container .slider .outer_box {
+        width: 90px;
+        height: 70px;
+    }
+    .dotInner .dot {
+        width: calc(33.7% - 8px);
+    }
+    .cookieAcceptBar {
+        bottom: 15px;
+        left: 15px;
+        padding: 15px 20px;
+        max-width: 340px;
+    }
+    .logo img {
+        display: none;
+    }
+    .logo a:before {
+        content: '';
+        background: url('https://hashbrown.blob.core.windows.net/machinedalalimages/NewOptimizeImages/md-small-logo.svg') no-repeat;
+        position: absolute;
+        top: 1px;
+        left: 42px;
+        background-size: contain;
+        z-index: 9;
+        width: 40px;
+        height: 40px;
+    }
+    .new_header .machine_dropdown .dropbtn {
+        display: flex;
+        align-items: center;
+    }
+    .new_header .dropbtn_click {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        overflow: hidden;
+        width: 200px;
+        word-break: break-all;
+    }
+    .new_header .dropbtn_click.drop_icon {
+        display: inline-block;
+        position: unset;
+        width: unset;
+        overflow: auto;
+    }
+    .popup {
+        top: 15%;
+        left: 0;
+        transform: none;
+        width: 100%;
+    }
+    .machine_change_pwd .popup .popup-body {
+        width: calc(100% - 40px);
+        margin: 0 auto;
+    }
+    .availFinance_box {
+        margin-top: 20px;
+    }
+    .apps_content h3 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .sparePart_grid {
+        gap: 20px;
+        padding-bottom: 0;
+        margin-bottom: 20px;
+    }
+    .blogInnerRight h4 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .categories h3 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .headingCustom h2 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .mission_sec1 {
+        padding: 0;
+        height: 300px;
+    }
+    #div_machines .product_content {
+        width: 100%;
+    }
+    .newMach_images, .MachineDtl_sec5 {
+        padding-bottom: 30px;
+    }
+    .usedMac_sec .space-box {
+        padding-top: 20px;
+        padding-bottom: 25px;
+    }
+    .usedMac_sec {
+        margin-bottom: 25px;
+    }
+    .leftLinks1 span.arrowRight {
+        margin: 0 8px;
+    }
+    img.aboutTextImg {
+        margin-bottom: 15px;
+        margin-top: 0;
+    }
+    .new_header #div_masterLogin span {
+        margin-left: 15px;
+    }
+    #div_masterLogin {
+        margin-top: 4px;
+    }
+    .breadcrumbs_sec .leftLinks1 {
+        padding: 12px 0;
+    }
+    .newBrands_sec42 h3 {
+        font-size: 34px;
+        line-height: 28px;
+        margin-bottom: 20px;
+        /* padding-left: 56px; */
+    }
+    .newBrands_sec42 h3:before {
+        width: 43px;
+        height: 23px;
+        left: -56px;
+    }
+    .about_sec3 .manufact_sec32 h3, .about_sec4 h3, .about_sec5 h3, .about_sec612 h3, .about_sec71 h3, .about_sec81 h3, .about_sec91 h3, .about_sec101 h3, .about_sec111 h3 {
+        text-align: left;
+    }
+    .about_sec72 {
+        margin-bottom: 15px;
+    }
+    }
+    @media (max-width: 480px) {
+    .border_bottom_link p:last-of-type {
+        margin-bottom: 20px;
+    }
+    .apps_content h3 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .newapps_sec2_content h4 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .AppFeacture_heading h3 {
+        font-size: 25px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+    .apps_content h3 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .newapps_sec2_content h4 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .AppFeacture_heading h3 {
+        font-size: 25px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+    .newapps_sec1 {
+        height: unset;
+    }
+    .advertise_banner, .newMachine_banner {
+        height: 250px;
+    }
+    .newsletter_content img {
+        width: 40px;
+        height: 30px;
+    }
+    .latestForm_table {
+        padding: 30px 15px;
+    }
+    .check_txt {
+        line-height: 22px;
+    }
+    .MachineDtl_sec4 {
+        margin-bottom: 30px;
+    }
+    .newMachine_login {
+        padding: 30px;
+    }
+    .newMac_left h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .newsletter_content h1, .newsletter_content h3 {
+        font-size: 20px;
+        padding: 0 15px;
+        line-height: 30px;
+    }
+    .advertise_Sec2 {
+        padding-top: 25px;
+        padding-bottom: 35px;
+    }
+    .advertise_Sec2 .page-heading h3, .newMac_name h3 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .Subscription_Box h3 {
+        font-size: 22px;
+        line-height: 28px;
+        margin-bottom: 15px;
+    }
+    .brand_name {
+        max-width: 42%;
+    }
+    .Subscription_Box ul li span {
+        margin-right: 10px;
+    }
+    .newDealer_sec p {
+        padding-left: 23px;
+    }
+    .Subscription_Box ul li {
+        margin-bottom: 15px;
+    }
+    .Subscription_Box .price_txt {
+        padding-left: 23px;
+        margin-top: 0;
+    }
+    .subscribeBtn {
+        margin-top: 15px;
+    }
+    .inner_privacyDiv {
+        margin-bottom: 0;
+    }
+    .smallText_img {
+        margin: 0;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .search_btn a {
+        margin-top: 10px;
+    }
+    .page-heading h2, .page-heading h1 {
+        font-size: 25px;
+        line-height: 35px;
+        margin: 15px 0px 0px 0px;
+    }
+    .newsletter_content h1, .newsletter_content h2 {
+        font-size: 18px;
+        padding: 0 10px;
+        line-height: 25px;
+    }
+    .blog-mainheading h2 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .sub-headingone h4 {
+        font-size: 20px;
+        line-height: 28px;
+        padding-top: 10px;
+    }
+    .heading-tag h4, .heading-dataone h4, .main-headline {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .MacDesign_box .col-xs-12 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .issues_slider .carousel-control.right {
+        right: -10px;
+        width: 3%;
+    }
+    .issues_slider .carousel-control.left {
+        left: -10px;
+        width: 3%;
+    }
+    .issue_count span {
+        font-family: 'Montserrat-Regular';
+        font-size: 11px;
+    }
+    .issue_count {
+        padding: 0px 8px;
+        bottom: 10px;
+    }
+    .previous_issues .col-sm-4, .previous_issues .col-xs-4 {
+        padding: 0 4px;
+    }
+    .pricing_details .timing_detail, .pricing_details .etc_details {
+        width: 100%;
+    }
+    .pricing_details {
+        display: block;
+    }
+    .timing_detail .date_col {
+        margin: 0 auto;
+        width: 100%;
+    }
+    .timing_detail .date_col h3 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .pricing_heading h1 {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 15px;
+    }
+    .etc_details ul li:last-child {
+        margin-bottom: 0;
+    }
+    .machine_logo h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .blog-detail.news_listBox .maga_box h1 {
+        font-size: 25px;
+    }
+    .img_box {
+        margin-top: 20px;
+    }
+    .magazine_header .bottom_header ul.bHeader_list li {
+        padding: 0 10px;
+    }
+    .machine_logo {
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+    .news_listBox.blog-detail .blog-full ul {
+        padding-left: 20px;
+    }
+    .news_listBox .maga_box h1 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .news_listBox .maga_box h6 {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .magazine_image {
+        height: 250px;
+    }
+    .subscribe_Box {
+        padding: 20px;
+    }
+    .authentication_content {
+        width: 98%;
+    }
+    .authentication_img {
+        height: 280px;
+    }
+    .downloadKit_sec h3 span {
+        display: block;
+    }
+    .MachineDtl_txt {
+        margin-top: 20px;
+    }
+    .MachineDtl_txt h3, .features_head h3, .machineQuery_sec1 h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .features_sec ul li {
+        margin: 15px 0;
+        margin-top: 0;
+        padding-top: 15px;
+    }
+    .features_sec ul li:nth-child(4), .features_sec ul li:nth-child(5) {
+        margin-bottom: 15px;
+    }
+    .machineQuery_sec {
+        padding: 20px;
+        padding-top: 30px;
+    }
+    #product-slider__main .slick-slide {
+        height: 250px;
+    }
+    #product-slider__nav.object-fit--contain .slick-slide img {
+        height: 50px;
+    }
+    .MachineDtl_sec {
+        padding-bottom: 35px;
+        margin-bottom: 20px;
+        padding-top: 20px;
+    }
+    .newMac_models {
+        margin-top: 10px;
+    }
+    .newMach_cre2 .content {
+        padding: 25px;
+    }
+    .newMach_cre1 img {
+        width: 250px;
+    }
+    #productGallery {
+        padding: 15px;
+    }
+    .search_machine {
+        width: 85%;
+    }
+    .search_btn {
+        width: 100%;
+    }
+    .viewed_list {
+        width: calc(33.33% - 10px);
+    }
+    .login_image {
+        min-height: 260px;
+        height: 260px;
+    }
+    .formLogo img {
+        width: 45px;
+    }
+    .login_formN h3 {
+        font-size: 36px;
+        line-height: 35px;
+        margin-bottom: 20px;
+    }
+    .signup_links ul {
+        flex-direction: column;
+    }
+    .signup_links ul li {
+        margin: 0;
+        margin-top: 10px;
+    }
+    .latestForm_table .inner_table {
+        margin: 30px 0;
+    }
+    .signinBody_2 {
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+    .banner_sec2 {
+        height: unset;
+    }
+    .newsletter_sec2_text ul li h3 {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .newsletter_sec_content h3 {
+        font-size: 28px;
+        line-height: 34px;
+        margin-bottom: 15px;
+    }
+    .newsletter_sec2_text ul li h4 {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .sitemap_sec511 h3 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .sitemap_sec511 {
+        margin-bottom: 10px;
+    }
+    .sitemap_sec512 img {
+        width: 70%;
+    }
+    .sitemap_sec6 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .sitemap_sec71 h4 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .manufacture_sec_tab {
+        flex-wrap: wrap;
+    }
+    .manufacture_sec2 .nav-tabs>li>a {
+        padding: 10px;
+    }
+    .dropdown_bar {
+        width: 100%;
+    }
+    .banner-dropdown {
+        flex-direction: column;
+        justify-content: unset;
+        gap: 15px;
+        padding: 15px;
+    }
+    .Usedmachinelisting_sec1_content a .machine_img2 {
+        height: 210px;
+        object-fit: cover;
+    }
+    .banner-dropdown-content>h3 {
+        margin-bottom: 10px;
+    }
+    .banner-dropdown-content h3 {
+        font-size: 16px;
+        line-height: 22px;
+        margin-top: 0;
+    }
+    .menu-bar {
+        list-style: none;
+        margin: 0;
+        margin-bottom: 0;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    .menu-bar li {
+        padding: 0 10px;
+        border: 1px solid #ddd;
+    }
+    .dropdown_bar:last-child {
+        width: 100%;
+    }
+    .logo_content img {
+        width: 70px;
+    }
+    .pricing_sec3 .pricing_sec221 {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+    .fixed_popup2 {
+        padding: 30px 15px;
+    }
+    .fixed_popup2 h3 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .b-nav, .b-container.open {
+        width: 300px;
+    }
+    .b-nav.open {
+        padding: 30px 15px;
+    }
+    .b-bun--bottom, .b-bun--mid, .b-bun--top {
+        width: 25px;
+    }
+    .sell_your_requirement_content h3 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .listed_machine_content {
+        width: 100%;
+    }
+    .listed_machine_sec .listed_machine_content h3 {
+        margin-bottom: 15px;
+    }
+    .your_requirement1 {
+        text-align: left;
+    }
+    .sell_head {
+        gap: 15px;
+    }
+    .sell_img {
+        width: 35px;
+    }
+    .faq_sec {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .card_border .new_Card img {
+        height: 65px;
+    }
+    .dealer_content {
+        padding: 15px;
+    }
+    section.more_question {
+        padding: 30px 0;
+    }
+    .dealer_menu td {
+        padding: 10px;
+    }
+    .dealer_menu td p {
+        font-size: 13px;
+        line-height: 19px;
+    }
+    .more_question textarea.form-control {
+        height: 100px;
+    }
+    section.grey_color {
+        height: 300px;
+    }
+    .newsec2_cont h3 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .new_section .tab_list1 li a {
+        padding: 10px 20px;
+    }
+    .new_section .tab_list2 li a {
+        padding: 10px 20px;
+    }
+    .used_machine {
+        height: 140px;
+    }
+    .equipment_sec1 .modal_box {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .year_list {
+        font-size: 12px;
+        line-height: 17.33px;
+    }
+    .equipment_sec1 .card_machine .sizeRed {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .product_block_list {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .deletedMac_sec .machineQuery_sec {
+        padding: 20px;
+        padding-bottom: 30px;
+    }
+    .deletedMac_sec {
+        padding: 30px 0;
+    }
+    .deletedMac_sec img {
+        width: 60px;
+    }
+    .slider-sec {
+        width: 100%;
+    }
+    .fast_join {
+        gap: 15px;
+        flex-wrap: wrap;
+    }
+    .slider-sec #product-slider__main .slick-slide {
+        height: 200px;
+    }
+    section.spare_parts {
+        height: 220px;
+    }
+    .sparePart_grid_content {
+        width: 100%;
+    }
+    .background-bg {
+        flex-direction: column;
+    }
+    .sparePart_grid {
+        gap: 15px;
+    }
+    .imeage-content {
+        height: 140px;
+    }
+    .spare_content h3 {
+        line-height: 41px;
+        font-size: 33px;
+    }
+    .spare_content p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .new_grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+    .grid_2 {
+        gap: 15px;
+    }
+    .imeage-sec {
+        flex-direction: column;
+    }
+    .main_content1 {
+        gap: 15px;
+    }
+    .imeage-sec {
+        gap: 15px;
+    }
+    .mission1_content h4 {
+        margin-bottom: 10px;
+    }
+    .mission1_content p {
+        margin-bottom: 10px;
+    }
+    .grid-section {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+    .soldRES {
+        width: 100%;
+    }
+    .soldInner {
+        min-height: auto;
+    }
+    .used_machine h4 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .laIndex_sec11 p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .laIndex_sec2 ul {
+        flex-direction: column;
+    }
+    .laIndex_sec2 ul li {
+        width: 100%;
+    }
+    .laIndex_sec31 h3 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .laIndex_sec31 h3 span {
+        font-size: 25px;
+    }
+    .requirement_sec1 .imeage_sec_content>img {
+        height: 200px;
+    }
+    .laIndex_sec11 p b {
+        font-size: 14px;
+    }
+    .latestIndex_sec2 {
+        padding: 20px 0;
+    }
+    .laIndex_sec12 a {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .new_content_sec1 .d_flex {
+        gap: 15px;
+    }
+    .new_sec22, section.buyer_sec, section.requirement_sec1 {
+        padding-top: 20px;
+        padding-bottom: 28px;
+    }
+    .heading_text h3, .buyers_content h3, .heading_text1 h3 {
+        font-size: 22px;
+        line-height: 29px;
+    }
+    .new_sec22 .heading_text {
+        margin-bottom: 12px;
+    }
+    .para_text p {
+        margin-bottom: 10px;
+    }
+    .buyers_content {
+        margin-bottom: 12px;
+    }
+    .heading_text1 {
+        margin-bottom: 12px;
+    }
+    .para-text1 h5 {
+        margin-bottom: 10px;
+    }
+    .require_button {
+        margin-top: 12px;
+    }
+    .requirement_sec1 .para-text1 {
+        margin-bottom: 20px;
+    }
+    .bannerInner_content h3 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+    .mission_content h3 {
+        font-size: 22px;
+        line-height: 29px;
+    }
+    .mission_content p {
+        margin-bottom: 15px;
+    }
+    .popular_head .heading, .banner_tableCell h2.heading {
+        font-size: 22px;
+        line-height: 29px;
+        margin-bottom: 12px;
+    }
+    .banner_tableCell h1, .banner_tableCell h2, .banner_tableCell h3, .heading, .banner_tableCell h3.heading, .heading, .banner_tableCell h3.heading, .machine_sell h1, .machine_sell h3 {
+        font-size: 22px;
+        line-height: 29px;
+    }
+    .fast_text img {
+        width: 70px;
+        height: unset;
+    }
+    .machine_sell p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .mission_sec12 {
+        height: 200px;
+    }
+    .laIndex_sec21 p a {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .laIndex_sec311 {
+        gap: 15px;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .laIndex_sec32 img {
+        width: 60%;
+    }
+    .b-nav ul {
+        padding: 15px 0;
+    }
+    .b-link {
+        padding: 10px;
+    }
+    .user_profileM {
+        padding: 8px 15px;
+    }
+    .b-nav ul li a span {
+        font-size: 25px;
+        margin-right: 8px;
+    }
+    .user_profileM img {
+        width: 32px;
+        height: 32px;
+    }
+    .mission_sec11 {
+        padding: 22px 15px;
+    }
+    .bannerInnerData h3 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .latesSold_sec .laIndex_sec2 ul {
+        flex-direction: unset;
+    }
+    .latesSold_sec .laIndex_sec2 ul {
+        gap: 16px;
+        margin-bottom: 20px;
+    }
+    .latesSold_sec .laIndex_sec2 ul li {
+        width: calc(50% - 8px);
+    }
+    .bannerInner {
+        padding: 40px 0;
+    }
+    .itemYoutube iframe {
+        height: 200px;
+    }
+    .modelCustom .modal-dialog {
+        width: 90%;
+    }
+    .modelCustom .modal-body {
+        padding: 10px 0 0;
+    }
+    .modalTabs .tab-content {
+        margin: 15px 0 0;
+    }
+    .dotVideo figure {
+        width: 90px;
+    }
+    .videoContent {
+        padding-left: 100px;
+    }
+    .dotInner {
+        gap: 5px;
+    }
+    .dotInner .dot {
+        width: calc(33% - 5px);
+    }
+    .dotInner .dot img { 
+        height: 60px;
+    }
+    .dotsMain h3 {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    .categoryRight a {
+        padding: 4px 8px; margin: 0 0 3px;
+    }
+    .tabImageDetail {
+        height: 200px;
+    }
+    .machine_list12 ul li {
+        width: 100%;
+    }
+    .category_sec .bannerInnerData h3 {
+        margin: 0 0 12px;
+    }
+    .machine_slider {
+        margin-top: 15px;
+        gap: 10px;
+    }
+    .machine_slider h1, .machine_slider h2, .category_text h1 a {
+        text-align: left;
+    }
+    .category_text {
+        flex-direction: column;
+        gap: 10px;
+    }
+    .category_text h2 a {
+        text-align: left;
+    }
+    section.category_sec, .category_sec #mainBanner_txt1 {
+        height: 300px;
+    }
+    .category_sec #mainBanner_txt1 {
+        padding-top: 40px;
+    }
+    section.equipment_sec1 {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .category_text ul li a {
+        padding: 6px 10px;
+    }
+    .machine_slider h1, .machine_slider h2 {
+        font-size: 14px;
+        width: 125px;
+    }
+    .machine_slider ul li:nth-child(3) .outer_box {
+        margin-right: 0;
+    }
+    .add_filter_btn {
+        right: 30px;
+        bottom: 30px;
+    }
+    .new_header .dropbtn_click {
+        width: 180px;
+    }
+    .apps_content h3 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .new_header .menu_list-border {
+        padding: 10px 20px;
+        min-width: 95px;
+    }
+    .newNewsletter_btn {
+        margin-top: 20px;
+        height: 46px;
+    }
+    .newNewsletter_btn input {
+        width: calc(100% - 105px);
+        padding: 12px 15px;
+    }
+    .newNewsletter_btn a {
+        padding: 12px 15px;
+        width: 105px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    }
+    @media (max-width: 450px) {
+    .machine_slider ul li:nth-child(3) {
+        display: none;
+    }
+    .swiper_container .slider .outer_box {
+        width: 100px;
+    }
+    .new_header .dropbtn_click {
+        width: 150px;
+    }
+    .new_header .menu_list-border {
+        padding: 10px 15px;
+        min-width: 90px;
+        height: 36px;
+    }
+    .new_header #div_masterLogin span {
+        margin-left: 10px;
+    }
+    }
+    @media (max-width: 430px) {
+    .banner_img h3, .banner_img h1 {
+        line-height: 36px;
+        font-size: 28px;
+    }
+    .authentication_content {
+        width: 100%;
+    }
+    .banner_tableCell h1, .banner_tableCell h2, .banner_tableCell h3, .heading, .banner_tableCell h3.heading, .heading, .banner_tableCell h3.heading, .machine_sell h1, .machine_sell h3, .heading, .banner_tableCell h2.heading, .machine_sell h2 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .blog-mainheading h2 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .etc_details ul li p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-left: 12px;
+    }
+    .etc_details ul li span.material-icons {
+        font-size: 20px;
+    }
+    .Logo_box p span {
+        font-size: 25px;
+    }
+    .Descri_Box .issue_nme {
+        margin-bottom: 10px;
+    }
+    .magazine_image {
+        height: 200px;
+    }
+    .authentication_img {
+        height: 200px;
+        padding-bottom: 10px;
+    }
+    #product-slider__main .slick-slide {
+        height: 300px;
+    }
+    .newMac_models a:last-child {
+        margin-right: 0;
+    }
+    #product-slider__main .slick-slide {
+        height: 250px;
+    }
+    #productGallery img {
+        height: 200px;
+        width: 100%;
+    }
+    .newMach_images, .MachineDtl_sec5 {
+        padding-bottom: 30px;
+    }
+    .usedMac_sec {
+        margin-bottom: 30px;
+    }
+    .newMach_credit_sec {
+        padding-bottom: 30px;
+    }
+    .banner_image {
+        padding: 10px;
+    }
+    .machinmedalal_banner .banner_tableCell {
+        padding: 15px;
+    }
+    .newsletter_input {
+        padding: 0 18px;
+        width: 100%;
+    }
+    .sitemap_sec512 img {
+        width: 90%;
+    }
+    .sitemap_sec8 ul {
+        gap: 10px 20px;
+    }
+    .sitemap_sec8 ul li {
+        width: calc(50% - 10px);
+    }
+    .new_content_sec1 .d_flex {
+        gap: 15px;
+    }
+    .padding_3 {
+        width: 100%;
+    }
+    .b-nav ul {
+        padding: 10px 0;
+    }
+    .user_profileM span {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .modelCustom .modal-dialog {
+        width: auto;
+    }
+    .modelCustom .modal-body {
+        padding: 10px 0 0;
+    }
+    .modalTabs .tab-content {
+        margin: 15px 0 0;
+    }
+    .dotVideo figure {
+        width: 90px;
+        padding: 2px;
+    }
+    .videoContent {
+        padding-left: 110px;
+    }
+    .dotInner {
+        gap: 5px;
+    }
+    .dotInner .dot {
+        width: calc(33% - 5px);
+    }
+    }
+    @media (max-width: 407px) {
+    .newMachine_login {
+        flex-direction: column;
+    }
+    .newMac_left {
+        margin-bottom: 15px;
+    }
+    }
+    @media (max-width: 400px) {
+    /*======== NEW CSS start ==========*/
+    .maga_box {
+        margin-bottom: 15px !important;
+        padding-bottom: 15px;
+    }
+    .blog-detail.news_listBox .maga_box h1 {
+        font-size: 22px;
+        line-height: 30px;
+    }   
+    .news_listBox.blog-detail .blog-full h3 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .innerBread_box {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    .leftLinks2 {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    /*======== NEW CSS END ==========*/
+    .login_image {
+        min-height: 230px;
+        height: 230px;
+    }
+    .Usedmachinelisting_sec_content>h3 {
+        font-size: 23px;
+        line-height: 29px;
+        margin-bottom: 10px;
+    }
+    .sell_img {
+        width: 30px;
+    }
+    .machine_slider .swiper-container {
+        width: 265px;
+        height: 80px;
+    }
+    .category_sec .bannerInnerData h1 {
+        font-size: 27px;
+        line-height: 36px;
+    }
+    .machine_slider .swiper-slide {
+        height: 77px;
+    }
+    .padd_10 {
+        padding: unset;
+    }
+    .category_text {
+        margin-bottom: 20px;
+    }
+    .contact_box {
+        margin-top: 0;
+    }
+    .machine_list1:last-child {
+        margin-bottom: 0;
+    }
+    .contact_box h6 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .machine_slider ul li:nth-child(2) {
+        display: none;
+    }
+    .swiper_container .slider .outer_box {
+        width: 70%;
+        margin-right: 0;
+    }
+    .add_filter_btn a {
+        padding: 8px 18px;
+    }
+    .productImageDetail img {
+        height: 200px;
+    }
+    .new_header .dropbtn_click {
+        width: 120px;
+    }
+    .cookieAcceptBar {
+        padding: 12px 15px;
+        max-width: 300px;
+    }
+    .machine_change_pwd .popup .popup-body {
+        width: calc(100% - 30px);
+        padding: 20px;
+    }
+    .popup .popup-content {
+        margin-top: 10px;
+    }
+    .newsletter_sec2_text ul li {
+        padding: 0 5px;
+    }
+    .newsletter_sec2_text ul li h3 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    }
+    @media (max-width: 375px) {
+    .space-box #div_recommendedMachines {
+        display: block;
+    }
+    .recommend_card {
+        width: 100%;
+    }
+    .recommend_card p {
+        -webkit-line-clamp: 2;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .recommend_card img {
+        height: 130px;
+    }
+    .modal_boxRecommend {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .recommend_card .sizeRed {
+        font-size: 13px;
+        line-height: 19px;
+    }
+    .recommend_card.new_Card {
+        width: 100%;
+    }
+    .card_border .new_Card img {
+        height: 105px;
+    }
+    .card_border .modal_boxRecommend {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .viewed_list {
+        width: calc(50% - 10px);
+    }
+    .dotInner .dot img {
+        height: 50px;
+    }
+    .category_sec .bannerInnerData h3 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .logo a:before {
+        top: 2px;
+        left: 40px;
+        width: 35px;
+        height: 38px;
+    }
+    .breadcrumbs_sec a, .breadcrumbs_sec span {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    }
+    @media (max-width: 372px) {
+    .brand_name {
+        word-break: break-all;
+    }
+    }
+    @media (max-width: 360px) {
+    .advertise_banner, .newMachine_banner {
+        height: 200px;
+    }
+    .footer-play_store a img {
+        width: 17px;
+        height: 19px;
+    }
+    .advertise_Sec2 .page-heading h3, .newMac_name h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .search_machine {
+        width: 98%;
+    }
+    .search_btn {
+        width: 98%;
+    }
+    /*====== START INDEX PAGE ====== */
+    .newsletter_content h1, .newsletter_content h3 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .search_btn {
+        width: 90%;
+    }
+    .download_section .download_text {
+        font-size: 13px;
+        margin-top: 17.33px;
+    }
+    .menu_text ul li {
+        margin-right: 0;
+    }
+    .banner_img h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .banner_tableCell h1.banner_tableCell h2, .banner_tableCell h3 {
+        font-size: 21px;
+        line-height: 27.33px;
+    }
+    .right-btn {
+        width: 70%;
+    }
+    #div_machines .pro_con2 {
+        margin-right: 0;
+    }
+    #div_machines .pro_con3 {
+        margin-bottom: 0;
+    }
+    #div_machines .pro_con4 {
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+    .download_box .Download_Box {
+        padding: 15px;
+    }
+    .brand_popular li {
+        width: calc(50% - 8px);
+    }
+    .laIndex_sec31 h3 {
+        font-size: 21px;
+    }
+    /*====== END INDEX PAGE ====== */
+    /*====== START SINGLE MACHINE PAGE ====== */
+    .machine_right img {
+        margin-top: 25px;
+    }
+    .single_heading {
+        font-size: 17px;
+        line-height: 30px;
+    }
+    /*====== END SINGLE MACHINE PAGE ====== */
+    /*======== NEW CSS START ==========*/
+    .machine_logo {
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+    .machine_logo h1 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    /*======== NEW CSS END ==========*/
+    .banner_img h3, .banner_img h1 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .banner_tableCell h1, .banner_tableCell h2, .banner_tableCell h3, .heading, .banner_tableCell h3.heading, .heading, .banner_tableCell h3.heading, .machine_sell h1, .machine_sell h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .newsletter_content h1, .newsletter_content h2 {
+        font-size: 15px;
+        padding: 0 10px;
+        line-height: 24px;
+    }
+    .view_location {
+        width: 75px;
+    }
+    .page-heading h2, .page-heading h1 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .h3Priavcy {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .machineQuery_sec1 h3 img {
+        width: 70px;
+        top: -5px;
+    }
+    .features_sec2 {
+        padding: 0;
+        margin-top: 20px;
+    }
+    .download_section .play_store {
+        width: 100%;
+    }
+    .table_image img {
+        width: 90%;
+    }
+    .login_image {
+        min-height: 200px;
+        height: 200px;
+    }
+    .about_sec3 .manufact_sec32 h3, .about_sec4 h3, .about_sec5 h3, .about_sec612 h3, .about_sec71 h3, .about_sec81 h3, .about_sec91 h3, .about_sec101 h3, .about_sec111 h3 {
+        font-size: 25px;
+        line-height: 34px;
+        margin-bottom: 10px;
+    }
+    .banner_sec {
+        height: 317px;
+    }
+    .banner_sec_content h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .main_content h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .Values_text h3 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .Values_text1 h3 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .capabilites_text h3 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .pink_background {
+        width: 100%;
+    }
+    .pink_background {
+        width: 100%;
+        padding: 20px 25px;
+        height: unset;
+    }
+    .block_txt2 {
+        display: inline;
+    }
+    .banner_imeage {
+        width: 100%;
+    }
+    .imeage_content {
+        width: 100%;
+    }
+    .banner_sec_content h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .main_content {
+        width: 80%;
+    }
+    .mission_sec_content_img img {
+        top: -64px;
+    }
+    .mission_sec_content_img {
+        width: 70px;
+    }
+    .imeage_content img {
+        width: 155px;
+    }
+    .newapps_sec1 {
+        height: 300px;
+    }
+    .apps_content h3 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    .apps_content p {
+        font-family: 'Montserrat-Regular';
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .newapps_sec2 .imeage_content img {
+        width: 150px;
+    }
+    .newapps_sec2 .AppFeacture_heading {
+        margin-bottom: 10px;
+    }
+    .AppFeacture_heading h3 {
+        margin-bottom: 10px;
+    }
+    .box-first {
+        margin-bottom: 10px;
+    }
+    .newapps_sec2 .imeage_content {
+        width: 100%;
+        border: 1px solid #ddd;
+        padding: 10px;
+    }
+    .Queries_img_content img {
+        width: 180px;
+    }
+    .newsletter_sec2_text ul li h3 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .newsletter_sec_content h3 {
+        font-size: 25px;
+        line-height: 34px;
+        margin-bottom: 10px;
+    }
+    .newsletter_sec2_text ul li {
+        padding: 0px 5px;
+        width: 35%;
+    }
+    .newsletter_sec_text ul li {
+        margin-bottom: 10px;
+    }
+    .newmanufacture_sec {
+        padding: 30px 0;
+    }
+    .manufacture_sec2 .nav-tabs>li>a {
+        font-size: 13px;
+        line-height: 18px;
+        padding: 8px;
+    }
+    .logo_content h4 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .input_search {
+        width: 100%;
+    }
+    .manufacture_sec2 .nav-tabs {
+        width: 100%;
+    }
+    .paymentCon_sec {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .Usedmachinelisting_sec {
+        height: 250px;
+    }
+    .Usedmachinelisting_sec_content>h3 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    .listing_button a {
+        padding: 10px;
+    }
+    .Usedmachinelisting_sec1_content p {
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+    .Usedmachinelisting_sec_content p {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 10px;
+    }
+    .manufacture_sec2 a img {
+        height: 200px;
+    }
+    .pricing_sec11 {
+        padding: 15px;
+    }
+    .pricing_sec21 {
+        padding: 10px 20px;
+    }
+    .pricing_sec11 h3 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .pricing_sec21 h4 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .pricing_sec11 h3 {
+        font-size: 26px;
+        line-height: 33px;
+    }
+    .pricing_sec221>div h5 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .pricing_sec3 .pricing_sec221 {
+        padding-bottom: 25px;
+        margin-bottom: 25px;
+    }
+    .pricing_sec221>div>p {
+        font-size: 16px;
+        line-height: 21px;
+        margin-bottom: 5px;
+    }
+    .pricing_sec221 ul {
+        margin-top: 15px;
+    }
+    .fixed_popup2 h3 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .fixed_popup2 p {
+        font-size: 13px;
+    }
+    .b-nav, .b-container.open {
+        width: 260px;
+    }
+    .b-link {
+        padding: 8px 6px;
+    }
+    .b-container.open .b-menu {
+        top: 0;
+        right: -40px;
+    }
+    .sell_your_requirement_sec, .post_your_requirement_banner {
+        height: 250px;
+    }
+    .sell_your_requirement_content h3 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .plateftorm_content h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }    
+    .plateftorm_content1 p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .listed_machine_sec .listed_machine_content h3 {
+        font-size: 19px;
+        line-height: 24px;
+        margin-left: 0;
+    }
+    .plateftorm_content h4 {
+        margin-bottom: 10px;
+    }
+    .sell_heading h3 {
+        font-size: 20px;
+        line-height: 28px;
+        margin-bottom: 15px;
+    }
+    .sellon_machinedalal .grid_content h4 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .your_requirement1 {
+        text-align: left;
+        margin-bottom: 25px;
+    }
+    .machine_img_content {
+        padding: 15px;
+    }
+    .post_your_requirement_banner {
+        height: 250px;
+    }
+    .post_your_requirement_banner_content h3 {
+        font-size: 37px;
+        line-height: 46px;
+    }
+    .post_requirement_content h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .post_your_requirement_section2_content h4 {
+        font-size: 20px;
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+    .post_your_requirement_banner_content h3 {
+        font-size: 25px;
+        line-height: 35px;
+        margin-bottom: 10px;
+    }
+    .post_your_requirement_banner_content p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .text-block2 h4 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .text-block1 h4 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .imeage_sec_content>img {
+        height: 250px;
+    }
+    .grid_content_sec {
+        padding: 15px;
+    }
+    .text-block1, .text-block2 {
+        padding: 10px 15px;
+    }
+    .imeage_sec_content {
+        padding: 0 15px;
+    }
+    .post_requirement_content {
+        padding: 0px 15px;
+    }
+    .text-block1 {
+        bottom: -15px;
+    }
+    .quesTab_box .ques_tabs .panel-title>a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .faq_sec h1 {
+        font-size: 25px;
+        line-height: 35px;
+        margin-bottom: 5px;
+    }
+    .blog_sec .blog_heading h3 {
+        font-size: 25px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+    .blog_content h4 {
+        font-size: 17px;
+        line-height: 23px;
+    }
+    .blog_img img {
+        height: 200px;
+    }
+    .listed_mac_content img {
+        height: 200px;
+    }
+    .listed_mac h3 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .inner_content h4 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .blog_img {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .inner_content {
+        padding: 10px;
+    }
+    .single_blog_head h3 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .single_blog_content h5 {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .single_blog_content img {
+        height: 160px;
+    }
+    .single_blog_head1 h3 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .single_blog_head1 h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .listed_mac h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .listed_mac_content img {
+        height: 160px;
+    }
+    .inner_content h4 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .inner_content {
+        padding: 10px;
+    }
+    .single_blog_sec1_content h4 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .single_blog_sec1_content {
+        padding: 10px;
+        height: 150px;
+    }
+    .blog_img img {
+        height: 160px;
+    }
+    .blog_content h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .blog_content p {
+        font-size: 13px;
+        line-height: 19px;
+    }
+    .blog_content {
+        padding: 10px;
+    }
+    .single-mchinne h3 {
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 20px;
+    }
+    .single_blog_sec1_content h5 {
+        margin-top: 15px;
+    }
+    .single-mchinne h3::after {
+        top: 28px;
+    }
+    .single_blog_head p {
+        font-size: 13px;
+        line-height: 19px;
+        margin-bottom: 10px;
+    }
+    .login_form h4 {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .login_form {
+        height: 165px;
+    }
+    .login_form img {
+        height: 65px;
+    }
+    .single-mchinne {
+        margin-top: 15px;
+    }
+    .machine_finder_sec {
+        height: 220px;
+    }
+    .Usedmachinelisting_sec1_content a .machine_img2 {
+        height: 180px;
+    }
+    .newsletter_button input {
+        padding: 10px 18px;
+    }
+    .newsletter_button a {
+        padding: 10px 18px;
+    }
+    .dealer_menu td h5 {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    section.grey_color {
+        height: 250px;
+    }
+    .presen_content h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .form h4 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .ques_img img {
+        height: 250px;
+    }
+    section.more_question {
+        padding: 30px 0;
+    }
+    .dealer_content {
+        padding: 15px;
+    }
+    .dealer_content h3 {
+        font-size: 19px;
+        line-height: 25px;
+    }
+    .dealer_menu td p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .dealer_menu td h5 {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .presen_content h3 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .presen_content p {
+        font-size: 16px;
+        line-height: 21px;
+        margin-bottom: 10px;
+    }
+    .presen_content h3 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .form h4 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .bannerInner_content h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .recent_searches h4 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .search_menu {
+        width: unset;
+    }
+    .new_section .tab_list1 li a {
+        padding: 10px 22px;
+    }
+    .tab_list2 li a img {
+        height: 10px;
+    }
+    section.right_equipment {
+        height: 150px;
+    }
+    .newmanufacture_sec {
+        height: 150px;
+    }
+    .card_machine a img {
+        height: 155px;
+    }
+    .avail_financing .finan_content h3 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .avail_financing1 .finan_content h3 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .avail_financing2 .finan_content h3 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .avail_financing .finan_content p {
+        margin-bottom: 10px;
+    }
+    .avail_financing1 .finan_content p {
+        margin-bottom: 10px;
+    }
+    .avail_financing2 .finan_content p {
+        margin-bottom: 10px;
+    }
+    .MachineDtl_txt h3, .features_head h3, .machineQuery_sec1 h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .deletedMac_sec .machineQuery_sec {
+        padding: 15px;
+        padding-bottom: 22px;
+    }
+    .fast_join {
+        padding: 10px;
+    }
+    .slider-sec #product-slider__main .slick-slide {
+        height: 170px;
+    }
+    .sparePart_sec2_content h6 {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 10px;
+    }
+    section.spare_parts {
+        height: 190px;
+    }
+    .spare_content h3 {
+        line-height: 36px;
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+    .spare_search .newsletter_button input {
+        padding: 10px 18px;
+    }
+    .spare_search .newsletter_button a {
+        padding: 10px 18px;
+    }
+    .requirement_sec1 .text-block2 {
+        top: -8px;
+    }
+    .mission_content h3 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .heading_text h3, .buyers_content h3, .heading_text1 h3 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .popular_head .heading, .banner_tableCell h2.heading {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .boxDescription_p h3 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .new_grid_content p {
+        font-size: 15px;
+    }
+    .mission1_content h4 {
+        font-size: 21px;
+        line-height: 28px;
+        margin-bottom: 10px;
+    }
+    .requirement_sec1 .imeage_sec_content>img {
+        height: 290px;
+    }
+    .imeage-sec1 {
+        width: 100%;
+        /* height: 180px; */
+    }
+    .new_grid_content {
+        height: 130px;
+    }
+    .manufacture_sec21 .main_content {
+        padding: 10px;
+    }
+    .laIndex_sec12 a {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .mission_content {
+        padding: 18px;
+    }
+    .laIndex_sec21 p a {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .laIndex_sec311 {
+        flex-direction: column;
+        align-items: baseline;
+        gap: 15px;
+    }
+    .laIndex_sec31 h3 span {
+        font-size: 24px;
+    }
+    .laIndex_sec31 {
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+    .laIndex_sec32 img {
+        width: 70%;
+    }
+    .bannerInnerData h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .category_sec .bannerInnerData h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .latesSold_sec .laIndex_sec2 ul li {
+        width: 100%;
+    }
+    .bannerCont_txt h3 {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+    .bannerCont_txt p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .p_aboutText:last-child {
+        margin-bottom: 0;
+    }
+    .manufact_cont h3, .about_cont h3 {
+        font-size: 25px;
+        line-height: 34px;
+        margin-bottom: 10px;
+    }
+    .banner_sec_content h3 {
+        font-size: 25px;
+        line-height: 37px;
+    }
+    .sell_your_requirement_content h3 {
+        font-size: 25px;
+        line-height: 31px;
+    }
+    .listed_machine_sec .manufact_sec31>#div_machines {
+        flex-wrap: wrap;
+    }
+    .headingCustom h2 {
+        font-size: 25px;
+        line-height: 31px;
+        margin: 0 0 15px;
+    }
+    .searchBanner_inner h3 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .sparePart_grid_content {
+        width: calc(50% - 8px);
+    }
+    .searchBanner_inner h3 {
+        font-size: 25px;
+        line-height: 36px;
+    }
+    .searchBanner_inner h3 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .searchBanner_inner h3 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .mac_brand {
+        font-size: 13px;
+    }
+    .searchBanner_inner h3 {
+        font-size: 25px;
+        line-height: 36px;
+    }
+    .social_links {
+        flex-wrap: wrap;
+    }
+    .listed_machine_sec .manufact_sec31>#div_machines {
+        flex-wrap: wrap;
+    }
+    .mission_sec1 {
+        padding: 0;
+        height: 350px;
+    }
+    .mission_sec1 {
+        padding: 0;
+    }
+    .about_cont p {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 5px;
+    }
+    .blogInnerRight h4 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .categories h3 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .indexSec_1 {
+        min-height: 230px;
+        padding-top: 80px;
+    }
+    .category_sec .bannerInnerData h1 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .machine_slider .swiper-navigation-button-next {
+        top: 20px;
+    }
+    .machine_slider {
+        gap: 15px;
+    }
+    .category_text ul h2 {
+        margin-left: 0;
+    }
+    .grid_sec12 {
+        grid-template-columns: 1fr;
+    }
+    .arrowRight {
+        margin: 0 5px;
+    }
+    .availFinance_box1 h4 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .availFinance_box1 {
+        padding: 10px;
+    }
+    .category_text h2 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .dotVideo figure {
+        width: 100%;
+        margin: 0 0 10px;
+    }
+    .dotVideo figure img {
+        height: 120px;
+        width: 100%;
+        object-fit: cover;
+    }
+    .videoContent {
+        padding-left: 0; 
+        margin: 0 0 10px;
+    }
+    .videoContent h5 {
+        width: 100%;
+    }  
+    .cookieAcceptBar {
+        max-width: 270px;
+    } 
+    .machine_change_pwd .popup .popup-body {
+        padding: 15px;
+    }
+    .categories h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .dealer_content {
+        margin-top: 40px;
+    }
+    .footer-play_store a {
+        padding: 10px 15px;
+    }
+    .user_profileM {
+        padding: 8px 10px;
+    }
+    .user_profileM a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .newBrands_sec4 {
+        height: 230px;
+    }
+    .newNewsletter_btn {
+        margin-top: 18px;
+        height: 44px;
+    }
+    .newBrands_sec42 h3 {
+        font-size: 30px;
+        line-height: 23px;
+        margin-bottom: 18px;
+        /* padding-left: 52px; */
+    }
+    .newBrands_sec42 h3:before {
+        top: 1px;
+        width: 40px;
+        height: 21px;
+        left: -52px;
+    }
+    .newNewsletter_btn a {
+        padding: 12px 10px;
+        width: 95px;
+    }
+    .newNewsletter_btn input {
+        width: calc(100% - 95px);
+        padding: 12px 13px;
+    }
+    .about_sec5 h3 {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 10px;
+        text-align: left;
+    }
+    .specialFeat_list {
+        margin-left: -15px;
+    }
+    }
+    @media (max-width: 320px) {
+    .category_sec .bannerInnerData h3 {
+        font-size: 23px;
+        line-height: 32px;
+    }
+    .new_header .menu_list-border {
+        padding: 0;
+        min-width: unset;
+        height: 36px;
+        border: 0;
+        font-family: 'Montserrat-Regular';
+        font-size: 15px;
+    }
+    #div_masterLogin {
+        margin-top: 3px;
+    }
+    .new_header #div_masterLogin span {
+        margin-left: 20px;
+    }
+    .newBrands_sec42 h3 {
+        font-size: 28px;
+        line-height: 21px;
+    }
+    .newBrands_sec4 {
+        height: 250px;
+    }
+    }
+    /*============== MEDIA QUERY END ===============*/
+    /* Animations */
+    @-webkit-keyframes slideInLeft {
+    0% {
+        -webkit-transform: translate3d(-100%, 0, 0);
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        visibility: visible;
+    }
+    }
+    @keyframes slideInLeft {
+    0% {
+        -webkit-transform: translate3d(-100%, 0, 0);
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        visibility: visible;
+    }
+    }
+    @-webkit-keyframes rotate {
+    from {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+    }
+    @keyframes rotate {
+    from {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+    }
+    @-webkit-keyframes rotate_left {
+    from {
+        -webkit-transform: rotate(16deg);
+        transform: rotate(16deg);
+    }
+    to {
+        -webkit-transform: rotate(376deg);
+        transform: rotate(376deg);
+    }
+    }
+    @keyframes rotate_left {
+    from {
+        -webkit-transform: rotate(16deg);
+        transform: rotate(16deg);
+    }
+    to {
+        -webkit-transform: rotate(376deg);
+        transform: rotate(376deg);
+    }
+    }
+    @-webkit-keyframes rotate_right {
+    from {
+        -webkit-transform: rotate(4deg);
+        transform: rotate(4deg);
+    }
+    to {
+        -webkit-transform: rotate(364deg);
+        transform: rotate(364deg);
+    }
+    }
+    @keyframes rotate_right {
+    from {
+        -webkit-transform: rotate(4deg);
+        transform: rotate(4deg);
+    }
+    to {
+        -webkit-transform: rotate(364deg);
+        transform: rotate(364deg);
+    }
+    }
