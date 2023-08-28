@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="83" height="100" viewBox="0 0 83 100">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="83" height="100" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="100" height="100" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_8" data-name="Mask Group 8" clip-path="url(#clip-path)">
+    <g id="noun-bell-4997283" transform="translate(-76.378 -7.949)">
+      <path id="Path_1" data-name="Path 1" d="M167.6,21.84A29.647,29.647,0,0,1,197.157,51.4v20.68H138.039V51.4A29.647,29.647,0,0,1,167.6,21.84Zm0-13.891a7.465,7.465,0,0,1,7.443,7.443v4.545a32.221,32.221,0,0,0-14.887,0V15.392A7.465,7.465,0,0,1,167.6,7.949ZM179.667,97.87a12.266,12.266,0,0,1-24.138,0ZM136.646,74.854h61.9a10.121,10.121,0,0,1,0,20.241h-61.9a10.121,10.121,0,0,1,0-20.241Z" transform="translate(-49.72 0)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
