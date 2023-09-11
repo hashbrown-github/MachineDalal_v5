@@ -6733,10 +6733,10 @@ b, strong {
     font-family: 'SegoeUI-Bold';
 }
 
-#div_machines {
+/* #div_machines {
     width: 100%;
     float: left;
-}
+} */
 
 .listed_machine_sec .manufact_sec31 > #div_machines {
     display: flex;
@@ -15913,6 +15913,7 @@ section.requirement_sec1 {
 section.mission_sec {
     padding: 70px 0;
     width: 100%;
+    clear: both;
     display: table;
     background: url('https://Hashbrown.azureedge.net/machinedalalimages/NewOptimizeImages/mission_bg.jpg') no-repeat;
     background-size: cover;
@@ -18403,7 +18404,7 @@ section.category_sec {
 }
 
     .category_text .nav-tabs > li {
-        margin-bottom: 0;
+        margin-bottom: 10px;
     }
 
 .category_text h2 {
@@ -18813,8 +18814,8 @@ section.category_sec {
 
 .view_text {
     display: flex;
-    flex-direction: column;
     margin-bottom: 15px;
+    justify-content: space-between;
 }
 
     .view_text h5 {
@@ -18870,14 +18871,14 @@ section.category_sec {
 }
 
 .view_text .dropdown-menu {
-    width: 81px;
-    min-width: 81px;
+    width: 65px;
+    min-width: 75px;
     padding: 0;
     margin: 0;
-    top: 33px;
+    top: 46px;
     left: unset;
     border: 0;
-    right: 0;
+    right: -4px;
     text-align: center;
 }
 
@@ -20336,6 +20337,32 @@ section.policy1 {
 }
 .accordion-item {
     margin-bottom: 15px;
+}
+.accordion-body p {
+    margin-bottom: 0;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.accordion-body {
+    background: #f7f7f7;
+}
+.accordion-item {
+    border: unset;
+}
+.modal-dialog {
+    max-width: 1590px;
+}
+.modal {
+    top: 60px;
+}
+span.ques_h {
+    margin-left: 6px;
+}
+.card_content {
+    padding: 10px;
 }
 @-webkit-keyframes fadein {
     from {
@@ -22686,11 +22713,11 @@ select {
 
     .Progress_section {
         padding: 20px;
-        margin-top: 40px;
+        margin-top: 30px;
     }
 
     .Values_text {
-        margin-bottom: 40px;
+        margin-bottom: 30px;
     }
 
     .mission_sec {
@@ -23338,7 +23365,7 @@ select {
     }
 
     .new_section, .banner_content, .banner_img, #mainBanner_txt {
-        height: 350px;
+        height: 390px;
     }
 
     .heading_text h3, .buyers_content h3, .heading_text1 h3 {
@@ -24087,6 +24114,39 @@ select {
 
     .boxDescription_p {
         padding: 25px;
+    }
+}
+@media (max-width: 800px) {
+    .apps_content h3 {
+        font-size: 50px;
+        line-height: 66px;
+    }
+}
+@media (max-width: 768px) {
+    .mission_sec1 {
+        height: 340px;
+    }
+    .more_question .form-group {
+        margin-bottom: 15px;
+    }
+    .downloadKit_sec a {
+        padding: 8px 11px;
+    }
+    .about_sec711 {
+        width: 410px;
+    }
+    .about_sec71 {
+        padding: 22px;
+    }
+
+    .newapps_sec2 .imeage_content img {
+        max-width: 100%;
+    }
+    .border_bottom_link p:last-of-type {
+        margin-bottom: 30px;
+    }
+    .sparePart_sec1_content h5 {
+        width: 150px;
     }
 }
 
@@ -26775,7 +26835,7 @@ select {
     }
 
     .contactform .form-group select {
-        margin-bottom: 15px;
+        margin-bottom: 10px;
     }
 
     .newBrands_sec42 h3 {
@@ -26859,6 +26919,12 @@ select {
 }
 
 @media (max-width: 580px) {
+    .contactform {
+        margin-top: 10px;
+    }
+    .san-section-bar {
+        padding: 30px 0;
+    }
     section.policy1 {
         padding: 30px 0;
         clear: both;
@@ -27413,7 +27479,7 @@ select {
     }
 
     .Presentation_sec img {
-        margin-top: 10px;
+        margin-top: 0;
     }
 
     .newBrands_sec42 {
@@ -27475,7 +27541,7 @@ select {
     .main_content h3, .Values_text h3, .Values_text1 h3, .Values_text h3 {
         font-size: 25px;
         line-height: 33px;
-        margin-bottom: 0;
+        margin-bottom: 10px;
     }
 
     .image_content {
@@ -28979,7 +29045,7 @@ select {
     .page-heading h2, .page-heading h1 {
         font-size: 25px;
         line-height: 35px;
-        margin: 15px 0px 0px 0px;
+        margin: 0px 0px 10px 0px;
     }
 
     .newsletter_content h1, .newsletter_content h2 {
@@ -30046,7 +30112,15 @@ select {
 }
 
 @media (max-width: 400px) {
+    .capablities_sec {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
     /*======== NEW CSS start ==========*/
+    .mission_sec1 {
+        padding: 0;
+        height: 330px;
+    }
     .maga_box {
         margin-bottom: 15px !important;
         padding-bottom: 15px;
@@ -30243,6 +30317,10 @@ select {
 }
 
 @media (max-width: 360px) {
+    .capablities_sec {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
     .swiper_container .slider .outer_box {
         width: 89px;
     }
@@ -31301,7 +31379,7 @@ select {
 
     .mission_sec1 {
         padding: 0;
-        height: 350px;
+        height: unset;
     }
 
     .mission_sec1 {
@@ -31460,6 +31538,14 @@ select {
 }
 
 @media (max-width: 320px) {
+    .view_text .dropdown-menu {
+        top: 36px;
+        left: 50px;
+    }
+    .view_text {
+        flex-direction: column;
+        margin-bottom: 15px;
+    }
     .swiper_container .slider .outer_box {
         width: 72px;
     }
@@ -31594,30 +31680,4 @@ select {
         -webkit-transform: rotate(364deg);
         transform: rotate(364deg);
     }
-}
-.accordion-body p {
-    margin-bottom: 0;
-}
-
-.accordion-button:focus {
-    box-shadow: none;
-}
-
-.accordion-body {
-    background: #f7f7f7;
-}
-.accordion-item {
-    border: unset;
-}
-.modal-dialog {
-    max-width: 1590px;
-}
-.modal {
-    top: 60px;
-}
-span.ques_h {
-    margin-left: 6px;
-}
-.card_content {
-    padding: 10px;
 }
