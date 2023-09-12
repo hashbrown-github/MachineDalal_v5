@@ -1400,6 +1400,7 @@ header {
     padding: 40px 0;
     width: 100%;
     float: left;
+    clear: both;
 }
 
     .footer-box p {
@@ -1494,8 +1495,7 @@ header {
 
     .footer-play_store a img {
         width: 19px;
-        height: 21px;
-        /* vertical-align: sub; */
+        vertical-align: bottom;
     }
 
     .footer-play_store a {
@@ -1518,7 +1518,7 @@ header {
             margin-left: 5px;
             font-size: 14px;
             line-height: 19px;
-            vertical-align: bottom;
+            vertical-align: middle;
         }
 
 .footer_right .fav_icon {
@@ -10926,6 +10926,8 @@ textarea.form-control {
 
 .newsletter_sec2 {
     padding: 70px 0;
+    clear: both;
+    width: 100%;
 }
 
 .newsletter_sec_text ul {
@@ -20353,7 +20355,7 @@ section.policy1 {
     border: unset;
 }
 .modal-dialog {
-    max-width: 1590px;
+    max-width: 500px;
 }
 .modal {
     top: 60px;
@@ -20363,6 +20365,32 @@ span.ques_h {
 }
 .card_content {
     padding: 10px;
+}
+.image_content figure {
+    margin: 0;
+}
+.image_content1 figure {
+    margin: 0;
+}
+.road_map_image figure {
+    margin: 0;
+}
+.imeage_sec_content figure {
+    margin-bottom: 0;
+}
+.availFinance_box1 a figure {
+    margin-bottom: 0;
+}
+.color_flex figure {
+    margin-bottom: 0;
+}
+.buttons_footer {
+    text-align: center;
+    margin-top: 12px;
+}
+
+footer.footer-box a figure {
+    margin-bottom: 0;
 }
 @-webkit-keyframes fadein {
     from {
@@ -22282,8 +22310,26 @@ select {
 }
 
 @media (max-width: 991px) {
+    .footer-play_store a div {
+        display: flex;
+    }
+    .footer-play_store a img {
+        width: 15px;
+        vertical-align: sub;
+    }    
+    .text-block1 {
+        gap: 12px;
+    }
+    .imeage_sec_content {
+        margin-top: 25px;
+        margin-bottom: 0;
+    }
+.imeage_sec {
+    height: 400px;
+    object-fit: cover;
+}
     .container {
-        width: 98%;
+        width: 100%;
     }
 
     .download_box, .download_box .banner-height {
@@ -23428,7 +23474,7 @@ select {
     }
 
     .mission_sec1 {
-        padding: 40px 0;
+        padding: 0;
     }
 
     .mission_content h3 {
@@ -23573,11 +23619,6 @@ select {
 
     .mission_sec11 {
         padding: 30px;
-    }
-
-    .mission1_content h4 {
-        font-size: 22px;
-        line-height: 28px;
     }
 
     .mission1_content p {
@@ -24123,6 +24164,13 @@ select {
     }
 }
 @media (max-width: 768px) {
+
+    .mission_sec12 img {
+        height: 600px;
+    }
+    .footer-play_store a div figure {
+        margin-bottom: 0;
+    }
     .mission_sec1 {
         height: 340px;
     }
@@ -24148,9 +24196,27 @@ select {
     .sparePart_sec1_content h5 {
         width: 150px;
     }
+    .mission_sec12 figure {
+        margin-bottom: 0;
+    }
+    .footer-play_store a div {
+        display: flex;
+        align-items: center;
+        gap: 2px;
+    }
+    .footer-play_store a img {
+        width: 15px;
+        vertical-align: sub;
+    }
 }
 
 @media (max-width: 767px) {
+    .mission_sec12 img {
+        height: 300px;
+    }
+    .newsletter_sec_text ul li p:last-child {
+        margin-bottom: 0;
+    }
     .h3Priavcy {
         margin-bottom: 10px;
     }
@@ -25598,7 +25664,7 @@ select {
     }
 
     .mission_sec_content_img img {
-        top: -126px;
+        top: -181px;
     }
 
     .mission_sec_content_img {
@@ -25660,6 +25726,7 @@ select {
     .app_feacture_img img {
         width: 100%;
         padding-top: 0;
+        margin-bottom: 20px;
     }
 
     .newsletter_sec_content h3 {
@@ -26318,6 +26385,7 @@ select {
 
     .imeage-sec1 {
         width: 100%;
+        height: 100%;
     }
 
     .buyers_content h3 > span {
@@ -26852,7 +26920,6 @@ select {
         }
 
     .app_feacture_img img {
-        margin-bottom: 20px;
     }
 
     .AppFeacture_heading p {
@@ -26919,6 +26986,16 @@ select {
 }
 
 @media (max-width: 580px) {
+    .main_content_text p {
+        margin-bottom: 10px;
+    }
+    .mission_sec12 img {
+        height: unset;
+    }
+
+.Queries_content {
+    margin-top: 20px;
+}
     .contactform {
         margin-top: 10px;
     }
@@ -26942,7 +27019,7 @@ select {
     }
 
     .box-first {
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
 
     img.aboutTextImg {
@@ -27643,9 +27720,10 @@ select {
         text-align: center;
         border: 1px solid #ddd;
         padding: 10px;
+        margin-bottom: 15px;
     }
 
-        .app_feacture_img img {
+        .app_feacture_img img { 
             width: 322px;
             padding-top: 0;
             text-align: center;
@@ -27691,6 +27769,7 @@ select {
 
     .newsletter-sec1 {
         padding: 10px 0;
+        padding-top: 25px;
     }
 
     .machineList_order1 {
@@ -28033,7 +28112,7 @@ select {
 
     .post_your_requirement_section1 {
         padding: 30px 0;
-        padding-top: 50px;
+        padding-top: 40px;
     }
 
     .post_requirement_content h3 {
@@ -29651,8 +29730,8 @@ select {
     }
 
     .new_sec22, section.buyer_sec, section.requirement_sec1 {
-        padding-top: 20px;
-        padding-bottom: 28px;
+        padding-top: 30px;
+        padding-bottom: 30px;
     }
 
     .heading_text h3, .buyers_content h3, .heading_text1 h3 {
@@ -30112,6 +30191,12 @@ select {
 }
 
 @media (max-width: 400px) {
+    .border_bottom_link {
+        padding-bottom: 15px;
+    }
+    .mission_sec12 img {
+        height: 200px;
+    }
     .capablities_sec {
         padding-left: 5px;
         padding-right: 5px;
@@ -30317,6 +30402,14 @@ select {
 }
 
 @media (max-width: 360px) {
+    .latestForm_table .inner_table {
+        margin: 20px 0;
+    }
+    .login_formN h3 {
+        font-size: 28px;
+        line-height: 34px;
+        margin-bottom: 15px;
+    }
     .capablities_sec {
         padding-left: 5px;
         padding-right: 5px;
@@ -30584,7 +30677,7 @@ select {
     }
 
     .box-first {
-        margin-bottom: 10px;
+        margin-bottom: 0;
     }
 
     .newapps_sec2 .imeage_content {
@@ -31416,170 +31509,43 @@ select {
         top: 20px;
     }
 
-    .machine_slider {
-        gap: 15px;
-    }
-
-    .category_text ul h2 {
-        margin-left: 0;
-    }
-
-    .grid_sec12 {
-        grid-template-columns: 1fr;
-    }
-
-    .arrowRight {
-        margin: 0 5px;
-    }
-
-    .availFinance_box1 h4 {
-        font-size: 14px;
-        line-height: 18px;
-    }
-
-    .availFinance_box1 {
-        padding: 10px;
-    }
-
-    .category_text h2 {
-        font-size: 16px;
-        line-height: 21px;
-    }
-
-    .dotVideo figure {
-        width: 100%;
-        margin: 0 0 10px;
-    }
-
-        .dotVideo figure img {
-            height: 120px;
-            width: 100%;
-            object-fit: cover;
-        }
-
-    .videoContent {
-        padding-left: 0;
-        margin: 0 0 10px;
-    }
-
-        .videoContent h5 {
-            width: 100%;
-        }
-
-    .cookieAcceptBar {
-        max-width: 270px;
-    }
-
-    .machine_change_pwd .popup .popup-body {
-        padding: 15px;
-    }
-
-    .categories h3 {
-        font-size: 22px;
-        line-height: 30px;
-    }
-
-    .dealer_content {
-        margin-top: 40px;
-    }
-
-    .footer-play_store a {
-        padding: 10px 15px;
-    }
-
-    .user_profileM {
-        padding: 8px 10px;
-    }
-
-        .user_profileM a {
-            font-size: 14px;
-            line-height: 20px;
-        }
-
-    .newBrands_sec4 {
-        height: 230px;
-    }
-
-    .newNewsletter_btn {
-        margin-top: 18px;
-        height: 44px;
-    }
-
-    .newBrands_sec42 h3 {
-        font-size: 30px;
-        line-height: 23px;
-        margin-bottom: 18px;
-        /* padding-left: 52px; */
-    }
-
-        .newBrands_sec42 h3:before {
-            top: 1px;
-            width: 40px;
-            height: 21px;
-            left: -52px;
-        }
-
-    .newNewsletter_btn a {
-        padding: 12px 10px;
-        width: 95px;
-    }
-
-    .newNewsletter_btn input {
-        width: calc(100% - 95px);
-        padding: 12px 13px;
-    }
-
-    .about_sec5 h3 {
-        font-size: 22px;
-        line-height: 30px;
-        margin-bottom: 10px;
-        text-align: left;
-    }
+ .machine_slider { gap: 15px; }
+ .category_text ul h2 { margin-left: 0; }
+ .grid_sec12 { grid-template-columns: 1fr; }
+ .arrowRight { margin: 0 5px; }
+ .availFinance_box1 h4 { font-size: 14px; line-height: 18px; }
+ .availFinance_box1 { padding: 10px;}
+ .category_text h2 { font-size: 16px; line-height: 21px; }
+ .dotVideo figure { width: 100%; margin: 0 0 10px; }
+ .dotVideo figure img { height: 120px; width: 100%; object-fit: cover; }
+ .videoContent { padding-left: 0; margin: 0 0 10px; } .videoContent h5 {  width: 100%; }
+ .cookieAcceptBar { max-width: 270px; }
+ .machine_change_pwd .popup .popup-body { padding: 15px; }
+ .categories h3 { font-size: 22px; line-height: 30px; }
+ .dealer_content {  margin-top: 40px; }
+ .footer-play_store a { padding: 10px 15px; }
+ .user_profileM { padding: 8px 10px; }
+ .user_profileM a { font-size: 14px; line-height: 20px;  }
+ .newBrands_sec4 {  height: 230px; }
+.newNewsletter_btn {  margin-top: 18px; height: 44px; }
+ .newBrands_sec42 h3 { font-size: 30px; line-height: 23px;  margin-bottom: 18px;  /* padding-left: 52px; */ }
+ .newBrands_sec42 h3:before { top: 1px; width: 40px; height: 21px;  left: -52px; }
+ .newNewsletter_btn a { padding: 12px 10px; width: 95px; }
+ .newNewsletter_btn input { width: calc(100% - 95px); padding: 12px 13px; }
+ .about_sec5 h3 { font-size: 22px; line-height: 30px; margin-bottom: 10px; text-align: left; }
 }
 
 @media (max-width: 320px) {
-    .view_text .dropdown-menu {
-        top: 36px;
-        left: 50px;
+    .view_text .dropdown-menu { top: 36px; left: 50px; }
+    .view_text { flex-direction: column;  margin-bottom: 15px; }
+    .swiper_container .slider .outer_box { width: 72px; }
+    .category_sec .bannerInnerData h3 { font-size: 23px; line-height: 32px; }
+    .new_header .menu_list-border { padding: 0; min-width: unset; height: 36px;  border: 0; font-family: 'Montserrat-Regular'; font-size: 15px;  }
+    #div_masterLogin {  margin-top: 3px;}
+    .new_header #div_masterLogin span {  margin-left: 20px; }
+    .newBrands_sec42 h3 { font-size: 28px; line-height: 21px; }
+    .newBrands_sec4 { height: 250px; }
     }
-    .view_text {
-        flex-direction: column;
-        margin-bottom: 15px;
-    }
-    .swiper_container .slider .outer_box {
-        width: 72px;
-    }
-    .category_sec .bannerInnerData h3 {
-        font-size: 23px;
-        line-height: 32px;
-    }
-
-    .new_header .menu_list-border {
-        padding: 0;
-        min-width: unset;
-        height: 36px;
-        border: 0;
-        font-family: 'Montserrat-Regular';
-        font-size: 15px;
-    }
-
-    #div_masterLogin {
-        margin-top: 3px;
-    }
-
-    .new_header #div_masterLogin span {
-        margin-left: 20px;
-    }
-
-    .newBrands_sec42 h3 {
-        font-size: 28px;
-        line-height: 21px;
-    }
-
-    .newBrands_sec4 {
-        height: 250px;
-    }
-}
 /*============== MEDIA QUERY END ===============*/
 /* Animations */
 @-webkit-keyframes slideInLeft {
