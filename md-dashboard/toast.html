@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Machine Dalal | Toast</title>
+<meta name="description" content="Platform for the Print, Packaging & Converting Industry Professionals | Machine Dalal" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" type="image/ico" href="images/favicon.ico">
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+<link rel="stylesheet" href="css/style.bundle.css" type="text/css" />
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+<link rel="stylesheet" href="css/responsive.css" type="text/css" />
+</head>
+<body>
+  <!--====== TOAST SUCESS CODE BEGIN ======-->
+  <button onclick="sucessfunction()">Show Sucess Msg</button>
+  <div id="show_sucessToast" class="successful_msgT">
+    <p>You have successfully logged in!</p>
+  </div>
+  <!--======= TOAST SUCESS CODE END =======-->
+
+  <!--======= TOAST FAIL CODE BEGIN =======-->
+  <button onclick="failfunction()">Show Failed Toast</button>
+  <div id="show_failToast" class="failed_msgT">
+    <p>Session expired! please login again</p>
+  </div>
+  <!--======== TOAST FAIL CODE END ========-->
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.js"></script>
+  <!--======== TOAST SCRIPT START =========-->
+  <script>
+    function sucessfunction() {
+      var x1 = document.getElementById("show_sucessToast");
+      x1.classList.add('show');
+      setTimeout(function(){ x1.classList.remove('show'); }, 3000);
+    }
+  </script>
+
+  <script>
+    function failfunction() {
+      var x2 = document.getElementById("show_failToast");
+      x2.classList.add('show');
+      setTimeout(function(){ x2.classList.remove('show'); }, 3000);
+    }
+  </script>
+  <!--======= TOAST SCRIPT END =======-->
+</body>
+</html>
