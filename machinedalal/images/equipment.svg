@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2560" height="275" viewBox="0 0 2560 275">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_669" data-name="Rectangle 669" width="560" height="275" transform="translate(1960.198 69)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_670" data-name="Rectangle 670" width="567" height="275" transform="translate(0 50)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_8778" data-name="Group 8778" transform="translate(0 -64)">
+    <path id="Path_19128" data-name="Path 19128" d="M0,0H2560V274H0Z" transform="translate(0 65)" fill="#f2f2f2"/>
+    <g id="Mask_Group_39" data-name="Mask Group 39" transform="translate(19.802 -5)" clip-path="url(#clip-path)">
+      <g id="Group_127" data-name="Group 127" transform="translate(1979.4 -39.206)">
+        <rect id="shape_1" data-name="shape 1" width="217.694" height="217.694" rx="8" transform="translate(0 190.896) rotate(-45)" fill="#a2a2a2" opacity="0.094"/>
+        <rect id="shape_2" data-name="shape 2" width="217.694" height="217.694" rx="8" transform="translate(240.61 303.562) rotate(-45)" fill="#a2a2a2" opacity="0.064"/>
+        <rect id="shape_3" data-name="shape 3" width="103.118" height="103.118" rx="8" transform="translate(144.035 385.675) rotate(-45)" fill="#a2a2a2" opacity="0.064"/>
+        <rect id="shape_1-2" data-name="shape 1" width="105.804" height="105.804" rx="8" transform="translate(228.976 74.814) rotate(-45)" fill="#a2a2a2" opacity="0.094"/>
+        <rect id="shape_2-2" data-name="shape 2" width="105.804" height="105.804" rx="8" transform="translate(378.605 94.695) rotate(-45)" fill="#a2a2a2" opacity="0.064"/>
+      </g>
+    </g>
+    <g id="Mask_Group_40" data-name="Mask Group 40" transform="translate(0 14)" clip-path="url(#clip-path-2)">
+      <g id="Group_128" data-name="Group 128">
+        <rect id="shape_1-3" data-name="shape 1" width="229.451" height="229.451" rx="8" transform="translate(501 258.953) rotate(135)" fill="#a2a2a2" opacity="0.094"/>
+        <rect id="shape_2-3" data-name="shape 2" width="229.451" height="229.451" rx="8" transform="translate(247.396 140.202) rotate(135)" fill="#a2a2a2" opacity="0.064"/>
+        <rect id="shape_3-2" data-name="shape 3" width="108.688" height="108.688" rx="8" transform="translate(349.187 53.654) rotate(135)" fill="#a2a2a2" opacity="0.064"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="105" height="105" viewBox="0 0 105 105">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="105" height="105" transform="translate(344 56)" fill="#fff"/>
+    </clipPath>
+    <filter id="Path_116" x="-21.85" y="-24.083" width="152.349" height="152.349" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.282"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_171" data-name="Group 171" transform="translate(-38 -187)">
+    <g id="Group_170" data-name="Group 170">
+      <g id="Group_169" data-name="Group 169" transform="translate(-337 153)">
+        <g id="Mask_Group_20" data-name="Mask Group 20" transform="translate(31 -22)" clip-path="url(#clip-path)">
+          <g id="Group_156" data-name="Group 156" transform="translate(286 33)">
+            <g id="Group_126" data-name="Group 126">
+              <g transform="matrix(1, 0, 0, 1, 58, 23)" filter="url(#Path_116)">
+                <path id="Path_116-2" data-name="Path 116" d="M47.5,0A47.481,47.481,0,1,1,6.757,23.068,47.5,47.5,0,0,1,47.5,0Z" transform="translate(-11.85 49.09) rotate(-45)" fill="rgba(0,0,0,0.1)"/>
+              </g>
+            </g>
+            <g id="Group_127" data-name="Group 127">
+              <path id="Path_96" data-name="Path 96" d="M108.4,125.2A48.458,48.458,0,0,1,61.2,87.1a.765.765,0,0,1,1.5-.3,46.745,46.745,0,0,0,60.2,34.7.728.728,0,1,1,.4,1.4A49.375,49.375,0,0,1,108.4,125.2ZM140.2,113a1.421,1.421,0,0,1-.6-.2.713.713,0,0,1,.1-1.1A47,47,0,0,0,155.2,77v-.2a.773.773,0,0,1,.7-.8h0a.849.849,0,0,1,.8.7v.2a48.711,48.711,0,0,1-15.9,35.9A1.421,1.421,0,0,1,140.2,113ZM60.9,77.7a.773.773,0,0,1-.8-.7v-.1A48.494,48.494,0,0,1,76,41.1a.781.781,0,1,1,1,1.2A46.9,46.9,0,0,0,61.6,77C61.7,77.4,61.3,77.7,60.9,77.7Zm94-10.1a.661.661,0,0,1-.7-.6,46.951,46.951,0,0,0-45.7-36.9,47.928,47.928,0,0,0-14.6,2.3.728.728,0,1,1-.4-1.4,47.735,47.735,0,0,1,15.1-2.4,48.557,48.557,0,0,1,47.2,38,1.1,1.1,0,0,1-.9,1Z" fill="#000000"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="_" data-name="!" transform="translate(80 268)" fill="#000000" font-size="80" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">!</tspan></text>
+    </g>
+  </g>
+</svg>

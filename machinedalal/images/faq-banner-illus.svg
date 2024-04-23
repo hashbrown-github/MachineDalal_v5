@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="333.999" height="304.127" viewBox="0 0 333.999 304.127">
+  <g id="FAQ" transform="translate(39.702 -108.904)" opacity="0.895">
+    <g id="noun-question-mark-1375279" transform="matrix(0.848, 0.53, -0.53, 0.848, 89.612, 92.271)" opacity="0.14">
+      <g id="Group_72" data-name="Group 72" transform="translate(25.484 7.5)">
+        <path id="Path_446" data-name="Path 446" d="M107.464,959.863c-44.48,0-81.98,37.5-81.98,81.98a3.279,3.279,0,1,0,6.559,0c0-40.78,34.642-75.422,75.422-75.422s75.27,34.562,72.143,75.217v.1c-.795,17.481-5.664,28.517-12.5,37.2s-15.893,14.992-25.209,22.237c-18.632,14.491-37.711,33.3-37.711,81.672a3.279,3.279,0,1,0,6.559,0c0-46.719,16.889-62.347,35.149-76.549,9.13-7.1,18.726-13.7,26.336-23.364s13.092-22.4,13.937-40.991h-.1c3.363-44.559-34.155-82.083-78.6-82.083Z" transform="translate(-25.484 -959.862)" fill="#bababa" fill-rule="evenodd"/>
+        <path id="Path_447" data-name="Path 447" d="M50.471,1044.862h0" transform="translate(31.468 -766.128)" fill="#bababa" fill-rule="evenodd"/>
+        <path id="Path_448" data-name="Path 448" d="M56.662,1033.218a8.115,8.115,0,0,0-8.26,8.26c.075,5.041,3.7,7.891,8.26,8.26a8.26,8.26,0,0,0,0-16.52Z" transform="translate(26.753 -792.667)" fill="#bababa" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <line id="Line_51" data-name="Line 51" x2="237.974" transform="translate(10.528 333.608)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_52" data-name="Line 52" x2="237.974" transform="translate(10.528 185.247)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_53" data-name="Line 53" x2="126.301" transform="translate(167.996 266.853)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_54" data-name="Line 54" y2="229.541" transform="translate(245.03 154.402)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_55" data-name="Line 55" y2="227.307" transform="translate(167.912 108.904)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_56" data-name="Line 56" y2="227.307" transform="translate(90.794 185.724)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_57" data-name="Line 57" y2="227.307" transform="translate(13.676 159.111)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_58" data-name="Line 58" x2="130.301" transform="translate(-39.702 260.967)" fill="none" stroke="#fff" stroke-width="1"/>
+    <g id="noun-faq-1307669" transform="translate(89.398 219.661)">
+      <path id="Path_438" data-name="Path 438" d="M10.834,47.491a1.1,1.1,0,0,1-.464-.155.734.734,0,0,1-.309-.85l1.933-6.493C7.819,36.9,5.5,32.649,5.5,28.243,5.5,19.121,15.317,11.7,27.454,11.7s21.954,7.421,21.954,16.543a12.877,12.877,0,0,1-.464,3.4.8.8,0,0,1-.928.541.84.84,0,0,1-.541-.928,12.768,12.768,0,0,0,.387-2.937c0-8.271-9.122-15-20.408-15s-20.408,6.725-20.408,15c0,4.1,2.242,7.962,6.339,10.822a.843.843,0,0,1,.232,1L12.226,44.7,16.4,41.539a.732.732,0,0,1,.85-.232,25.292,25.292,0,0,0,8.812,1.933h1.314a.773.773,0,0,1,0,1.546H25.985A28.484,28.484,0,0,1,17.1,42.93l-5.8,4.406a1.1,1.1,0,0,1-.466.155Z" fill="#fff"/>
+      <path id="Path_440" data-name="Path 440" d="M32.742,34.454a.73.73,0,0,1-.773-.773,5.853,5.853,0,0,1,2.319-4.561l.155-.155a2.105,2.105,0,0,0,.7-1.623,2.4,2.4,0,1,0-4.793,0,.773.773,0,0,1-1.546,0,3.942,3.942,0,1,1,6.725,2.783l-.155.155a4.31,4.31,0,0,0-1.778,3.4A.843.843,0,0,1,32.742,34.454Z" transform="translate(-5.289 -2.656)" fill="#fff"/>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="1.005" cy="1.005" r="1.005" transform="translate(26.449 33.035)" fill="#fff"/>
+      <path id="Path_442" data-name="Path 442" d="M76.274,77.791a1.1,1.1,0,0,1-.464-.155L69.935,73.23a28.271,28.271,0,0,1-10.281,1.933C47.517,75.163,37.7,67.742,37.7,58.62S47.517,42,59.654,42s21.954,7.421,21.954,16.543c0,4.406-2.4,8.658-6.493,11.75l1.933,6.493a.734.734,0,0,1-.309.85,1.1,1.1,0,0,1-.465.155Zm-5.566-5.952,4.174,3.092-1.391-4.638a.716.716,0,0,1,.232-.928c4.1-2.86,6.339-6.725,6.339-10.822,0-8.271-9.122-15-20.408-15s-20.408,6.725-20.408,15,9.122,15,20.408,15a26.012,26.012,0,0,0,10.127-2.01.772.772,0,0,1,.927.306Z" transform="translate(-7.309 -6.877)" fill="#fff"/>
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="1.082" cy="1.082" r="1.082" transform="translate(51.263 56.922)" fill="#fff"/>
+      <path id="Path_444" data-name="Path 444" d="M65.873,64.859a.73.73,0,0,1-.773-.773V53.573a.773.773,0,1,1,1.546,0V64.086a.831.831,0,0,1-.773.773Z" transform="translate(-13.528 -9.329)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
