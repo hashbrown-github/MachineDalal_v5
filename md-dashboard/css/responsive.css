@@ -1,0 +1,490 @@
+@charset "UTF-8";
+/* CSS Document */
+@media (max-width: 1440px) {
+.formLogo img {
+    width: 55px;
+}
+}
+@media (max-width: 1366px) {
+.inner_content, .addNew_equip {
+    width: calc(33.33% - 13.34px);
+}
+.inner_content1 {
+    width: calc(33.33% - 13.34px);
+}
+.user_message {
+    max-width: 410px;
+}
+.coming_soon {
+    margin-bottom: 15px;
+}
+.coming_soon h4, .coming_soon h3 {
+    font-size: 80px;
+    line-height: 100px;
+}
+.coming_soon_box p {
+    margin-bottom: 20px;
+}
+.regFormInner .step { 
+    margin: 0 10px; 
+}
+.regFormInner .step p { 
+    font-size: 14px; 
+    line-height: 19px; 
+}
+.login_formN h3 {
+    font-size: 42px;
+    line-height: 52px;
+}
+}
+@media (max-width: 1280px) {
+.subscrip_table .table thead th {
+    font-size: 15px;
+    line-height: 20px;
+}
+.billing_sec1 .form-group {
+    margin-bottom: 15px;
+}
+.md_head div > img {
+    width: 170px;
+}
+}
+@media (max-width: 1199px) {
+.equip_not_found h4 {
+    font-size: 26px;
+    line-height: 34px;
+}
+.equip_not_found {
+    margin: 30px auto;
+}
+.sell_btn {
+    margin-top: 30px;
+}
+.equip_not_found p {
+    font-size: 20px;
+    line-height: 28px;
+}
+.chatBox_grid1 {
+    width: 40%;
+}
+.chatBox_grid12 {
+    width: 60%;
+}
+.regFormInner .step { 
+    margin: 0 5px; 
+}
+.subscrip_table {
+    overflow-x: auto;
+}
+.subscrip_table table {
+    min-width: 840px;
+}
+.latestForm_table {
+    width: 100%;
+    padding: 60px 20px;
+    padding-top: 110px;
+}
+.signup_links ul li {
+    padding: 10px 15px;
+}
+.login_formN h3 {
+    font-size: 40px;
+    line-height: 50px;
+}
+}
+@media (max-width: 1100px) {
+.stock_list1 {
+    flex-direction: column-reverse;
+    gap: 15px;
+}
+.coming_soon_box {
+    height: 400px;
+}
+.coming_soon h4, .coming_soon h3 {
+    font-size: 70px;
+    line-height: 80px;
+}
+}
+@media (max-width: 1024px) {
+.latestForm_table {
+    padding: 60px 20px;
+    padding-top: 110px;
+}
+}
+@media (max-width: 992px) {
+.m-header--fixed .m-header {
+    display: block;
+}
+.md_mainContent {
+    padding-top: 0;
+}
+.m-body .m-wrapper {
+    margin-left: 0;
+    width: 100%;
+}
+.m-body .savoline_sidebar.md_mainSidebar {
+    box-shadow: 13px 0 20px rgb(0 0 0 / 23%);
+    -webkit-box-shadow: 13px 0 20px rgb(0 0 0 / 23%);
+    -moz-box-shadow: 13px 0 20px rgb(0 0 0 / 23%);
+}
+.md_mainSidebar.open {
+    left: 0;
+}
+.regFormInner .step { 
+    margin: 0 5px; 
+    max-width: 210px; 
+}
+.tabInner .form-group .col-xl-3.col-lg-3 label { 
+    margin-top: 0; 
+}
+}
+@media (max-width: 900px) {
+.signup_links ul li {
+    padding: 10px 12px;
+    margin: 0 5px;
+}
+.signup_links ul li .social_links {
+    margin-right: 8px;
+}
+}
+@media (max-width: 767px) {
+.inner_content {
+    padding: 15px;
+}
+.md_head {
+    margin-bottom: 20px;
+}
+.md_filters_box {
+    gap: 12px;
+}
+.md_filters_box1 {
+    width: calc(100% - 118px);
+}
+.md_filters_box2 {
+    width: 106px;
+}
+.md_head div > img {
+    width: 160px;
+}
+.list-scroll {
+    overflow-x: auto;
+}
+.list-table {
+    width: 800px;
+}
+.coming_soon h4, .coming_soon h3 {
+    font-size: 60px;
+    line-height: 70px;
+}
+.coming_soon_box p {
+    font-size: 17px;
+    line-height: 22px;
+}
+.regFormInner .step {
+    max-width: unset;
+    width: calc(33.33% - 13.33px);
+    margin: 0;
+}
+.tabInner .removeBtn { 
+    margin: 0 0 20px; 
+}
+.lacation p {
+    left: 9px;
+    width: calc(100% - 40px);
+}
+.sparePartsInner .form-group label {
+    margin-bottom: 7px;
+}
+.specialFeat_list {
+    margin-left: -15px;
+}
+.lacation p {
+    width: calc(100% - 60px);
+}
+.nextCustom {
+    padding: 30px 0 0;
+    margin-top: 10px;
+}
+.regFormInner .step svg {
+    height: 45px !important;
+    width: 45px !important;
+}
+.regFormInner .all-steps {
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.tabMain {
+    padding: 30px 0 0;
+}
+.authentication_sc > .row {
+    flex-direction:column-reverse;
+    position: relative;
+}
+.login_image {
+    min-height: 350px;
+    height: 350px;
+}
+.table_image img {
+    width: 80%;
+}
+.login_formN, .authentication_sc .row .col-12 {
+    position: unset;
+}
+.login_formN h3 {
+    font-size: 38px;
+    line-height: 48px;
+}
+.formLogo {
+    top: 3%;
+    left: 3.2%;
+    z-index: 9;
+}
+.latestForm_table {
+    padding: 40px 30px;
+    max-width: 520px;
+}
+.signup_links ul li {
+    padding: 10px 18px;
+    margin: 0 8px;
+}
+}
+@media (max-width: 700px) {
+.equip_not_found p > br {
+    display: none;
+}
+.inner_content, .inner_content1, .addNew_equip {
+    width: calc(50% - 10px);
+}
+.chatBox_grid {
+    flex-direction: column;
+}
+.chatBox_grid1, .chatBox_grid12 {
+    width: 100%;
+}
+.offerbox_grid .chatBox_sec2 {
+    height: 440px;
+    overflow-y: auto;
+}
+}
+@media (max-width: 576px) {
+.m-body .m-content {
+    padding: 20px 15px;
+}
+.md_head div > img {
+    display: none;
+}
+.inner_content, .inner_content1, .addNew_equip {
+    width: 100%;
+}
+.coming_soon h4, .coming_soon h3 {
+    font-size: 40px;
+    line-height: 55px;
+}
+.coming_soon_box {
+    max-width: 400px;
+    margin: 0 auto;
+}
+.coming_soon {
+    margin-bottom: 10px;
+}
+.coming_soon_box p span {
+    display: inline;
+}
+.main_form {
+    width: 100%;
+}
+.coming_soon_form {
+    width: calc(100% - 135px);
+}
+.coming_soon_form input {
+    width: 100%;
+}
+.subscriptionSec1 {
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+.subscriptionSec2 {
+    margin-bottom: 20px;
+}
+.billing_details {
+    padding-top: 20px;
+}
+.billing_details h5 {
+    margin-bottom: 15px;
+}
+.newProfile_sec0 {
+    top: 15px;
+    right: 15px;
+}
+.orForm {
+    margin: 0 0 15px;
+}
+.mxs-20 {
+    margin-bottom: 12px;
+}
+.chatBox_grid12 {
+    padding: 15px;
+}
+.newProfile_sec {
+    margin-top: 20px;
+}
+.section_2, .section_1 {
+    padding: 15px;
+}
+.section_1 img {
+    width: 40px;
+    height: 40px;
+}
+.profileBtn {
+    margin-top: 20px;
+}
+.imeage_sec {
+    margin: 30px 0;
+}
+.latestForm_table {
+    padding: 30px 20px;
+}
+}
+@media (max-width: 480px) {
+.eikaebana-logo img {
+    width: 160px;
+}
+.m-aside-left {
+    width: 260px;
+    padding: 15px;
+}
+.m-stack.m-stack--general {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+.equip_not_found h4 {
+    font-size: 24px;
+    line-height: 32px;
+}
+.equip_not_found {
+    margin: 10px auto;
+}
+.sell_btn {
+    margin-top: 20px;
+}
+.equip_not_found p {
+    font-size: 18px;
+    line-height: 24px;
+}
+.sell_btn > a {
+    flex-shrink: 0;
+}
+.md_filters_box1 {
+    width: calc(100% - 80px);
+    gap: 10px;
+}
+.md_filters_box2 {
+    width: 80px;
+}
+.coming_soon_box {
+    height: 300px;
+}
+.coming_soon_form input {
+    padding: 9px 20px;
+}
+.subscribe_btn a {
+    padding: 10px 20px;
+}
+.main_form {
+    gap: 10px;
+}
+.formInner { 
+    display: block; 
+}
+.specialFeat_list li { 
+    width: 100%; 
+}
+.regFormInner .step {
+    width: calc(50% - 10px);
+}
+.login_image {
+    min-height: 260px;
+    height: 260px;
+}
+.latestForm_table .inner_table {
+    margin: 30px 0;
+}
+.formLogo img {
+    width: 45px;
+}
+.latestForm_table {
+    padding: 30px 15px;
+}
+.login_formN h3 {
+    font-size: 36px;
+    line-height: 35px;
+    margin-bottom: 10px;
+}
+.signup_links ul li {
+    padding: 10px 13px;
+    margin: 0 4px;
+}
+}
+@media (max-width: 400px) {
+.login_image {
+    min-height: 230px;
+    height: 230px;
+}
+}
+@media (max-width: 375px) {
+.yearFirst { 
+    display: block;
+}
+.year .form-control {
+    margin: 10px 0;
+    display: inline-block;
+    width: 100%;
+}
+.signup_links ul {
+    flex-direction: column;
+    gap: 15px;
+}
+.signup_links ul li {
+    width: 100%;
+    margin: 0;
+}
+.login_image {
+    min-height: 200px;
+    height: 200px;
+}
+.formLogo {
+    top: 2%;
+}
+.formLogo img {
+    width: 40px;
+}
+.signinBody_2 {
+    margin-top: 20px;
+    margin-bottom: 18px;
+}
+.inner_table .input_fields input, .inner_table .input_fields select {
+    padding: 12px;
+}
+}
+@media (max-width: 360px) {
+.main_form {
+    flex-direction: column;
+    align-items: stretch;
+}
+.coming_soon_form, .subscribe_btn a {
+    width: 100%;
+}
+.tabOuter h3 {
+    font-size: 18px;
+    line-height: 24px;
+    margin: 0 0 10px;
+}
+.login_formN h3 {
+    font-size: 32px;
+    line-height: 32px;
+}
+.latestForm_table .inner_table {
+    margin: 20px 0;
+}
+}
