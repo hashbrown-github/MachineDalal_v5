@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="229.106" viewBox="0 0 330 229.106">
+  <g id="Apps" transform="translate(-38.597 -163.749)">
+    <line id="Line_32" data-name="Line 32" x2="274.8" transform="translate(38.597 191.187)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_33" data-name="Line 33" x2="160" transform="translate(38.597 277.514)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_34" data-name="Line 34" x2="278.628" transform="translate(89.969 356.581)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_35" data-name="Line 35" y2="226.105" transform="translate(158.728 163.749)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_36" data-name="Line 36" y2="76.063" transform="translate(229.482 163.749)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_37" data-name="Line 37" y2="224.915" transform="translate(296.235 164.526)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_38" data-name="Line 38" y2="224.915" transform="translate(89.975 163.749)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_149" data-name="Line 149" y2="69.043" transform="translate(229.482 323.812)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_150" data-name="Line 150" x2="108" transform="translate(260.597 277.514)" fill="none" stroke="#fff" stroke-width="1"/>
+    <g id="noun-apps-4261951" transform="translate(206.763 265.641)">
+      <path id="Path_425" data-name="Path 425" d="M3.532-17.25V49.841H42.6V-17.25ZM41.586,48.83H4.543V-16.239H41.586Z" fill="#fff"/>
+      <path id="Path_426" data-name="Path 426" d="M30.972,69.29a3.162,3.162,0,1,0,3.162,3.162,3.162,3.162,0,0,0-3.162-3.162Zm0,5.314a2.151,2.151,0,1,1,2.151-2.151A2.151,2.151,0,0,1,30.972,74.6Z" transform="translate(-7.908 -31.188)" fill="#fff"/>
+      <rect id="Rectangle_5003" data-name="Rectangle 5003" width="12.341" height="1.011" transform="translate(16.894 -12.55)" fill="#fff"/>
+    </g>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="4.5" cy="4.5" r="4.5" transform="translate(325.097 230.812)" fill="#adadad"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="8.5" cy="8.5" r="8.5" transform="translate(58.097 301.812)" fill="#adadad"/>
+  </g>
+</svg>
