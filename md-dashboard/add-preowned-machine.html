@@ -46,7 +46,7 @@
                   <h4><span>S</span><span>Shortlist</span></h4>
                 </a>
               </li>
-              <li class="m-menu__item sidebar_list"> 
+              <li class="m-menu__item sidebar_list pb-0"> 
                 <a href="recommendations-grid-view.html" class="m-menu__link"> 
                   <h4><span>R</span><span>Recommendations</span></h4>
                 </a>
@@ -64,11 +64,31 @@
           </div>
           <div class="sidebar_menuList sidebar_menuList2">
             <h3><span class="material-symbols-outlined">business_center</span><span>Business Unlimited</span></h3>
-            <ul class="m-menu__nav stockList_nav">
-              <li class="m-menu__item sidebar_list"> 
-                <a href="coming-soon.html" class="m-menu__link active"> 
-                  <h4><span>M</span><span>Machinery & Equipment</span></h4>
-                </a>
+            <ul class="m-menu__nav stockList_nav stockList_nav2">
+              <li class="m-menu__item sidebar_list">
+                <span class="m-menu__link active"><h4><span>M</span><span>Machinery & Equipment</span></h4></span>
+                <ul class="m-menu__nav stockList_nav mt-0">
+                  <li class="m-menu__item sidebar_list pb-0">
+                    <a href="machine-and-equipment.html" class="m-menu__link"> 
+                      <h4><span>A</span><span>Active</span></h4>
+                    </a>
+                  </li>
+                  <li class="m-menu__item sidebar_list pb-0">
+                    <a href="machine-and-equipment.html" class="m-menu__link"> 
+                      <h4><span>D</span><span>Drafts</span></h4>
+                    </a>
+                  </li>
+                  <li class="m-menu__item sidebar_list pb-0">
+                    <a href="machine-and-equipment.html" class="m-menu__link"> 
+                      <h4><span>D</span><span>Deleted</span></h4>
+                    </a>
+                  </li>
+                  <li class="m-menu__item sidebar_list pb-0">
+                    <a href="machine-and-equipment.html" class="m-menu__link"> 
+                      <h4><span>S</span><span>Sold</span></h4>
+                    </a>
+                  </li>
+                </ul>
               </li>
               <li class="m-menu__item sidebar_list"> 
                 <a href="coming-soon.html" class="m-menu__link"> 
@@ -176,8 +196,16 @@
           <div class="main_contentBox">
             <div class="md_head">
               <div>
-                <h3>Stocklist</h3>
-                <p><span>Console</span><span class="arrowRight">&gt;</span><span>Stocklist</span><span class="arrowRight">&gt;</span><span class="mac_brand">Preowned Machine</span></p>
+                <h3>Add Preowned Machine</h3>
+                <p>
+                  <span>Console</span>
+                  <span class="arrowRight">&gt;</span>
+                  <span>Business Unlimited</span>
+                  <span class="arrowRight">&gt;</span>
+                  <span><a href="machine-and-equipment.html">Machinery & Equipment</a></span>
+                  <span class="arrowRight">&gt;</span>
+                  <span class="mac_brand">Add Preowned Machine</span>
+                </p>
               </div>
               <div><img src="images/console-sign.svg" alt="Console Sign" /></div>
             </div>
@@ -186,7 +214,7 @@
               <div class="regFormMain">
                 <div id="regForm" class="regFormInner addsteps_box">
                   <div class="all-steps addsteps_head" id="all-steps"> 
-                    <span class="step">
+                    <span class="step active">
                       <div class="steps_images">
                         <img src="images/step-1.svg" class="dark_img" alt="" />
                         <img src="images/step-11.svg" class="light_img" alt="" />
@@ -199,22 +227,22 @@
                         <img src="images/step-22.svg" class="light_img" alt="" />
                       </div>
                       <p>2. Make, Model, Year & Specifications</p>
-                    </span> 
+                    </span>
                     <span class="step">
                       <div class="steps_images">
                         <img src="images/step-3.svg" class="dark_img" alt="" />
                         <img src="images/step-32.svg" class="light_img" alt="" />
                       </div>
                       <p>3. Availability, Condition, Price, Location & Description</p>
-                    </span> 
+                    </span>
                     <span class="step">
                       <div class="steps_images">
                         <img src="images/step-4.svg" class="dark_img" alt="" />
                         <img src="images/step-42.svg" class="light_img" alt="" />
                       </div>
-                      <p>4. Add Special Features</p>
+                      <p>4. Special Features</p>
                     </span>
-                    <span class="step active">
+                    <span class="step">
                       <div class="steps_images">
                         <img src="images/step-5.svg" class="dark_img" alt="" />
                         <img src="images/step-52.svg" class="light_img" alt="" />
@@ -253,7 +281,8 @@
                             </div>
                             <div class="addsteps_11">
                               <h3>Search Category</h3>
-                              <div class="grey_box">
+                              <div class="grey_box errordiv">
+                                <p class="errortext">This field is required!</p>
                                 <input type="text" placeholder="Search Machine or Category" />
                                 <span class="material-symbols-outlined">search</span>
                               </div>
@@ -262,7 +291,9 @@
                               <div class="addsteps_11 mb-0">
                                 <h3>OR</h3>
                                 <div class="addsteps_121">
-                                  <button class="grey_box" type="button" data-bs-toggle="collapse" data-bs-target="#selMac_cat" aria-expanded="true" aria-controls="selMac_cat">Select Machine Category<span class="material-symbols-outlined">expand_less</span></button>
+                                  <button class="grey_box errordiv" type="button" data-bs-toggle="collapse" data-bs-target="#selMac_cat" aria-expanded="true" aria-controls="selMac_cat">
+                                  <p class="errortext">This field is required!</p>
+                                  Select Machine Category<span class="material-symbols-outlined">expand_less</span></button>
                                   <div class="collapse show" id="selMac_cat">
                                     <div class="card card-body">
                                       <ul class="main_category">
@@ -584,6 +615,90 @@
                               </div>
                             </div>
                             <div class="addsteps_11">
+                              <h3>Sheet Size</h3>
+                              <div class="addsteps_121">
+                                <button class="grey_box" type="button" data-bs-toggle="collapse" data-bs-target="#macSheetsize" aria-expanded="true" aria-controls="macSheetsize">Select Sheet Size<span class="material-symbols-outlined">expand_less</span></button>
+                                <div class="collapse show" id="macSheetsize">
+                                  <div class="card card-body">
+                                    <ul id="Sheetsize" class="sub_category ps-0 mt-0">
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                              </div>
+                              <div class="addsteps_11">
+                                <h3>Color</h3>
+                                <div class="addsteps_121">
+                                  <button class="grey_box" type="button" data-bs-toggle="collapse" data-bs-target="#macColorUnits" aria-expanded="true" aria-controls="macColorUnits">Select Color<span class="material-symbols-outlined">expand_less</span></button>
+                                  <div class="collapse show" id="macColorUnits">
+                                    <div class="card card-body">
+                                      <ul id="ColorUnits" class="sub_category ps-0 mt-0">
+                                        <li>
+                                          <h5>
+                                            <a class="unit" id="1" href="#">1</a>
+                                          </h5>
+                                        </li>
+                                        <li>
+                                          <h5>
+                                            <a class="unit" id="2" href="#">2</a>
+                                          </h5>
+                                        </li>
+                                        <li>
+                                          <h5>
+                                            <a class="unit" id="3" href="#">3</a>
+                                          </h5>
+                                        </li>
+                                        <li>
+                                          <h5>
+                                            <a class="unit" id="4" href="#">4</a>
+                                          </h5>
+                                        </li>
+                                        <li>
+                                          <h5>
+                                            <a class="unit" id="5" href="#">5</a>
+                                          </h5>
+                                        </li>
+                                        <li>
+                                          <h5>
+                                            <a class="unit" id="6" href="#">6</a>
+                                          </h5>
+                                        </li>
+                                        <li>
+                                          <h5>
+                                            <a class="unit" id="7" href="#">7</a>
+                                          </h5>
+                                        </li>
+                                        <li>
+                                          <h5>
+                                            <a class="unit" id="8" href="#">8</a>
+                                          </h5>
+                                        </li>
+                                        <li>
+                                          <h5>
+                                            <a class="unit" id="9" href="#">9</a>
+                                          </h5>
+                                        </li>
+                                        <li>
+                                          <h5>
+                                            <a class="unit" id="10" href="#">10</a>
+                                          </h5>
+                                        </li>
+                                        <li>
+                                          <h5>
+                                            <a class="unit" id="11" href="#">11</a>
+                                          </h5>
+                                        </li>
+                                        <li>
+                                          <h5>
+                                            <a class="unit" id="12" href="#">12</a>
+                                          </h5>
+                                        </li>
+                                      </ul>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            <div class="addsteps_11">
                               <h3>Price Type
                                 <span>On Requested
                                   <label class="m-checkbox m-checkbox--solid m-checkbox--single m-checkbox--brand m-0">
@@ -698,10 +813,24 @@
                                   <p>Drop your files here or <span>Browse</span> it in your PC</p>
                                   <p>Permitted Format: MP4</p>
                                 </a>
-                                <input type="file" id="pro-video" name="pro-video" style="display: none;" multiple />
+                                <input type="file" id="pro-video" name="pro-video" accept="video/mp4" style="display: none;" multiple />
                               </div>
                             </div>
-                            <div class="addsteps_11">
+                            <div class="addsteps_11 mb-0">
+                              <div class="addsteps_15">
+                                 <div class="preview-videos-zone">
+                                  <div class="preview-video preview-video-show-1">
+                                    <div class="video-cancel" data-no="1"><span class="material-symbols-outlined">close</span></div>
+                                    <div class="video-zone">
+                                      <video width="100%" height="100%" controls disablePictureInPicture controlsList="nodownload noplaybackrate nofullscreen playsinline">
+                                        <source type="video/mp4" id="pro-video-4" src="images/video.mp4">
+                                      </video>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="addsteps_11 mt-10">
                               <h3>Upload Images</h3>
                               <div class="addsteps_14">
                                 <a href="javascript:void(0)" onclick="$('#pro-image').click()">
@@ -709,7 +838,7 @@
                                   <p>Drag & drop your file here or Click to <span>upload</span></p>
                                   <p>Permitted Format: JPEG, PNG</p>
                                 </a>
-                                <input type="file" id="pro-image" name="pro-image" style="display: none;" multiple />
+                                <input type="file" id="pro-image" name="pro-image" accept="image/jpeg, image/png" style="display: none;" multiple />
                               </div>
                             </div>
                             <div class="addsteps_11 mb-0">
@@ -740,16 +869,6 @@
                                     </div>
                                   </div>
                                 </div>
-                                <div class="preview-videos-zone">
-                                  <div class="preview-video preview-video-show-1">
-                                    <div class="video-cancel" data-no="1"><span class="material-symbols-outlined">close</span></div>
-                                    <div class="video-zone">
-                                      <video width="100%" height="100%" controls disablePictureInPicture controlsList="nodownload noplaybackrate nofullscreen playsinline">
-                                        <source type="video/mp4" id="pro-video-4" src="images/video.mp4">
-                                      </video>
-                                    </div>
-                                  </div>
-                                </div>
                               </div>
                             </div>
                           </div>
@@ -759,49 +878,17 @@
                     </div>
                     <div class="addsteps_footer" id="nextprevious">
                       <div class="nextCustom"> 
-                        <button type="button" class="bordered_btn" id="prevBtn" onclick="nextPrev(-1)">Previous Step</button>
+                        <a href="machine-preview.html" target="_blank" class="bordered_btn" id="previewBtn" style="display: none;">Preview</a>
+                        <button type="button" class="bordered_btn" id="prevBtn" onclick="nextPrev(-1)" style="display: none;">Previous Step</button>
                         <button type="button" id="nextBtn" onclick="nextPrev(1)">Next Step</button>
                       </div>
+                      <button type="button" class="blue_btn" id="saveAsDraft" style="display: none;">Save as Draft</button>
                     </div>
-                    <!--======== MALE PAYMENT POPUP START =========-->
-                    <div class="modal fade requestOffer_form latest_model makePayment" id="makePayment" tabindex="-1" aria-labelledby="makePayment_ModalLabel" aria-hidden="true">
-                      <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                          <div class="modal-header">
-                            <button type="button" class="close p-0 m-0" data-bs-dismiss="modal" aria-label="Close">
-                              <span aria-hidden="true">&times;</span>
-                            </button>
-                          </div>
-                          <div class="modal-body">
-                            <p>Please make a one-time payment of 9$ to list your machine for sale.</p>
-                            <a href="#" data-bs-dismiss="modal" data-bs-toggle="modal" data-bs-target="#reqSubmited">Make Payment</a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--========= MALE PAYMENT POPUP END ==========-->
-                    <!--======== REQUEST SEND POPUP START =========-->
-                    <div class="modal fade requestOffer_form latest_model makePayment" id="reqSubmited" tabindex="-1" aria-labelledby="reqSubmited_ModalLabel" aria-hidden="true">
-                      <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                          <div class="modal-header">
-                            <button type="button" class="close p-0 m-0" data-bs-dismiss="modal" aria-label="Close">
-                              <span aria-hidden="true">&times;</span>
-                            </button>
-                          </div>
-                          <div class="modal-body">
-                            <p>Your Machinery for Sale request has been submitted. Kindly check your inbox and notifications for details.</p>
-                            <a href="#" data-bs-dismiss="modal">OK</a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--========= REQUEST SEND POPUP END ==========-->
                   </div>
                 </div>
-                <!-- END Data -->
               </div>
             </div>
+            <!-- END Data -->
           </div>
         </div>
         <div class="dashboard_footer">
@@ -813,8 +900,7 @@
     </div>
   </div>
 <script src="js/jquery.min.js" type="text/javascript"></script> 
-<script src="js/bootstrap.min.js" type="text/javascript"></script> 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="js/bootstrap.min.js" type="text/javascript"></script>
 <script>
 	$('.nav-link').on('click', function (e) {
   e.preventDefault();
@@ -916,21 +1002,27 @@ function showTab(n) {
     x[n].style.display = "block";
     
     if (n == 0) {
-        document.getElementById("prevBtn").style.display = "none";
+      document.getElementById("prevBtn").style.display = "none";
+      document.getElementById("previewBtn").style.display = "none";
+      document.getElementById("saveAsDraft").style.display = "none";
     } 
     else {
-        document.getElementById("prevBtn").style.display = "inline";
+      document.getElementById("prevBtn").style.display = "inline";
+      document.getElementById("previewBtn").style.display = "none";
+      document.getElementById("saveAsDraft").style.display = "none";
     }
     if (n == (x.length - 1)) {
-      nextbtn.setAttribute("data-bs-toggle" , "modal");
-      nextbtn.setAttribute("data-bs-target" , "#makePayment");
+      /* nextbtn.setAttribute("data-bs-toggle" , "modal");
+      nextbtn.setAttribute("data-bs-target" , "#makePayment"); */
+      document.getElementById("previewBtn").style.display = "inline";
+      document.getElementById("saveAsDraft").style.display = "block";
       nextbtn.removeAttribute("onclick");
       nextbtn.innerHTML = "Save & Exit";
     } 
     else {
       nextbtn.innerHTML = "Next Step";
-      nextbtn.removeAttribute("data-bs-toggle");
-      nextbtn.removeAttribute("data-bs-target");
+      /* nextbtn.removeAttribute("data-bs-toggle");
+      nextbtn.removeAttribute("data-bs-target"); */
       nextbtn.setAttribute("onclick" , "nextPrev(1)");
     }
     fixStepIndicator(n)
@@ -975,7 +1067,6 @@ function fixStepIndicator(n) {
     x[n].className += " active";
 }
 </script>
-
 <!--======== SIDEBAR HIDE/SHOW SCRIPT BEGIN =========-->
 <script>
   document.querySelector('.show_sideBar').addEventListener('click', function(event) {

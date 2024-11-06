@@ -4,6 +4,10 @@
 .formLogo img {
     width: 55px;
 }
+.bottom_text p {
+    padding-left: 25px;
+    width: 88%;
+}
 }
 @media (max-width: 1366px) {
 .inner_content, .addNew_equip {
